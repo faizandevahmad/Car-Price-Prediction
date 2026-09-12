@@ -24,6 +24,7 @@ from .data_generator import (
     FUEL_TYPES,
     MAKES_MODELS,
     TRANSMISSIONS,
+    USD_TO_PKR,
     generate_dataset,
 )
 
@@ -182,7 +183,7 @@ class FarePulseService:
     def _advice(self, price: float, features: Dict[str, Any], confidence: float) -> str:
         age = 2026 - int(features["year"])
         bits = [
-            f"Estimated market value is about ${price:,.0f}.",
+            f"Estimated market value is about Rs {price:,.0f}.",
         ]
         if features.get("accident_history"):
             bits.append("Accident history typically pulls offers lower—price carefully.")
@@ -205,7 +206,8 @@ class FarePulseService:
             raise RuntimeError("Model is not trained yet.")
         frame = self._features_to_frame(features)
         pred = float(self.pipeline.predict(frame)[0])
-        pred = max(800.0, pred)
+        min_price = 800.0 * USD_TO_PKR
+        pred = max(min_price, pred)
 
         # Confidence from residual MAE relative to prediction
         mae = float(self.meta.get("metrics", {}).get("mae", pred * 0.12))
@@ -214,9 +216,9 @@ class FarePulseService:
 
         return {
             "predicted_price": round(pred, 2),
-            "price_low": round(max(500.0, pred - band), 2),
+            "price_low": round(max(500.0 * USD_TO_PKR, pred - band), 2),
             "price_high": round(pred + band, 2),
-            "currency": "USD",
+            "currency": "PKR",
             "confidence": round(confidence, 3),
             "advice": self._advice(pred, features, confidence),
             "model_version": int(self.meta.get("model_version", 1)),

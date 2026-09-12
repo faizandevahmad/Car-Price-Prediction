@@ -1,6 +1,6 @@
 # FarePulse
 
-Used-car market price intelligence: train on a dataset, predict from vehicle details, then **fine-tune live** when users submit real sale prices.
+Used-car market price intelligence (prices in **PKR**, rate **1 USD = 278 PKR**): train on a dataset, predict from vehicle details, then **fine-tune live** when users submit real sale prices.
 
 ## What it does
 

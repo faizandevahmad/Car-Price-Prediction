@@ -19,7 +19,7 @@ class PredictionResponse(BaseModel):
     predicted_price: float
     price_low: float
     price_high: float
-    currency: str = "USD"
+    currency: str = "PKR"
     confidence: float
     advice: str
     model_version: int
@@ -28,7 +28,7 @@ class PredictionResponse(BaseModel):
 
 class FeedbackRequest(BaseModel):
     features: CarFeatures
-    actual_price: float = Field(..., ge=500, le=200000)
+    actual_price: float = Field(..., ge=139_000, le=55_600_000, description="Sale price in PKR")
     notes: Optional[str] = None
 
 

@@ -8,8 +8,31 @@ import {
   type PredictionResponse,
 } from "./api";
 
-const money = (n: number) =>
-  n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+/** Format PKR for display using lac / crore (UI only; values stay numeric underneath). */
+function money(n: number): string {
+  if (!Number.isFinite(n)) return "—";
+  const sign = n < 0 ? "-" : "";
+  const abs = Math.abs(n);
+
+  const trim = (value: number) => {
+    const fixed = value >= 100 ? value.toFixed(0) : value >= 10 ? value.toFixed(1) : value.toFixed(2);
+    return fixed.replace(/\.0+$/, "").replace(/(\.\d)0$/, "$1");
+  };
+
+  if (abs >= 10_000_000) {
+    return `${sign}Rs ${trim(abs / 10_000_000)} crore`;
+  }
+  if (abs >= 100_000) {
+    return `${sign}Rs ${trim(abs / 100_000)} lac`;
+  }
+  return `${sign}Rs ${Math.round(abs).toLocaleString("en-PK")}`;
+}
+
+/** Exact PKR with Pakistani-style grouping, e.g. Rs 35,45,313 */
+function moneyExact(n: number): string {
+  if (!Number.isFinite(n)) return "—";
+  return `Rs ${Math.round(n).toLocaleString("en-IN")}`;
+}
 
 const defaultForm = (info?: ModelInfo | null): CarFeatures => ({
   make: info?.makes?.[0] ?? "Toyota",
@@ -99,8 +122,8 @@ export default function App() {
   async function onFineTune(e: FormEvent) {
     e.preventDefault();
     const price = Number(actualPrice);
-    if (!Number.isFinite(price) || price < 500) {
-      setError("Enter a valid actual sale price (at least $500).");
+    if (!Number.isFinite(price) || price < 139_000) {
+      setError("Enter a valid actual sale price (at least Rs 139,000).");
       return;
     }
     setError(null);
@@ -284,6 +307,7 @@ export default function App() {
           ) : (
             <>
               <p className="price">{money(prediction.predicted_price)}</p>
+              <p className="price-exact">{moneyExact(prediction.predicted_price)}</p>
               <p className="range">
                 Likely range {money(prediction.price_low)} – {money(prediction.price_high)}
               </p>
@@ -320,14 +344,14 @@ export default function App() {
           </p>
           <form className="tune-form" onSubmit={onFineTune}>
             <label>
-              Actual price (USD)
+              Actual price (PKR)
               <input
                 type="number"
-                min={500}
-                step={100}
+                min={139000}
+                step={10000}
                 value={actualPrice}
                 onChange={(e) => setActualPrice(e.target.value)}
-                placeholder="e.g. 18500"
+                placeholder="e.g. 5143000"
                 required
               />
             </label>

@@ -5,6 +5,9 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
+# Display and training currency: Pakistani Rupees (1 USD = 278 PKR)
+USD_TO_PKR = 278
+
 MAKES_MODELS = {
     "Toyota": ["Camry", "Corolla", "RAV4", "Highlander", "Prius"],
     "Honda": ["Civic", "Accord", "CR-V", "Pilot", "Fit"],
@@ -171,7 +174,7 @@ def generate_dataset(n_samples: int = 2500, seed: int = 42) -> pd.DataFrame:
             price *= 0.78
         price *= max(0.7, 1.0 - (owners - 1) * 0.045)
         price *= float(rng.normal(1.0, 0.06))
-        price = float(np.clip(price, 1200, 160_000))
+        price = float(np.clip(price, 1200, 160_000)) * USD_TO_PKR
 
         rows.append(
             {

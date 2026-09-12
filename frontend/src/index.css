@@ -315,6 +315,12 @@ button:not(:disabled):hover {
   animation: pulse-soft 2.8s ease-in-out infinite;
 }
 
+.price-exact {
+  margin: 0.15rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .range {
   margin: 0.15rem 0 0;
   color: var(--muted);

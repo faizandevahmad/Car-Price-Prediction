@@ -1,12 +1,12 @@
 {
-  "model_version": 10,
-  "samples_used": 2527,
+  "model_version": 11,
+  "samples_used": 2500,
   "metrics": {
-    "mae": 1706.82,
-    "rmse": 5018.93,
-    "r2": 0.857
+    "mae": 408143.53,
+    "rmse": 684034.58,
+    "r2": 0.97
   },
-  "last_trained_at": "2026-09-12T17:56:01.786365+00:00",
+  "last_trained_at": "2026-09-12T18:20:18.289548+00:00",
   "feature_names": [
     "make",
     "model",
