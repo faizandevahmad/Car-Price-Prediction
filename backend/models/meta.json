@@ -1,0 +1,23 @@
+{
+  "model_version": 10,
+  "samples_used": 2527,
+  "metrics": {
+    "mae": 1706.82,
+    "rmse": 5018.93,
+    "r2": 0.857
+  },
+  "last_trained_at": "2026-09-12T17:56:01.786365+00:00",
+  "feature_names": [
+    "make",
+    "model",
+    "condition",
+    "fuel_type",
+    "transmission",
+    "body_type",
+    "year",
+    "mileage",
+    "accident_history",
+    "owners"
+  ],
+  "status": "ready"
+}

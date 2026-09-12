@@ -1,0 +1,2528 @@
+make,model,year,mileage,condition,fuel_type,transmission,body_type,accident_history,owners,price
+Toyota,Highlander,2018,75640,fair,hybrid,automatic,suv,0,3,13896.88
+Chevrolet,Bolt,2014,123026,poor,electric,automatic,hatchback,0,1,4377.25
+Toyota,RAV4,2023,15929,fair,gasoline,automatic,suv,0,3,19891.91
+Chevrolet,Equinox,2014,119918,excellent,gasoline,automatic,suv,0,1,8580.46
+Chevrolet,Malibu,2014,54427,good,gasoline,automatic,sedan,0,3,7399.12
+BMW,i4,2013,215103,fair,electric,automatic,sedan,1,3,4743.83
+BMW,X5,2010,236301,good,gasoline,automatic,suv,0,2,6353.38
+BMW,X3,2018,92788,good,diesel,automatic,suv,0,1,19273.5
+Toyota,Corolla,2022,18573,good,gasoline,automatic,sedan,0,3,14785.43
+Ford,Escape,2005,78378,fair,gasoline,automatic,suv,1,2,2746.6
+Honda,Accord,2010,114653,good,hybrid,manual,sedan,0,2,4455.55
+Hyundai,Santa Fe,2025,12446,fair,gasoline,manual,suv,0,2,23728.9
+Hyundai,Sonata,2021,60710,fair,gasoline,automatic,sedan,0,2,10683.79
+Honda,Pilot,2013,190002,good,gasoline,manual,suv,0,1,4821.38
+Nissan,Rogue,2014,95487,excellent,gasoline,automatic,suv,1,2,8536.97
+Tesla,Model Y,2024,13725,good,electric,automatic,suv,0,2,47346.38
+Ford,F-150,2012,213159,excellent,gasoline,automatic,truck,0,2,7047.51
+Nissan,Leaf,2021,36511,poor,electric,automatic,hatchback,1,2,9825.19
+Ford,Explorer,2014,186889,poor,gasoline,automatic,suv,0,1,3828.82
+Ford,Escape,2014,218047,fair,gasoline,automatic,suv,0,1,3633.84
+Ford,Mustang,2013,110804,fair,gasoline,automatic,coupe,1,3,4980.46
+Toyota,Highlander,2008,146545,fair,gasoline,automatic,suv,0,2,3920.47
+Nissan,Altima,2008,104366,fair,gasoline,automatic,sedan,0,3,3144.1
+Honda,Civic,2020,92338,excellent,gasoline,automatic,sedan,0,4,10268.76
+Nissan,Leaf,2015,31142,fair,electric,automatic,hatchback,1,1,8597.44
+Tesla,Model 3,2017,51591,fair,electric,automatic,sedan,1,1,11839.91
+Ford,Mustang,2014,71337,good,gasoline,automatic,coupe,0,1,11370.65
+Tesla,Model X,2023,22786,good,electric,automatic,suv,0,3,91798.95
+Nissan,Altima,2014,140982,fair,gasoline,automatic,sedan,0,1,3995.42
+Honda,CR-V,2005,280667,excellent,hybrid,automatic,suv,0,1,2805.88
+Nissan,Rogue,2020,102341,excellent,gasoline,automatic,suv,0,1,14819.65
+Chevrolet,Malibu,2012,239572,excellent,diesel,automatic,sedan,0,4,2769.41
+Ford,Explorer,2017,135261,fair,gasoline,automatic,suv,0,2,9346.85
+Hyundai,Santa Fe,2018,50099,excellent,gasoline,automatic,suv,0,1,19057.7
+BMW,5 Series,2008,235361,poor,gasoline,automatic,sedan,0,2,2897.12
+Ford,Focus,2016,147663,good,gasoline,automatic,hatchback,0,1,4813.17
+Hyundai,Elantra,2018,113534,poor,gasoline,automatic,sedan,0,3,3948.89
+Toyota,Camry,2010,221504,excellent,gasoline,automatic,sedan,0,2,2856.03
+Nissan,Pathfinder,2015,110499,poor,hybrid,manual,suv,1,2,5320.77
+Tesla,Model X,2021,32029,good,electric,automatic,suv,0,1,65282.11
+Tesla,Model Y,2011,75505,poor,electric,automatic,suv,0,2,7521.64
+Honda,Fit,2024,21786,good,gasoline,automatic,hatchback,0,1,17261.96
+Nissan,Pathfinder,2007,78875,fair,hybrid,automatic,suv,0,1,5304.13
+Tesla,Model Y,2014,28731,poor,electric,automatic,suv,1,5,8252.19
+Hyundai,Sonata,2021,77295,poor,gasoline,manual,sedan,1,1,5956.3
+Toyota,Prius,2021,76250,poor,hybrid,automatic,hatchback,1,1,7602.48
+Chevrolet,Traverse,2025,22528,fair,hybrid,automatic,suv,0,3,32023.58
+Honda,Fit,2022,36897,good,gasoline,automatic,hatchback,0,3,10624.16
+Chevrolet,Traverse,2006,101885,fair,gasoline,manual,suv,0,1,3978.61
+Ford,Focus,2019,61473,excellent,gasoline,automatic,hatchback,0,2,10026.05
+BMW,3 Series,2010,278506,good,gasoline,automatic,sedan,0,1,4773.09
+Ford,F-150,2007,334978,good,gasoline,automatic,truck,0,1,3729.85
+Chevrolet,Equinox,2024,27636,excellent,gasoline,automatic,suv,0,2,27735.43
+Ford,Focus,2018,96371,good,gasoline,automatic,hatchback,0,1,7280.25
+Chevrolet,Traverse,2016,162846,good,gasoline,automatic,suv,0,2,8237.13
+Nissan,Altima,2006,324655,excellent,gasoline,automatic,sedan,0,1,1811.33
+Hyundai,Ioniq 5,2013,109101,good,electric,automatic,sedan,0,5,9316.11
+Honda,CR-V,2011,220436,fair,gasoline,manual,suv,0,2,2814.54
+Hyundai,Elantra,2013,207302,good,gasoline,automatic,sedan,0,1,2826.75
+Nissan,Altima,2014,119854,excellent,gasoline,manual,sedan,0,2,6376.37
+Hyundai,Tucson,2005,72395,fair,gasoline,automatic,suv,0,1,3537.94
+Honda,Pilot,2016,163687,fair,gasoline,automatic,suv,0,4,6039.87
+Toyota,Prius,2013,101500,good,hybrid,manual,hatchback,0,4,5435.1
+BMW,5 Series,2008,41158,good,hybrid,automatic,sedan,0,2,11760.87
+BMW,5 Series,2008,242670,poor,gasoline,automatic,sedan,0,4,2455.83
+Hyundai,Tucson,2023,10470,fair,gasoline,automatic,suv,0,5,18358.6
+Chevrolet,Traverse,2025,19095,excellent,hybrid,automatic,suv,0,5,38008.06
+Ford,Escape,2025,9162,fair,hybrid,automatic,suv,0,4,24754.28
+Honda,Civic,2006,166885,excellent,gasoline,automatic,sedan,0,3,2165.69
+Toyota,Prius,2009,66685,fair,hybrid,manual,hatchback,0,2,4269.37
+Chevrolet,Silverado,2019,119194,good,gasoline,automatic,truck,0,2,17352.57
+Hyundai,Elantra,2010,179796,good,hybrid,automatic,sedan,0,5,2160.94
+Chevrolet,Silverado,2016,42844,poor,gasoline,automatic,truck,0,2,12151.11
+Tesla,Model 3,2012,46989,good,electric,automatic,sedan,0,1,12748.96
+Nissan,Leaf,2025,18055,good,electric,automatic,hatchback,0,1,29622.8
+Tesla,Model Y,2016,183368,good,electric,automatic,suv,0,1,10695.28
+Honda,Civic,2012,223858,good,gasoline,automatic,sedan,0,2,2608.45
+Ford,Focus,2008,89799,excellent,gasoline,automatic,hatchback,0,1,3123.82
+Hyundai,Elantra,2011,40264,excellent,gasoline,automatic,wagon,1,1,5216.24
+Honda,Fit,2019,65972,good,gasoline,manual,hatchback,1,3,5360.83
+Toyota,RAV4,2010,157545,good,gasoline,automatic,suv,0,1,4023.68
+Ford,Explorer,2019,53157,good,diesel,automatic,suv,0,1,23573.31
+Ford,F-150,2005,350000,good,hybrid,manual,truck,0,1,3546.1
+Toyota,Corolla,2017,123786,excellent,gasoline,automatic,sedan,0,1,7420.23
+Tesla,Model Y,2025,18929,good,electric,automatic,suv,0,3,51287.22
+Nissan,Sentra,2009,177494,good,hybrid,manual,sedan,1,1,1555.44
+Chevrolet,Traverse,2011,213862,fair,gasoline,automatic,suv,0,1,3550.45
+Ford,F-150,2025,6271,excellent,gasoline,automatic,truck,0,3,50567.8
+Honda,Pilot,2008,120432,good,gasoline,automatic,suv,1,2,4836.03
+Toyota,Prius,2023,48301,good,hybrid,automatic,hatchback,0,2,20956.15
+Chevrolet,Silverado,2010,231884,good,diesel,automatic,truck,0,1,5207.84
+Nissan,Pathfinder,2023,40714,fair,gasoline,automatic,suv,0,3,22984.32
+Honda,Accord,2012,140263,fair,gasoline,automatic,sedan,0,2,3541.46
+Hyundai,Santa Fe,2023,46497,fair,hybrid,automatic,suv,0,1,26902.02
+Nissan,Sentra,2021,74995,good,gasoline,automatic,sedan,0,4,9333.2
+Nissan,Altima,2009,128953,good,gasoline,automatic,sedan,0,1,3449.63
+BMW,X5,2017,147614,good,gasoline,automatic,suv,0,1,16229.25
+Ford,F-150,2025,11135,good,hybrid,automatic,truck,0,3,48444.91
+Chevrolet,Bolt,2007,342218,poor,electric,automatic,hatchback,1,1,1200.0
+Nissan,Rogue,2007,292963,good,gasoline,automatic,suv,1,3,1717.05
+Tesla,Model S,2020,47199,good,electric,automatic,sedan,0,4,49788.21
+Ford,Escape,2023,41684,good,gasoline,automatic,suv,0,1,24532.7
+Honda,Fit,2017,149913,good,gasoline,automatic,hatchback,0,3,3844.89
+Ford,Escape,2015,75589,good,gasoline,automatic,suv,1,4,7278.87
+Chevrolet,Bolt,2008,86086,good,electric,automatic,hatchback,1,1,4338.66
+Tesla,Model 3,2011,254555,good,electric,automatic,sedan,0,5,4181.65
+Chevrolet,Traverse,2012,139713,poor,diesel,automatic,suv,0,2,4361.79
+Honda,Pilot,2021,77880,poor,gasoline,manual,suv,0,1,12286.81
+BMW,X3,2021,23792,fair,gasoline,automatic,suv,0,2,26202.37
+Honda,Pilot,2017,32267,poor,gasoline,automatic,suv,0,1,11083.05
+Ford,Explorer,2020,86180,good,gasoline,automatic,suv,0,2,19331.75
+Nissan,Leaf,2016,49678,good,electric,automatic,hatchback,0,2,10772.3
+Hyundai,Tucson,2014,110548,excellent,gasoline,automatic,suv,1,1,7638.06
+Honda,Civic,2021,92060,good,gasoline,automatic,sedan,0,2,11331.9
+Hyundai,Sonata,2025,15040,poor,gasoline,automatic,sedan,0,1,14889.64
+Hyundai,Tucson,2005,226367,fair,gasoline,automatic,suv,0,1,1852.17
+Hyundai,Tucson,2014,151883,good,gasoline,automatic,suv,0,2,5874.1
+Ford,Escape,2021,22259,good,gasoline,automatic,suv,0,2,19588.33
+Ford,Escape,2018,122773,excellent,hybrid,automatic,suv,0,3,11113.05
+Chevrolet,Traverse,2021,59315,good,gasoline,automatic,suv,0,2,20858.54
+Ford,Explorer,2018,32419,fair,gasoline,automatic,suv,1,3,13139.08
+Honda,Civic,2013,135743,good,gasoline,automatic,sedan,0,1,4818.22
+Toyota,Prius,2011,108770,good,hybrid,manual,hatchback,0,1,5315.49
+BMW,X5,2022,72557,good,gasoline,automatic,suv,0,3,37083.25
+Tesla,Model X,2024,9681,good,electric,automatic,suv,1,1,72924.61
+Honda,Fit,2021,18183,fair,gasoline,automatic,hatchback,0,3,8604.95
+BMW,i4,2005,76551,fair,electric,automatic,sedan,0,3,7005.05
+BMW,5 Series,2012,121943,good,gasoline,manual,sedan,1,3,7189.72
+Hyundai,Ioniq 5,2022,24681,good,electric,automatic,sedan,0,3,29040.36
+Hyundai,Santa Fe,2009,167938,good,gasoline,automatic,suv,0,2,3935.36
+Tesla,Model 3,2024,26224,good,electric,automatic,sedan,0,2,37683.12
+BMW,X5,2010,70031,good,gasoline,manual,suv,1,1,10421.8
+Chevrolet,Traverse,2021,30473,good,gasoline,manual,suv,0,2,20747.56
+Nissan,Sentra,2019,18729,excellent,gasoline,automatic,sedan,0,1,12687.28
+Honda,Civic,2016,79908,good,gasoline,automatic,sedan,1,1,5491.07
+Ford,Focus,2007,105353,fair,gasoline,automatic,hatchback,1,1,1829.2
+BMW,i4,2006,231906,excellent,electric,automatic,sedan,0,5,4044.16
+Chevrolet,Bolt,2013,195986,excellent,electric,automatic,hatchback,0,1,4978.09
+Toyota,RAV4,2017,74975,good,gasoline,automatic,suv,0,1,13482.8
+BMW,i4,2016,85084,fair,electric,automatic,sedan,0,1,18524.88
+Ford,F-150,2015,157006,good,gasoline,automatic,truck,0,4,9129.72
+BMW,3 Series,2019,125559,poor,gasoline,automatic,wagon,1,2,6699.84
+Toyota,Camry,2012,195738,good,diesel,automatic,sedan,0,1,3461.34
+Chevrolet,Malibu,2010,205316,fair,gasoline,automatic,sedan,0,1,1907.15
+Nissan,Leaf,2017,72857,fair,electric,automatic,hatchback,0,5,7334.83
+Toyota,Prius,2013,223426,good,hybrid,manual,hatchback,0,3,3124.7
+Hyundai,Sonata,2020,96462,good,gasoline,automatic,sedan,0,2,10956.53
+Toyota,RAV4,2014,212690,good,gasoline,automatic,suv,1,4,3198.85
+Honda,Fit,2013,230631,fair,gasoline,automatic,hatchback,0,1,1781.69
+Toyota,Corolla,2025,17325,excellent,gasoline,automatic,wagon,0,3,21808.24
+Toyota,Prius,2024,14761,poor,hybrid,automatic,hatchback,0,1,16464.85
+Tesla,Model 3,2025,9105,good,electric,automatic,sedan,1,3,33956.71
+Tesla,Model X,2007,339618,poor,electric,automatic,suv,0,2,5037.29
+Chevrolet,Bolt,2023,24118,fair,electric,automatic,hatchback,0,1,18653.09
+Honda,Accord,2007,71074,fair,gasoline,automatic,wagon,1,1,3168.73
+Toyota,Prius,2009,142438,poor,hybrid,automatic,hatchback,0,1,2343.79
+Nissan,Altima,2008,93366,poor,gasoline,automatic,sedan,0,3,2564.99
+Tesla,Model 3,2012,53840,good,electric,automatic,sedan,0,3,11357.85
+BMW,3 Series,2017,65663,fair,gasoline,automatic,sedan,0,1,13202.78
+Hyundai,Tucson,2015,119623,good,gasoline,automatic,suv,0,1,8492.16
+Hyundai,Tucson,2010,96109,excellent,gasoline,automatic,suv,0,1,7179.62
+Hyundai,Santa Fe,2018,117942,good,gasoline,automatic,suv,0,2,12643.85
+Nissan,Leaf,2019,60330,fair,electric,automatic,hatchback,0,2,10372.89
+BMW,X3,2020,46613,good,gasoline,automatic,suv,0,1,26365.59
+Chevrolet,Malibu,2010,85753,good,gasoline,automatic,sedan,0,2,4860.91
+Ford,Escape,2010,98034,excellent,gasoline,manual,suv,0,3,5216.62
+Toyota,Prius,2009,159421,good,hybrid,automatic,hatchback,1,2,2605.7
+Chevrolet,Traverse,2010,270942,good,gasoline,automatic,suv,0,1,3568.42
+Tesla,Model X,2006,340519,fair,electric,automatic,suv,0,2,5979.54
+BMW,i4,2024,26467,good,electric,automatic,wagon,0,2,49356.17
+BMW,X3,2021,59310,excellent,gasoline,automatic,suv,0,3,29884.36
+Chevrolet,Malibu,2011,63978,good,gasoline,automatic,sedan,0,1,5431.16
+Hyundai,Elantra,2018,143628,fair,gasoline,automatic,sedan,0,4,4438.17
+BMW,5 Series,2019,132424,good,gasoline,automatic,sedan,0,1,18039.76
+Tesla,Model X,2017,78380,good,electric,automatic,suv,0,5,33960.49
+Chevrolet,Equinox,2009,282271,fair,hybrid,automatic,suv,0,1,2697.41
+Honda,Civic,2016,89082,fair,gasoline,automatic,sedan,0,4,6047.43
+BMW,i4,2020,26382,excellent,electric,automatic,sedan,0,2,40344.44
+Honda,Pilot,2009,285167,good,gasoline,automatic,suv,0,1,4628.7
+Chevrolet,Silverado,2022,51641,excellent,gasoline,automatic,truck,0,4,34826.04
+Honda,Fit,2006,117024,fair,gasoline,automatic,hatchback,1,3,1332.46
+Toyota,Camry,2020,109147,fair,gasoline,automatic,sedan,0,1,8197.84
+Ford,Focus,2019,74629,good,gasoline,automatic,hatchback,0,2,8163.13
+Tesla,Model X,2008,139399,poor,electric,automatic,suv,0,5,6514.39
+Ford,Mustang,2018,77224,excellent,gasoline,automatic,coupe,0,1,15735.02
+Nissan,Rogue,2023,45847,fair,gasoline,automatic,suv,0,1,17562.29
+Nissan,Pathfinder,2011,170083,excellent,gasoline,manual,suv,0,4,4597.21
+BMW,5 Series,2020,65786,fair,gasoline,automatic,sedan,0,1,20639.39
+BMW,3 Series,2012,246244,fair,gasoline,automatic,sedan,0,1,4098.9
+Hyundai,Ioniq 5,2022,14516,good,electric,automatic,sedan,0,4,30319.44
+Chevrolet,Malibu,2011,81885,excellent,hybrid,automatic,wagon,1,3,4410.67
+Toyota,Camry,2021,18027,fair,gasoline,automatic,sedan,0,2,13811.43
+BMW,X5,2021,34230,good,gasoline,automatic,suv,0,1,43681.28
+Honda,Accord,2011,212362,fair,gasoline,automatic,sedan,0,2,2662.8
+Honda,Pilot,2024,10941,fair,diesel,automatic,suv,0,1,34921.4
+Hyundai,Sonata,2014,189783,good,gasoline,automatic,sedan,0,2,3508.47
+Nissan,Rogue,2025,15594,fair,hybrid,automatic,suv,0,4,24892.63
+Tesla,Model S,2014,217565,good,electric,automatic,sedan,1,1,10271.84
+Ford,Mustang,2016,143025,good,gasoline,automatic,coupe,0,1,8980.57
+Toyota,Corolla,2013,92306,good,gasoline,automatic,sedan,0,1,5824.53
+Ford,Escape,2019,48545,poor,gasoline,automatic,suv,0,4,9108.06
+Tesla,Model Y,2016,133562,good,electric,automatic,suv,0,5,11968.98
+Tesla,Model X,2025,6607,good,electric,automatic,suv,0,2,101128.52
+Ford,Mustang,2020,92206,good,gasoline,automatic,coupe,0,1,17119.77
+Nissan,Rogue,2008,49892,excellent,gasoline,manual,suv,1,2,4949.83
+Ford,F-150,2022,15807,good,gasoline,manual,truck,0,3,32035.51
+Tesla,Model 3,2017,150855,excellent,electric,automatic,sedan,0,2,11424.06
+Tesla,Model X,2015,122874,good,electric,automatic,suv,0,1,29556.71
+BMW,X5,2012,34733,fair,gasoline,automatic,suv,0,1,15788.89
+BMW,X5,2017,120017,excellent,gasoline,automatic,suv,1,3,15789.52
+BMW,5 Series,2017,156117,poor,diesel,automatic,sedan,0,5,7259.06
+Toyota,Highlander,2006,68138,good,gasoline,automatic,suv,1,2,4569.45
+Hyundai,Santa Fe,2008,284684,good,gasoline,automatic,suv,0,1,2854.31
+BMW,X5,2014,145408,fair,gasoline,automatic,suv,0,1,10658.22
+BMW,i4,2007,117154,poor,electric,automatic,sedan,0,1,4801.32
+Hyundai,Tucson,2014,174882,good,gasoline,automatic,suv,0,1,4838.34
+Ford,Mustang,2008,72196,good,gasoline,automatic,coupe,1,1,5358.84
+Nissan,Sentra,2014,159794,good,diesel,automatic,sedan,0,1,4034.37
+BMW,5 Series,2012,132845,fair,gasoline,automatic,wagon,0,1,7619.51
+BMW,X5,2007,73788,poor,hybrid,automatic,suv,0,1,7707.9
+Tesla,Model S,2010,277720,excellent,electric,automatic,sedan,1,1,8654.68
+Nissan,Altima,2005,71765,fair,gasoline,automatic,sedan,1,1,2554.92
+Nissan,Sentra,2021,50691,good,gasoline,automatic,sedan,0,3,10249.28
+Toyota,Camry,2010,144699,good,gasoline,automatic,sedan,1,1,3135.02
+Hyundai,Santa Fe,2014,62867,good,gasoline,automatic,suv,0,1,11079.43
+Hyundai,Elantra,2017,57987,fair,diesel,automatic,sedan,0,2,7402.99
+Ford,Explorer,2024,35790,fair,gasoline,automatic,suv,1,2,21623.59
+Tesla,Model X,2008,170324,excellent,electric,automatic,suv,0,1,11242.03
+Chevrolet,Equinox,2012,95944,good,gasoline,automatic,suv,0,1,7291.68
+Toyota,Highlander,2005,119531,fair,gasoline,automatic,suv,0,1,3929.75
+Toyota,Highlander,2020,96879,good,gasoline,automatic,suv,0,1,20108.61
+Nissan,Rogue,2021,13646,fair,hybrid,automatic,suv,0,2,17494.36
+Ford,F-150,2020,46314,excellent,gasoline,automatic,truck,0,3,28647.11
+BMW,i4,2023,53411,good,electric,automatic,sedan,0,2,41629.8
+Chevrolet,Equinox,2017,103877,fair,gasoline,automatic,suv,0,3,7571.58
+BMW,i4,2016,110689,fair,electric,automatic,sedan,0,1,15059.6
+BMW,X5,2010,49751,fair,hybrid,automatic,suv,0,2,12930.92
+Tesla,Model Y,2024,19515,good,electric,automatic,suv,0,2,45985.42
+BMW,3 Series,2019,31434,good,gasoline,automatic,sedan,1,4,14885.68
+Nissan,Sentra,2011,111126,good,gasoline,automatic,sedan,0,1,4175.58
+Toyota,Highlander,2007,145763,excellent,gasoline,automatic,suv,1,1,4578.06
+Hyundai,Ioniq 5,2016,97154,excellent,electric,automatic,sedan,0,1,16774.59
+Ford,Mustang,2011,125105,good,gasoline,automatic,coupe,0,2,6267.82
+Ford,Explorer,2021,38599,good,gasoline,automatic,suv,1,2,20305.06
+Hyundai,Santa Fe,2005,213209,fair,gasoline,automatic,suv,0,3,1875.27
+Hyundai,Elantra,2016,135160,fair,gasoline,automatic,sedan,0,1,4265.18
+BMW,i4,2019,100255,good,electric,automatic,sedan,0,1,25075.66
+Honda,Pilot,2005,72292,excellent,hybrid,automatic,suv,0,3,6959.84
+Honda,CR-V,2023,27673,good,gasoline,automatic,suv,0,1,27118.1
+Ford,F-150,2008,258326,good,gasoline,automatic,truck,0,1,3988.36
+Toyota,RAV4,2020,22047,poor,gasoline,automatic,suv,0,2,12048.04
+Ford,Escape,2022,28756,good,gasoline,automatic,suv,0,1,23002.74
+Hyundai,Elantra,2015,157693,fair,hybrid,automatic,sedan,1,1,2935.12
+Ford,Focus,2022,56913,good,gasoline,automatic,hatchback,0,5,10225.76
+Tesla,Model X,2024,7978,fair,electric,automatic,suv,0,1,82720.14
+BMW,3 Series,2012,110529,good,gasoline,automatic,sedan,1,3,6943.01
+Tesla,Model 3,2014,164949,good,electric,automatic,wagon,1,3,6360.8
+Chevrolet,Equinox,2005,160691,excellent,gasoline,automatic,suv,1,2,2096.51
+Nissan,Sentra,2013,69434,good,gasoline,automatic,sedan,0,1,5903.18
+Toyota,Highlander,2011,242068,poor,gasoline,automatic,suv,0,2,2927.66
+BMW,5 Series,2025,11537,poor,gasoline,automatic,sedan,0,2,32852.76
+Toyota,Camry,2019,113798,fair,gasoline,automatic,sedan,0,4,6310.2
+Honda,Pilot,2013,122294,poor,gasoline,automatic,suv,0,2,5280.98
+Chevrolet,Silverado,2013,207567,good,gasoline,automatic,truck,0,2,6539.51
+Toyota,Highlander,2021,18931,good,gasoline,manual,suv,0,1,23542.87
+Ford,Explorer,2022,37063,good,gasoline,automatic,suv,0,2,31709.44
+Ford,F-150,2021,24446,good,gasoline,automatic,truck,1,1,24198.82
+Honda,Fit,2013,206146,fair,hybrid,automatic,hatchback,0,1,2105.71
+Nissan,Leaf,2024,37466,good,electric,automatic,hatchback,0,2,22980.74
+Tesla,Model S,2019,108130,fair,electric,automatic,wagon,0,4,23551.89
+Chevrolet,Traverse,2023,33663,excellent,hybrid,automatic,suv,0,1,34004.78
+BMW,i4,2016,180891,excellent,electric,automatic,sedan,0,4,10422.35
+Nissan,Leaf,2006,336359,fair,electric,automatic,hatchback,0,2,1662.36
+Chevrolet,Malibu,2025,21232,fair,diesel,automatic,sedan,0,1,20068.38
+Toyota,Prius,2014,62116,good,hybrid,automatic,hatchback,0,2,7379.55
+Ford,Escape,2010,178022,excellent,gasoline,manual,suv,0,2,3788.96
+Honda,CR-V,2019,84225,excellent,hybrid,automatic,suv,0,1,17352.09
+BMW,X5,2020,64274,good,gasoline,automatic,suv,1,4,23225.25
+Ford,Explorer,2012,50954,excellent,gasoline,automatic,suv,0,1,13905.62
+Honda,Pilot,2023,48669,excellent,gasoline,manual,suv,0,4,28290.74
+BMW,X3,2022,54891,fair,hybrid,automatic,suv,0,1,30693.25
+BMW,3 Series,2012,102881,fair,gasoline,automatic,sedan,0,3,7612.89
+Nissan,Leaf,2012,231821,good,electric,automatic,hatchback,0,1,3654.65
+Nissan,Sentra,2012,43678,good,hybrid,automatic,sedan,0,2,5887.08
+Honda,CR-V,2017,50127,good,gasoline,automatic,suv,0,1,14709.5
+Chevrolet,Equinox,2020,106937,fair,gasoline,automatic,suv,0,2,9749.59
+Nissan,Leaf,2009,144542,excellent,electric,automatic,hatchback,0,1,4555.89
+Tesla,Model S,2010,82828,fair,electric,automatic,wagon,0,2,15014.13
+Tesla,Model Y,2010,138030,good,electric,automatic,suv,0,3,8725.85
+BMW,3 Series,2012,180956,fair,gasoline,automatic,sedan,0,2,4316.25
+BMW,X3,2008,312313,fair,gasoline,automatic,suv,0,1,3578.09
+BMW,i4,2023,52379,good,electric,automatic,sedan,0,2,40941.92
+Ford,Escape,2012,70631,poor,gasoline,automatic,suv,0,1,4972.74
+Hyundai,Tucson,2025,8563,good,gasoline,automatic,suv,0,1,29254.18
+Chevrolet,Traverse,2011,64067,fair,hybrid,automatic,suv,0,1,8294.21
+BMW,X3,2014,178932,good,gasoline,manual,suv,0,1,7392.59
+Chevrolet,Equinox,2014,175703,good,diesel,automatic,suv,0,3,4491.93
+Honda,CR-V,2023,31856,fair,gasoline,automatic,suv,0,4,19742.02
+Tesla,Model Y,2005,71069,good,electric,automatic,suv,0,5,6868.17
+Nissan,Sentra,2021,34604,excellent,gasoline,automatic,sedan,0,1,15673.79
+Chevrolet,Malibu,2006,245844,good,gasoline,automatic,sedan,0,3,1487.34
+Ford,Focus,2020,41399,fair,gasoline,automatic,hatchback,0,3,9296.22
+Toyota,RAV4,2017,30429,excellent,gasoline,automatic,suv,0,1,17012.06
+Tesla,Model 3,2023,21526,excellent,electric,automatic,sedan,0,2,36348.36
+Toyota,Prius,2020,45023,excellent,hybrid,automatic,hatchback,0,2,17755.12
+Hyundai,Sonata,2009,266413,fair,gasoline,automatic,sedan,0,2,1828.9
+BMW,5 Series,2015,92307,fair,gasoline,automatic,sedan,0,1,13726.15
+Toyota,Camry,2021,70526,good,gasoline,automatic,sedan,0,2,14698.47
+Honda,Pilot,2005,203685,good,gasoline,automatic,suv,1,1,2071.81
+BMW,5 Series,2024,11471,good,diesel,automatic,sedan,0,1,50723.35
+Ford,Focus,2016,21148,excellent,gasoline,automatic,hatchback,0,1,9792.96
+Honda,Accord,2007,253961,excellent,gasoline,automatic,sedan,1,5,1625.47
+Chevrolet,Traverse,2016,88204,poor,gasoline,automatic,suv,0,4,7258.26
+BMW,X3,2024,21128,fair,gasoline,automatic,suv,0,1,40410.73
+Ford,Explorer,2023,9876,poor,hybrid,automatic,suv,0,1,22300.93
+Hyundai,Sonata,2019,64821,good,gasoline,automatic,sedan,0,2,10264.98
+Hyundai,Sonata,2019,30932,excellent,gasoline,automatic,sedan,0,1,16376.67
+Honda,CR-V,2021,19341,fair,gasoline,automatic,suv,0,2,17140.89
+Hyundai,Elantra,2016,24480,poor,gasoline,manual,sedan,0,2,5400.73
+Honda,Fit,2010,77262,good,gasoline,automatic,hatchback,0,2,3258.91
+Honda,Pilot,2019,95263,fair,gasoline,manual,suv,0,1,12424.15
+Hyundai,Tucson,2006,350000,excellent,gasoline,automatic,suv,0,2,2522.27
+Toyota,RAV4,2022,50986,poor,hybrid,automatic,suv,0,1,13102.45
+Honda,Civic,2006,173115,good,hybrid,manual,sedan,0,3,1829.67
+BMW,X5,2016,71580,poor,hybrid,automatic,suv,0,1,13748.99
+Hyundai,Tucson,2014,50201,good,gasoline,automatic,suv,0,1,10899.04
+BMW,3 Series,2012,87929,poor,gasoline,manual,sedan,0,1,5573.32
+Honda,Pilot,2021,49174,fair,gasoline,automatic,suv,0,1,20784.24
+BMW,3 Series,2022,49704,good,gasoline,automatic,sedan,0,2,27896.89
+Chevrolet,Malibu,2010,81190,good,gasoline,automatic,sedan,0,1,5483.64
+Toyota,Prius,2016,136532,fair,hybrid,automatic,hatchback,0,2,5492.25
+Chevrolet,Equinox,2009,96060,fair,gasoline,automatic,suv,0,2,4612.94
+Chevrolet,Bolt,2013,209318,fair,electric,automatic,hatchback,0,1,3230.48
+Nissan,Sentra,2013,156787,excellent,gasoline,automatic,sedan,0,2,3534.76
+Hyundai,Santa Fe,2014,60032,good,gasoline,automatic,suv,0,2,10782.45
+Nissan,Pathfinder,2019,107010,good,gasoline,automatic,suv,0,1,14779.58
+Ford,Focus,2010,69986,poor,gasoline,manual,hatchback,1,2,1802.23
+Hyundai,Tucson,2022,44458,fair,gasoline,automatic,suv,0,1,18776.05
+BMW,X5,2005,289520,fair,diesel,automatic,suv,0,1,3744.83
+Hyundai,Tucson,2011,41646,excellent,gasoline,automatic,suv,0,1,10225.4
+Toyota,Highlander,2006,262853,good,hybrid,automatic,suv,0,2,3459.93
+Toyota,RAV4,2025,15071,excellent,gasoline,manual,suv,0,4,29067.14
+Chevrolet,Silverado,2022,19329,excellent,gasoline,automatic,truck,0,1,42347.84
+Toyota,Corolla,2016,103439,fair,gasoline,manual,sedan,0,3,4902.83
+Chevrolet,Bolt,2020,78540,good,electric,automatic,hatchback,1,1,11261.72
+Nissan,Pathfinder,2012,72628,fair,gasoline,automatic,suv,0,1,8613.68
+Toyota,Corolla,2022,29861,fair,gasoline,automatic,sedan,0,2,12241.79
+Chevrolet,Malibu,2014,70580,good,hybrid,automatic,sedan,0,1,8402.98
+Hyundai,Sonata,2018,138545,poor,gasoline,automatic,sedan,0,3,4447.31
+Tesla,Model 3,2025,14613,good,electric,automatic,wagon,0,1,40765.08
+Ford,Focus,2009,45714,fair,hybrid,automatic,hatchback,0,1,3590.38
+Toyota,Prius,2021,45177,excellent,hybrid,automatic,hatchback,0,2,19436.07
+Tesla,Model S,2016,152596,good,electric,automatic,sedan,0,1,21387.06
+BMW,3 Series,2006,92745,fair,gasoline,manual,sedan,0,2,4632.87
+Tesla,Model Y,2009,166527,fair,electric,automatic,suv,0,1,5181.43
+Nissan,Rogue,2011,139087,poor,diesel,manual,suv,1,2,2212.4
+Toyota,Prius,2021,89196,good,hybrid,automatic,hatchback,1,2,11190.75
+Tesla,Model 3,2006,295789,excellent,electric,automatic,sedan,0,2,3698.17
+Nissan,Rogue,2006,318699,good,gasoline,manual,suv,0,1,2026.93
+Tesla,Model Y,2016,117095,good,electric,automatic,suv,0,3,15205.61
+Honda,Civic,2019,73938,fair,gasoline,automatic,wagon,1,1,6977.28
+Hyundai,Sonata,2015,77573,good,gasoline,automatic,sedan,0,2,7170.42
+Honda,Accord,2019,55686,fair,gasoline,automatic,wagon,0,1,10588.06
+Hyundai,Santa Fe,2013,153312,poor,gasoline,automatic,suv,0,4,3634.66
+Tesla,Model 3,2016,137352,poor,electric,automatic,sedan,1,2,5582.03
+Tesla,Model S,2005,130957,poor,electric,automatic,sedan,0,2,5996.38
+Tesla,Model X,2014,128470,fair,electric,automatic,suv,0,1,19828.78
+Nissan,Pathfinder,2007,283088,excellent,diesel,automatic,suv,0,2,3487.98
+Hyundai,Elantra,2006,314346,good,gasoline,automatic,sedan,1,3,1200.0
+Chevrolet,Silverado,2022,59044,good,gasoline,manual,truck,0,1,30394.86
+BMW,3 Series,2017,106375,good,hybrid,automatic,sedan,0,2,14493.99
+Ford,Escape,2011,261708,fair,diesel,manual,suv,0,3,2318.8
+Honda,Fit,2005,49498,good,diesel,automatic,hatchback,0,3,2370.25
+Chevrolet,Equinox,2011,148432,poor,gasoline,automatic,suv,0,2,2801.82
+Chevrolet,Bolt,2014,199912,good,electric,automatic,hatchback,0,3,3777.85
+Nissan,Rogue,2019,42292,fair,gasoline,automatic,suv,0,1,11939.01
+Tesla,Model S,2012,61495,fair,electric,automatic,sedan,0,1,21802.47
+Chevrolet,Equinox,2005,252475,fair,gasoline,automatic,suv,0,1,1884.2
+Tesla,Model S,2007,340290,poor,electric,automatic,sedan,1,2,3358.02
+Nissan,Rogue,2015,136272,excellent,gasoline,automatic,suv,1,1,6399.68
+Nissan,Rogue,2015,38399,good,gasoline,automatic,suv,0,2,11815.25
+Toyota,Corolla,2011,119040,good,gasoline,automatic,sedan,0,5,3730.14
+Honda,Fit,2014,194990,good,gasoline,automatic,hatchback,0,4,1839.01
+Tesla,Model Y,2015,119527,good,electric,automatic,suv,0,5,13098.29
+Chevrolet,Bolt,2005,208770,good,electric,automatic,hatchback,1,1,1557.92
+Chevrolet,Equinox,2011,176631,fair,gasoline,manual,suv,0,3,2625.64
+Tesla,Model S,2013,223542,good,electric,automatic,sedan,0,3,10172.24
+Chevrolet,Equinox,2021,48264,excellent,gasoline,automatic,suv,0,1,21523.68
+Ford,F-150,2005,218293,poor,hybrid,automatic,truck,0,1,2434.52
+Honda,Accord,2018,69812,good,gasoline,automatic,sedan,1,1,8381.28
+Tesla,Model S,2010,108866,fair,electric,automatic,sedan,0,2,12850.99
+BMW,3 Series,2008,95243,poor,gasoline,automatic,wagon,0,1,4384.29
+Tesla,Model S,2018,57108,fair,electric,automatic,wagon,0,1,32423.32
+Toyota,Corolla,2010,149001,good,gasoline,automatic,sedan,1,1,2488.05
+Tesla,Model 3,2009,99147,fair,electric,automatic,sedan,0,1,6574.88
+Nissan,Leaf,2012,56658,good,electric,automatic,hatchback,0,1,7939.12
+Chevrolet,Bolt,2012,107529,good,electric,automatic,hatchback,0,1,6638.25
+Tesla,Model S,2015,39414,excellent,electric,automatic,sedan,0,1,40896.43
+Honda,Pilot,2018,34110,fair,gasoline,manual,suv,1,1,12527.68
+Tesla,Model 3,2010,144528,fair,electric,automatic,sedan,0,2,5009.51
+Nissan,Pathfinder,2020,96756,poor,gasoline,automatic,suv,0,3,10854.08
+Chevrolet,Silverado,2014,60882,good,gasoline,automatic,truck,0,4,12774.89
+Tesla,Model S,2007,272443,fair,electric,automatic,sedan,1,5,3802.39
+Nissan,Rogue,2020,110424,good,gasoline,automatic,suv,0,1,12557.21
+Honda,Accord,2023,54170,good,hybrid,automatic,sedan,0,2,17874.61
+Ford,Focus,2010,106497,poor,gasoline,automatic,hatchback,1,1,1753.36
+BMW,X5,2022,42580,fair,gasoline,automatic,suv,0,3,35207.4
+Ford,Escape,2015,115569,excellent,gasoline,manual,suv,0,4,7047.04
+Ford,Focus,2019,119474,excellent,gasoline,automatic,hatchback,0,1,7637.28
+Nissan,Altima,2016,44244,fair,gasoline,automatic,wagon,0,1,8447.95
+Ford,F-150,2006,94003,good,gasoline,automatic,truck,1,2,5295.55
+Hyundai,Santa Fe,2014,86642,good,gasoline,automatic,suv,0,2,9821.21
+Tesla,Model 3,2016,138600,good,electric,automatic,sedan,0,2,12715.24
+Tesla,Model X,2013,147463,good,electric,automatic,suv,0,1,18977.27
+BMW,5 Series,2012,187777,fair,gasoline,automatic,sedan,0,1,5339.51
+Hyundai,Tucson,2013,133534,good,gasoline,automatic,suv,0,1,6763.54
+BMW,3 Series,2005,206379,fair,gasoline,automatic,sedan,0,2,2254.99
+Toyota,Camry,2012,218433,excellent,hybrid,automatic,sedan,1,4,2487.76
+Chevrolet,Silverado,2012,192890,fair,gasoline,manual,truck,0,3,4402.01
+Nissan,Rogue,2010,164243,fair,gasoline,automatic,suv,0,1,3370.3
+Chevrolet,Malibu,2016,54204,fair,gasoline,automatic,sedan,0,3,7154.3
+Honda,Pilot,2022,22174,good,gasoline,automatic,suv,0,2,31502.11
+BMW,X5,2021,48354,fair,gasoline,automatic,suv,0,2,32845.63
+Honda,Civic,2007,74216,good,gasoline,manual,sedan,0,1,3618.19
+BMW,X3,2021,20334,good,gasoline,automatic,suv,0,1,32352.84
+Toyota,Prius,2023,49474,good,hybrid,automatic,hatchback,0,2,21268.68
+Toyota,RAV4,2009,304086,excellent,gasoline,automatic,suv,0,1,3193.54
+Nissan,Sentra,2006,179443,excellent,gasoline,automatic,sedan,0,1,1895.46
+Hyundai,Sonata,2024,10973,good,gasoline,automatic,sedan,0,1,21646.22
+Honda,CR-V,2009,74216,poor,gasoline,automatic,suv,1,1,2974.0
+Honda,Civic,2019,31434,good,gasoline,automatic,sedan,0,2,11277.73
+BMW,3 Series,2015,163568,excellent,gasoline,automatic,sedan,1,2,7109.54
+Hyundai,Sonata,2022,44683,fair,gasoline,automatic,sedan,0,4,12508.94
+Toyota,Highlander,2018,96864,fair,gasoline,automatic,suv,0,1,12925.93
+Hyundai,Sonata,2022,66456,fair,gasoline,automatic,sedan,0,1,12573.01
+BMW,5 Series,2010,120773,fair,gasoline,automatic,sedan,0,3,7121.51
+Ford,Explorer,2007,161494,poor,gasoline,automatic,suv,1,3,1957.63
+Chevrolet,Traverse,2019,112728,good,gasoline,automatic,suv,1,1,11357.4
+BMW,X5,2014,134663,good,gasoline,automatic,suv,0,2,13119.46
+Honda,Accord,2016,28506,excellent,gasoline,automatic,sedan,0,1,13824.69
+Honda,CR-V,2008,217736,fair,gasoline,automatic,suv,0,4,2101.14
+Hyundai,Ioniq 5,2019,25436,poor,electric,automatic,sedan,0,3,14985.72
+Ford,Mustang,2011,101232,fair,gasoline,automatic,coupe,0,3,5817.54
+Tesla,Model Y,2025,13003,good,electric,automatic,suv,0,4,54916.35
+Chevrolet,Traverse,2006,177891,good,hybrid,automatic,suv,0,2,3268.07
+Tesla,Model S,2013,30309,excellent,electric,automatic,sedan,0,1,33090.33
+Chevrolet,Silverado,2006,180885,good,gasoline,automatic,truck,1,4,2902.69
+Honda,Pilot,2014,69938,good,gasoline,automatic,suv,0,1,12835.72
+Nissan,Rogue,2013,142692,poor,gasoline,automatic,suv,0,2,3852.62
+BMW,X3,2025,22169,fair,gasoline,automatic,suv,0,4,36435.19
+Hyundai,Elantra,2024,9618,good,hybrid,automatic,sedan,0,1,21082.6
+Toyota,Prius,2007,74678,excellent,hybrid,manual,hatchback,0,3,3772.16
+Toyota,Highlander,2005,300023,good,hybrid,automatic,suv,0,2,2736.34
+Chevrolet,Malibu,2014,74935,good,gasoline,manual,sedan,0,1,6725.63
+Hyundai,Sonata,2015,55488,fair,gasoline,automatic,sedan,0,1,8002.61
+Honda,Accord,2021,67117,excellent,gasoline,automatic,sedan,0,3,13764.51
+BMW,X3,2016,138248,fair,hybrid,automatic,suv,0,1,11048.21
+Ford,F-150,2008,172150,fair,hybrid,manual,truck,0,4,3672.92
+Tesla,Model X,2020,100690,fair,electric,automatic,suv,0,1,40730.45
+Ford,Focus,2021,18240,poor,gasoline,automatic,hatchback,0,1,8150.45
+Nissan,Leaf,2023,24575,excellent,electric,automatic,hatchback,0,1,27260.1
+Hyundai,Ioniq 5,2008,303630,good,electric,automatic,sedan,1,1,2981.04
+Chevrolet,Silverado,2015,167769,good,gasoline,automatic,truck,0,2,10295.66
+BMW,5 Series,2012,190917,excellent,gasoline,automatic,sedan,0,3,6578.71
+Chevrolet,Bolt,2010,36323,poor,electric,automatic,hatchback,0,1,5475.39
+Tesla,Model X,2016,31558,excellent,electric,automatic,suv,0,1,56870.92
+BMW,i4,2009,291857,poor,electric,automatic,sedan,0,1,3530.76
+Toyota,Prius,2005,313483,fair,hybrid,automatic,hatchback,1,2,1200.0
+Tesla,Model S,2012,248653,fair,electric,automatic,sedan,0,1,8847.75
+Chevrolet,Silverado,2006,204759,fair,gasoline,automatic,truck,0,1,2960.6
+Nissan,Pathfinder,2023,60936,excellent,gasoline,automatic,suv,0,1,33305.64
+Hyundai,Tucson,2015,38054,good,gasoline,automatic,suv,0,1,12039.98
+Chevrolet,Equinox,2011,85751,fair,gasoline,automatic,suv,0,2,5172.76
+BMW,3 Series,2020,41495,fair,gasoline,automatic,sedan,1,3,13488.16
+Chevrolet,Traverse,2015,30186,good,gasoline,automatic,suv,0,1,17372.52
+Ford,Mustang,2006,274439,excellent,gasoline,automatic,coupe,1,1,2363.6
+Ford,Escape,2018,43188,good,gasoline,automatic,suv,1,1,11295.2
+Tesla,Model X,2011,230310,fair,electric,automatic,suv,0,2,10045.73
+BMW,5 Series,2011,103902,excellent,gasoline,automatic,sedan,0,1,12010.77
+Ford,Escape,2016,137552,fair,gasoline,automatic,suv,0,1,6464.11
+Hyundai,Tucson,2011,46421,good,gasoline,automatic,suv,1,1,6455.69
+Chevrolet,Equinox,2018,151815,good,gasoline,automatic,suv,1,2,6047.19
+Ford,Focus,2023,22587,poor,gasoline,automatic,hatchback,0,3,8784.44
+Chevrolet,Equinox,2021,25146,good,gasoline,automatic,suv,0,1,20705.89
+Toyota,Corolla,2025,9853,fair,diesel,automatic,sedan,0,1,18762.74
+BMW,X5,2013,206407,fair,gasoline,automatic,suv,0,1,7762.06
+Honda,Accord,2018,78109,fair,gasoline,automatic,sedan,0,2,9212.63
+Ford,F-150,2020,110253,good,gasoline,automatic,truck,0,2,19704.03
+Toyota,Camry,2005,269189,excellent,diesel,manual,sedan,0,1,1938.64
+Chevrolet,Traverse,2025,7313,fair,diesel,automatic,suv,1,2,25276.3
+Honda,Pilot,2023,47093,excellent,gasoline,automatic,suv,0,3,31968.84
+Hyundai,Tucson,2018,147776,excellent,gasoline,automatic,suv,0,1,11476.72
+BMW,i4,2022,22660,excellent,electric,automatic,wagon,0,3,42404.72
+Chevrolet,Traverse,2025,18168,fair,gasoline,automatic,suv,0,1,34235.91
+Nissan,Pathfinder,2005,113331,poor,gasoline,automatic,suv,0,2,2707.07
+Honda,Pilot,2025,13085,fair,gasoline,automatic,suv,1,5,23941.62
+BMW,5 Series,2006,261810,good,gasoline,automatic,sedan,0,1,4136.93
+BMW,X5,2018,141148,excellent,gasoline,automatic,suv,0,1,22060.91
+Honda,CR-V,2018,61988,fair,hybrid,automatic,suv,0,1,14845.25
+Ford,Focus,2009,67718,good,hybrid,automatic,hatchback,0,4,3860.23
+Chevrolet,Equinox,2022,39282,fair,gasoline,automatic,suv,0,3,15262.74
+Chevrolet,Bolt,2017,84144,fair,electric,automatic,hatchback,0,1,9836.23
+Toyota,RAV4,2018,127299,fair,gasoline,automatic,suv,1,1,6938.97
+Ford,Mustang,2007,50537,excellent,hybrid,automatic,coupe,0,1,8387.26
+Ford,Mustang,2021,92388,good,gasoline,automatic,coupe,0,1,18024.02
+Ford,Mustang,2022,38707,fair,gasoline,automatic,coupe,0,5,19107.15
+Chevrolet,Equinox,2023,25997,good,hybrid,automatic,suv,1,1,21178.8
+Honda,CR-V,2010,104079,fair,gasoline,automatic,suv,0,2,4959.52
+BMW,X3,2008,198371,good,hybrid,automatic,suv,0,1,5344.18
+Ford,Mustang,2013,62006,poor,gasoline,automatic,coupe,0,2,6060.28
+Ford,F-150,2011,187905,good,gasoline,manual,truck,1,1,3621.27
+Honda,Accord,2023,50962,good,gasoline,automatic,sedan,0,1,21390.05
+BMW,3 Series,2024,36404,good,gasoline,automatic,sedan,0,2,35464.0
+Tesla,Model S,2019,24108,good,electric,automatic,sedan,1,1,37928.84
+BMW,3 Series,2020,44628,good,gasoline,automatic,sedan,0,1,20167.56
+Hyundai,Elantra,2019,68790,excellent,gasoline,automatic,sedan,0,2,11868.23
+Tesla,Model X,2016,91151,excellent,electric,automatic,suv,0,2,37114.22
+Honda,Pilot,2017,87405,good,gasoline,automatic,suv,0,1,15311.06
+Honda,Accord,2020,68053,good,gasoline,automatic,sedan,0,1,13236.6
+Tesla,Model X,2013,207339,fair,electric,automatic,suv,0,2,11939.14
+Honda,Accord,2019,113653,excellent,gasoline,automatic,sedan,0,1,11211.06
+Toyota,Camry,2011,173048,fair,gasoline,automatic,sedan,0,1,2646.25
+Honda,Fit,2015,108986,excellent,gasoline,automatic,hatchback,0,3,5070.52
+Hyundai,Ioniq 5,2007,222728,good,electric,automatic,sedan,0,1,4142.0
+Honda,CR-V,2019,74498,good,gasoline,automatic,suv,1,2,12429.26
+Tesla,Model Y,2012,191944,fair,electric,automatic,suv,0,1,4697.53
+Nissan,Sentra,2014,113061,fair,gasoline,automatic,sedan,0,2,3805.04
+Ford,Explorer,2008,297637,fair,gasoline,automatic,suv,0,1,2476.46
+Honda,CR-V,2005,179437,good,gasoline,automatic,suv,0,1,2524.03
+Nissan,Pathfinder,2010,185518,good,gasoline,automatic,suv,0,1,4260.89
+Chevrolet,Traverse,2018,118961,fair,gasoline,automatic,suv,0,1,9880.16
+Ford,Escape,2006,123201,poor,gasoline,automatic,suv,0,2,2372.23
+Tesla,Model 3,2010,226850,poor,electric,automatic,sedan,0,1,2669.8
+Honda,Pilot,2020,34671,excellent,gasoline,automatic,suv,1,1,22873.06
+Tesla,Model 3,2017,112037,excellent,electric,automatic,sedan,0,1,17442.18
+Hyundai,Tucson,2009,249374,poor,gasoline,automatic,suv,1,1,1365.35
+Tesla,Model S,2016,51959,excellent,electric,automatic,sedan,0,1,37407.24
+Nissan,Sentra,2009,284720,good,gasoline,automatic,sedan,0,1,1889.76
+Hyundai,Tucson,2018,120569,fair,gasoline,automatic,suv,0,2,7898.06
+Hyundai,Elantra,2011,239702,good,gasoline,automatic,sedan,0,2,2291.89
+Ford,Mustang,2021,48223,good,hybrid,manual,coupe,0,1,23028.29
+Ford,Escape,2017,53632,fair,gasoline,automatic,suv,0,1,11288.07
+Tesla,Model Y,2013,78324,good,electric,automatic,suv,1,5,10546.55
+Nissan,Leaf,2013,132154,excellent,electric,automatic,hatchback,0,2,6599.26
+Nissan,Pathfinder,2015,36225,excellent,gasoline,automatic,suv,0,2,17931.09
+Honda,Accord,2010,97753,good,gasoline,automatic,sedan,0,2,5033.72
+Toyota,Corolla,2024,33685,good,diesel,automatic,sedan,0,1,18515.13
+Honda,Fit,2011,229482,fair,gasoline,automatic,hatchback,0,2,1500.38
+Tesla,Model X,2025,17640,good,electric,automatic,suv,0,3,85991.5
+Tesla,Model X,2008,275166,good,electric,automatic,suv,1,2,6788.88
+Ford,Explorer,2006,77538,good,diesel,automatic,suv,0,1,6811.31
+Nissan,Sentra,2016,151960,excellent,gasoline,automatic,sedan,0,1,4908.1
+Ford,Focus,2012,231670,excellent,hybrid,automatic,hatchback,0,2,2761.98
+Tesla,Model S,2011,216205,good,electric,automatic,sedan,0,3,9087.1
+Toyota,Highlander,2008,69184,good,hybrid,manual,suv,0,2,7658.69
+BMW,3 Series,2011,272694,poor,gasoline,automatic,sedan,0,2,2899.11
+Hyundai,Santa Fe,2022,53703,excellent,diesel,automatic,suv,1,2,20979.89
+Chevrolet,Silverado,2018,89703,excellent,diesel,automatic,truck,1,2,17823.73
+Ford,Focus,2020,72067,excellent,gasoline,automatic,hatchback,0,1,10704.41
+Hyundai,Sonata,2016,180918,excellent,gasoline,automatic,wagon,1,4,3621.4
+Hyundai,Elantra,2023,34611,poor,gasoline,automatic,sedan,1,1,8543.79
+Honda,CR-V,2007,147328,excellent,hybrid,automatic,suv,0,1,4627.15
+Ford,F-150,2006,123279,poor,gasoline,automatic,truck,0,1,4075.87
+Chevrolet,Traverse,2014,150870,excellent,gasoline,automatic,suv,0,2,8182.1
+BMW,5 Series,2016,42056,good,hybrid,automatic,sedan,0,3,20055.36
+Chevrolet,Equinox,2013,201091,good,gasoline,automatic,suv,0,1,3907.0
+Hyundai,Sonata,2023,48776,good,gasoline,automatic,sedan,0,3,18119.85
+Nissan,Leaf,2020,84708,fair,electric,automatic,hatchback,0,5,9449.63
+Nissan,Altima,2021,20406,good,gasoline,automatic,sedan,0,2,16196.61
+Chevrolet,Bolt,2017,66530,good,electric,automatic,hatchback,1,2,8492.59
+Chevrolet,Traverse,2016,74980,fair,gasoline,automatic,suv,0,1,11414.66
+Toyota,Corolla,2018,107552,good,hybrid,automatic,sedan,0,1,8715.04
+Chevrolet,Bolt,2012,39982,excellent,electric,automatic,hatchback,0,1,9457.43
+Honda,CR-V,2021,36890,good,gasoline,automatic,suv,0,2,20034.41
+Honda,Accord,2023,27878,fair,gasoline,manual,sedan,0,2,16447.63
+Toyota,RAV4,2024,23297,fair,gasoline,automatic,suv,0,1,26527.11
+Ford,Explorer,2013,160318,excellent,gasoline,automatic,suv,0,3,7806.1
+Toyota,Camry,2011,174217,poor,hybrid,automatic,sedan,0,1,2437.25
+Honda,Accord,2017,138990,fair,gasoline,automatic,sedan,1,1,4887.93
+Honda,Accord,2024,15303,good,gasoline,automatic,sedan,0,1,23534.03
+Toyota,Camry,2015,144068,good,gasoline,automatic,sedan,1,1,4823.9
+Honda,Fit,2010,66245,good,gasoline,automatic,hatchback,1,4,2660.4
+Toyota,Corolla,2025,16151,fair,hybrid,automatic,sedan,0,3,18712.74
+BMW,3 Series,2017,24377,good,gasoline,automatic,sedan,0,1,20658.25
+Chevrolet,Malibu,2006,84332,fair,gasoline,automatic,sedan,0,2,2677.31
+Chevrolet,Malibu,2005,59720,fair,gasoline,automatic,sedan,0,1,3343.43
+Hyundai,Santa Fe,2018,30498,fair,hybrid,automatic,suv,0,1,16731.8
+Toyota,Highlander,2007,156034,excellent,gasoline,automatic,suv,1,1,3868.37
+Tesla,Model S,2018,149921,excellent,electric,automatic,sedan,0,4,24278.09
+Toyota,Prius,2008,219620,fair,hybrid,automatic,hatchback,0,1,1899.59
+BMW,i4,2012,91436,good,electric,automatic,sedan,1,2,11153.09
+Nissan,Rogue,2018,66639,good,gasoline,automatic,suv,0,1,13371.88
+Toyota,RAV4,2020,46253,poor,gasoline,automatic,suv,0,1,10365.72
+Toyota,RAV4,2019,22119,poor,gasoline,automatic,suv,0,1,12420.78
+Chevrolet,Silverado,2022,33500,fair,gasoline,automatic,truck,1,4,20628.27
+Chevrolet,Malibu,2017,85403,good,gasoline,automatic,sedan,0,1,8311.95
+Ford,Escape,2017,45186,fair,gasoline,automatic,suv,1,4,8542.19
+Hyundai,Santa Fe,2007,121002,poor,gasoline,automatic,suv,0,3,2826.69
+Chevrolet,Malibu,2019,72905,good,gasoline,automatic,sedan,0,2,10824.51
+Chevrolet,Silverado,2011,264410,fair,gasoline,automatic,truck,0,2,4551.43
+Tesla,Model X,2010,186245,good,electric,automatic,suv,0,1,11821.87
+Toyota,RAV4,2014,216797,excellent,gasoline,automatic,suv,0,1,4892.69
+Tesla,Model Y,2011,204997,fair,electric,automatic,suv,0,2,5324.86
+Toyota,Camry,2014,46789,good,hybrid,automatic,sedan,0,2,9077.6
+Nissan,Pathfinder,2012,197540,excellent,gasoline,automatic,suv,0,1,5037.53
+Chevrolet,Silverado,2019,73563,fair,hybrid,automatic,truck,0,3,19285.84
+Toyota,Corolla,2010,197979,good,hybrid,automatic,sedan,0,1,2581.12
+Honda,Civic,2012,112769,good,gasoline,automatic,sedan,0,1,4865.23
+Honda,Civic,2005,120461,good,gasoline,automatic,sedan,0,1,2442.82
+Hyundai,Sonata,2015,138977,excellent,gasoline,automatic,sedan,0,1,6155.09
+Chevrolet,Silverado,2022,15038,good,gasoline,automatic,truck,1,2,26544.64
+Toyota,Camry,2020,14892,excellent,gasoline,manual,sedan,1,1,13275.21
+Hyundai,Tucson,2006,179102,fair,hybrid,automatic,suv,0,2,2120.65
+Nissan,Leaf,2019,86583,good,electric,automatic,hatchback,0,1,12428.41
+Hyundai,Santa Fe,2011,47902,fair,gasoline,automatic,suv,0,4,7121.99
+Toyota,Camry,2010,191059,fair,gasoline,automatic,sedan,0,4,1875.86
+Honda,Pilot,2005,264060,fair,diesel,automatic,suv,0,4,2199.3
+Chevrolet,Equinox,2005,299684,fair,gasoline,automatic,suv,1,2,1200.0
+Toyota,Camry,2019,24935,fair,gasoline,automatic,sedan,0,1,10063.36
+Nissan,Leaf,2021,29611,good,electric,automatic,hatchback,0,1,20051.49
+Hyundai,Tucson,2012,197119,poor,gasoline,automatic,suv,0,2,2271.09
+Toyota,Prius,2022,64818,good,hybrid,automatic,hatchback,0,1,15432.7
+Nissan,Pathfinder,2007,233416,fair,gasoline,automatic,suv,0,3,2412.04
+Tesla,Model S,2015,87501,fair,electric,automatic,wagon,0,2,20807.73
+Hyundai,Santa Fe,2015,152035,fair,gasoline,automatic,suv,0,2,5782.21
+Tesla,Model Y,2020,24407,good,electric,automatic,suv,0,1,34033.36
+Tesla,Model X,2013,172625,good,electric,automatic,suv,0,1,14513.68
+Ford,Explorer,2015,181458,good,gasoline,automatic,suv,0,2,6995.92
+Hyundai,Ioniq 5,2023,22190,fair,electric,automatic,sedan,1,1,23794.31
+Toyota,Highlander,2022,66519,good,gasoline,automatic,suv,1,2,17116.73
+Nissan,Pathfinder,2017,68780,fair,gasoline,automatic,suv,0,1,13451.93
+Chevrolet,Malibu,2008,71826,good,gasoline,automatic,sedan,0,3,3654.91
+Ford,Focus,2012,40515,excellent,gasoline,automatic,hatchback,0,2,5676.38
+Ford,Focus,2005,283270,excellent,gasoline,manual,hatchback,0,1,1318.88
+Chevrolet,Traverse,2022,39890,fair,gasoline,automatic,suv,0,1,22713.89
+Nissan,Rogue,2010,194385,good,gasoline,automatic,suv,0,2,3081.83
+Honda,Pilot,2022,29835,excellent,gasoline,automatic,suv,1,5,20540.97
+Tesla,Model X,2011,175334,good,electric,automatic,suv,0,1,13124.49
+Nissan,Leaf,2009,227428,excellent,electric,automatic,hatchback,1,1,2340.51
+Tesla,Model S,2019,76446,fair,electric,automatic,sedan,0,1,34609.88
+Honda,Pilot,2021,54359,fair,diesel,automatic,suv,0,1,22719.51
+Toyota,Corolla,2010,57366,good,gasoline,automatic,wagon,0,5,4352.33
+Hyundai,Sonata,2019,101536,excellent,gasoline,automatic,sedan,0,2,11791.1
+Ford,Focus,2005,180600,poor,gasoline,automatic,hatchback,0,4,1200.0
+Toyota,Corolla,2021,63940,fair,gasoline,manual,sedan,1,1,6772.57
+Chevrolet,Traverse,2018,148521,fair,gasoline,automatic,suv,1,2,6151.56
+Hyundai,Elantra,2025,8065,fair,gasoline,automatic,sedan,0,3,17636.22
+Chevrolet,Traverse,2008,246148,poor,gasoline,automatic,suv,1,1,1740.3
+Ford,Explorer,2014,200549,good,gasoline,manual,suv,0,5,4477.51
+Ford,Focus,2013,201184,excellent,gasoline,automatic,hatchback,0,3,2760.64
+Ford,F-150,2012,44044,good,gasoline,automatic,truck,0,1,14254.05
+Honda,Fit,2011,266145,good,gasoline,automatic,hatchback,0,1,1918.67
+Toyota,Camry,2007,285468,good,diesel,automatic,sedan,1,2,1440.54
+Tesla,Model X,2007,253251,good,electric,automatic,suv,0,2,7610.55
+Toyota,Camry,2006,238260,poor,diesel,automatic,sedan,1,2,1200.0
+Tesla,Model S,2022,31957,good,electric,automatic,sedan,1,1,54880.56
+Tesla,Model 3,2015,93177,poor,electric,automatic,sedan,0,1,9069.43
+Ford,Focus,2005,119685,good,gasoline,manual,hatchback,0,1,1967.03
+Nissan,Rogue,2005,82010,fair,gasoline,automatic,suv,0,4,3161.1
+Ford,Explorer,2008,86234,good,gasoline,automatic,suv,0,2,7129.98
+Hyundai,Sonata,2020,106697,fair,gasoline,automatic,sedan,1,2,6853.67
+Hyundai,Sonata,2005,151070,fair,gasoline,automatic,sedan,0,2,1817.42
+Toyota,Highlander,2018,144722,good,gasoline,automatic,suv,0,1,12801.81
+BMW,i4,2014,28637,good,electric,automatic,sedan,0,2,23706.75
+Honda,Accord,2019,90007,fair,gasoline,automatic,wagon,0,3,8074.8
+Tesla,Model X,2014,217114,good,electric,automatic,suv,0,1,14604.02
+Chevrolet,Traverse,2013,108948,excellent,diesel,automatic,suv,0,2,11294.29
+Ford,Escape,2008,231751,fair,gasoline,automatic,suv,0,2,2113.05
+Tesla,Model S,2018,37343,good,electric,automatic,sedan,0,2,44000.46
+BMW,i4,2009,156054,excellent,electric,automatic,sedan,0,2,8151.66
+Toyota,Camry,2013,35074,excellent,hybrid,automatic,sedan,0,1,10186.66
+Chevrolet,Malibu,2009,163575,good,gasoline,automatic,sedan,0,1,2823.5
+BMW,3 Series,2018,26547,good,diesel,automatic,wagon,1,2,17221.1
+Hyundai,Santa Fe,2017,136178,excellent,gasoline,automatic,suv,0,1,11409.85
+Hyundai,Sonata,2020,53073,fair,gasoline,automatic,sedan,0,2,11902.78
+Toyota,Prius,2024,42270,excellent,hybrid,automatic,hatchback,0,2,23279.09
+BMW,i4,2022,28570,good,electric,automatic,sedan,1,2,36037.06
+BMW,3 Series,2012,41613,excellent,gasoline,automatic,sedan,0,2,14521.34
+Nissan,Rogue,2018,100719,good,gasoline,automatic,suv,0,3,11877.0
+Honda,Accord,2013,42220,good,gasoline,automatic,sedan,0,1,7641.92
+BMW,3 Series,2017,124997,fair,gasoline,automatic,sedan,0,2,9704.65
+Chevrolet,Traverse,2024,13381,good,gasoline,automatic,suv,0,2,36907.39
+Tesla,Model Y,2007,239729,excellent,electric,automatic,suv,0,1,5337.9
+Tesla,Model Y,2016,45136,fair,electric,automatic,suv,0,2,18226.52
+Hyundai,Sonata,2012,99697,good,gasoline,automatic,sedan,0,1,5721.07
+Nissan,Rogue,2010,69699,poor,gasoline,automatic,suv,0,1,4847.31
+Toyota,Highlander,2014,180000,good,gasoline,automatic,suv,1,2,5148.46
+Honda,Civic,2020,80717,good,gasoline,manual,sedan,0,4,8719.47
+Nissan,Altima,2007,177272,fair,gasoline,automatic,sedan,0,1,1856.31
+Honda,Accord,2007,111630,good,gasoline,automatic,sedan,0,2,3597.5
+Toyota,RAV4,2023,28052,good,gasoline,automatic,suv,0,1,26483.25
+Chevrolet,Equinox,2019,74862,fair,gasoline,automatic,suv,0,1,11191.58
+Nissan,Pathfinder,2020,58101,good,gasoline,automatic,suv,0,1,20094.32
+Hyundai,Tucson,2022,32904,fair,gasoline,automatic,suv,0,5,15842.37
+Tesla,Model 3,2005,64485,good,electric,automatic,sedan,0,2,6079.37
+Chevrolet,Traverse,2020,20206,fair,gasoline,manual,suv,0,1,17903.91
+Ford,Explorer,2017,43702,excellent,gasoline,automatic,suv,0,4,17010.2
+Chevrolet,Equinox,2017,101789,fair,hybrid,automatic,suv,1,2,7406.22
+Chevrolet,Traverse,2005,98115,fair,gasoline,automatic,suv,0,1,4032.56
+Honda,Civic,2025,9449,excellent,gasoline,automatic,sedan,1,2,18897.43
+Ford,Escape,2013,234869,excellent,gasoline,automatic,suv,0,2,4133.48
+Hyundai,Sonata,2023,16877,poor,gasoline,automatic,wagon,0,2,12196.47
+Ford,Explorer,2012,82490,excellent,gasoline,automatic,suv,1,3,9433.69
+Chevrolet,Malibu,2014,117481,excellent,gasoline,automatic,sedan,0,2,6244.89
+Ford,Mustang,2005,228088,good,gasoline,automatic,coupe,0,4,2119.13
+Hyundai,Sonata,2022,73454,fair,gasoline,automatic,wagon,0,3,11046.12
+Hyundai,Sonata,2020,81780,fair,gasoline,automatic,sedan,1,1,7683.85
+BMW,i4,2007,343679,excellent,electric,automatic,sedan,0,1,5527.85
+Ford,F-150,2015,151168,good,hybrid,automatic,truck,1,1,9707.19
+Ford,Explorer,2010,38359,fair,diesel,automatic,suv,1,4,6186.42
+Tesla,Model S,2012,76157,fair,electric,automatic,sedan,0,3,17461.48
+Hyundai,Tucson,2007,325237,fair,diesel,automatic,suv,0,1,2164.64
+Toyota,Camry,2005,68568,poor,gasoline,automatic,sedan,0,2,2267.59
+Toyota,Camry,2017,138737,fair,gasoline,automatic,sedan,0,1,6191.35
+Chevrolet,Bolt,2025,10238,fair,electric,automatic,hatchback,0,2,26176.36
+Honda,Pilot,2019,19962,good,diesel,automatic,suv,0,3,20406.77
+Toyota,Prius,2016,58180,poor,hybrid,automatic,hatchback,0,2,6737.56
+Ford,Mustang,2006,108779,fair,gasoline,automatic,coupe,1,2,2925.49
+Nissan,Sentra,2011,183361,excellent,gasoline,automatic,sedan,0,1,2835.11
+Nissan,Pathfinder,2022,67007,fair,gasoline,automatic,suv,0,2,18238.38
+Chevrolet,Equinox,2005,172479,excellent,gasoline,manual,suv,0,3,2046.67
+BMW,X5,2021,57986,fair,gasoline,automatic,suv,1,2,22780.66
+BMW,5 Series,2011,174731,excellent,hybrid,manual,sedan,0,2,6506.31
+Ford,F-150,2019,35015,good,gasoline,automatic,truck,1,3,19114.29
+Ford,Focus,2023,25423,good,gasoline,automatic,hatchback,0,3,14807.28
+Toyota,RAV4,2022,28279,good,gasoline,automatic,suv,0,1,24834.7
+Toyota,RAV4,2009,134541,good,gasoline,manual,suv,0,2,4466.74
+Hyundai,Santa Fe,2020,86586,fair,gasoline,automatic,suv,0,2,14068.13
+Tesla,Model X,2025,5957,excellent,electric,automatic,suv,0,2,115847.77
+Tesla,Model 3,2023,25358,good,electric,automatic,sedan,0,1,34869.81
+Toyota,Corolla,2007,75983,good,gasoline,automatic,sedan,0,4,3036.34
+Tesla,Model Y,2005,304726,good,electric,automatic,suv,0,2,4057.25
+Chevrolet,Silverado,2017,108014,poor,gasoline,manual,truck,0,5,7739.42
+Ford,Mustang,2019,79002,fair,gasoline,manual,coupe,0,1,13085.84
+BMW,i4,2012,257679,fair,electric,automatic,sedan,0,1,5538.13
+Ford,Focus,2009,94840,good,gasoline,automatic,hatchback,0,1,3359.07
+Hyundai,Elantra,2015,141527,fair,gasoline,automatic,sedan,0,1,3934.8
+Tesla,Model S,2019,123600,excellent,electric,automatic,sedan,0,4,29319.86
+Nissan,Rogue,2019,49964,good,gasoline,manual,suv,0,1,12908.55
+Tesla,Model X,2024,22822,good,electric,automatic,suv,0,2,87389.71
+Chevrolet,Equinox,2006,198020,fair,gasoline,automatic,suv,0,2,1675.82
+Chevrolet,Silverado,2020,24849,fair,gasoline,automatic,truck,0,3,22640.59
+Tesla,Model Y,2014,126070,excellent,electric,automatic,suv,0,1,13619.84
+Ford,Mustang,2010,143816,good,gasoline,automatic,coupe,0,2,5861.17
+Chevrolet,Equinox,2010,220807,good,gasoline,automatic,suv,0,2,2854.18
+BMW,i4,2023,57965,poor,electric,automatic,sedan,0,2,24480.87
+Nissan,Rogue,2007,150806,good,gasoline,automatic,suv,1,2,2617.52
+Nissan,Rogue,2017,139178,fair,gasoline,automatic,suv,0,1,7408.73
+Chevrolet,Malibu,2020,87478,poor,gasoline,automatic,sedan,0,2,6847.57
+Hyundai,Elantra,2005,234087,excellent,gasoline,automatic,sedan,0,2,1564.79
+Nissan,Leaf,2015,155791,fair,electric,automatic,hatchback,0,3,4823.76
+Hyundai,Ioniq 5,2022,16050,excellent,electric,automatic,wagon,0,1,42827.53
+Hyundai,Sonata,2022,73989,excellent,hybrid,automatic,sedan,0,1,19737.35
+BMW,X3,2007,106796,good,gasoline,automatic,suv,1,1,6333.32
+BMW,3 Series,2016,50573,excellent,gasoline,automatic,sedan,0,1,19391.25
+Hyundai,Elantra,2025,25407,good,gasoline,automatic,sedan,0,1,19712.58
+Toyota,Camry,2006,165032,excellent,gasoline,automatic,wagon,0,1,2553.66
+Chevrolet,Malibu,2022,70241,poor,gasoline,automatic,sedan,0,2,8175.74
+BMW,X3,2022,26190,excellent,gasoline,automatic,suv,0,1,42322.7
+Nissan,Pathfinder,2020,34135,good,gasoline,automatic,suv,0,3,21238.13
+Nissan,Pathfinder,2005,135456,good,diesel,automatic,suv,0,2,3804.9
+BMW,X5,2010,124214,fair,gasoline,automatic,suv,0,2,8527.8
+Toyota,RAV4,2021,79288,good,gasoline,automatic,suv,0,1,18691.64
+Nissan,Rogue,2023,18772,poor,gasoline,automatic,suv,0,2,15270.29
+Nissan,Altima,2025,8961,fair,gasoline,automatic,sedan,0,2,20169.14
+Ford,Focus,2006,300315,fair,gasoline,automatic,hatchback,0,2,1200.0
+Toyota,Prius,2022,52300,fair,hybrid,automatic,hatchback,0,1,14711.06
+Chevrolet,Bolt,2017,72246,good,electric,automatic,hatchback,0,1,11506.62
+Hyundai,Elantra,2015,119783,good,gasoline,automatic,sedan,1,1,3986.16
+Toyota,Prius,2024,25374,good,hybrid,automatic,hatchback,0,1,21918.26
+Toyota,RAV4,2025,11297,excellent,gasoline,automatic,suv,0,2,36014.02
+Ford,Escape,2025,12885,fair,gasoline,automatic,suv,0,1,27243.9
+Nissan,Pathfinder,2025,13327,excellent,gasoline,automatic,suv,0,2,39254.74
+Tesla,Model S,2022,64146,fair,electric,automatic,sedan,0,1,52843.47
+Honda,CR-V,2021,24940,excellent,hybrid,automatic,suv,0,5,23064.85
+Hyundai,Elantra,2009,244691,good,gasoline,automatic,sedan,0,3,1897.03
+Toyota,Corolla,2014,164442,good,gasoline,automatic,sedan,0,2,3825.05
+Chevrolet,Equinox,2022,35706,good,hybrid,automatic,suv,0,2,23901.62
+Chevrolet,Bolt,2015,174931,excellent,electric,automatic,hatchback,1,1,4901.75
+Tesla,Model Y,2024,28652,fair,electric,automatic,suv,1,1,28714.01
+Honda,Pilot,2006,168412,good,gasoline,manual,suv,1,1,2752.93
+Hyundai,Elantra,2024,21517,excellent,gasoline,automatic,sedan,0,1,21473.83
+Hyundai,Ioniq 5,2018,104198,fair,electric,automatic,sedan,0,3,13268.11
+Toyota,Corolla,2016,151829,excellent,gasoline,automatic,sedan,0,1,6674.61
+Ford,Escape,2017,49509,poor,gasoline,manual,suv,1,1,5793.17
+Chevrolet,Bolt,2020,66910,poor,electric,automatic,hatchback,0,1,10853.51
+Toyota,Prius,2014,95624,good,hybrid,automatic,hatchback,0,2,7226.69
+Hyundai,Santa Fe,2023,16536,good,diesel,automatic,suv,0,1,35547.36
+Tesla,Model Y,2011,61868,excellent,electric,automatic,suv,0,2,15014.89
+Toyota,Prius,2019,45006,good,hybrid,automatic,hatchback,0,3,13356.07
+Ford,Explorer,2013,65477,excellent,gasoline,automatic,suv,0,3,12208.86
+Toyota,Camry,2022,31474,excellent,hybrid,automatic,sedan,0,1,22856.44
+Hyundai,Ioniq 5,2009,55264,fair,electric,automatic,sedan,1,1,6625.76
+Toyota,Corolla,2005,88500,fair,gasoline,automatic,sedan,0,3,2323.39
+Ford,Escape,2008,134492,good,hybrid,automatic,suv,0,2,4465.32
+Tesla,Model X,2021,39543,excellent,electric,automatic,suv,0,3,74967.63
+Toyota,Prius,2019,67355,excellent,hybrid,automatic,hatchback,0,2,13163.03
+Toyota,RAV4,2008,243003,excellent,gasoline,automatic,suv,0,2,3007.49
+Nissan,Altima,2013,124266,good,gasoline,automatic,sedan,0,1,5602.34
+Toyota,Highlander,2018,118018,good,gasoline,automatic,suv,0,1,14461.78
+Hyundai,Ioniq 5,2010,173868,fair,electric,automatic,sedan,0,2,4129.21
+Hyundai,Tucson,2024,29980,excellent,gasoline,automatic,suv,0,1,32413.52
+Ford,Escape,2022,40507,good,gasoline,automatic,suv,0,2,20531.47
+BMW,3 Series,2021,42608,fair,diesel,automatic,wagon,0,5,17850.79
+Toyota,Camry,2005,349415,good,gasoline,manual,sedan,0,1,1525.33
+Hyundai,Ioniq 5,2016,127474,poor,electric,automatic,sedan,0,2,7885.54
+Ford,F-150,2019,96027,good,gasoline,automatic,truck,1,1,17636.98
+Hyundai,Elantra,2014,204962,good,gasoline,automatic,sedan,1,1,2561.42
+Honda,Accord,2019,21154,poor,gasoline,automatic,sedan,0,1,9378.31
+Ford,Escape,2025,14049,good,diesel,manual,suv,1,3,20323.55
+Hyundai,Sonata,2018,49388,poor,gasoline,automatic,sedan,0,1,6532.47
+Hyundai,Elantra,2014,43106,fair,hybrid,automatic,sedan,0,2,6546.5
+Tesla,Model 3,2009,131818,poor,electric,automatic,wagon,1,1,3084.4
+Toyota,RAV4,2008,301561,good,gasoline,automatic,suv,0,1,3305.0
+Tesla,Model X,2024,30449,good,electric,automatic,suv,0,2,84199.64
+Chevrolet,Silverado,2017,31133,poor,gasoline,automatic,truck,0,3,13193.69
+BMW,5 Series,2021,85139,fair,gasoline,automatic,sedan,0,2,23780.78
+Chevrolet,Bolt,2022,45647,fair,electric,automatic,hatchback,1,1,14730.76
+Honda,Fit,2016,171947,fair,gasoline,automatic,hatchback,0,1,2794.84
+Toyota,Highlander,2015,168006,good,diesel,automatic,suv,0,2,7459.9
+Toyota,Corolla,2014,38985,good,gasoline,automatic,sedan,1,1,6201.96
+BMW,5 Series,2021,95721,excellent,gasoline,automatic,sedan,0,1,25476.89
+Chevrolet,Traverse,2014,97996,good,gasoline,automatic,suv,0,2,9939.88
+Hyundai,Sonata,2010,183149,poor,gasoline,automatic,sedan,0,1,1653.35
+Hyundai,Tucson,2012,184103,good,hybrid,automatic,suv,0,1,3910.94
+Ford,Escape,2017,65164,fair,hybrid,automatic,suv,1,2,8709.75
+Nissan,Pathfinder,2005,191758,good,gasoline,automatic,suv,0,3,2366.19
+Tesla,Model Y,2009,93649,excellent,electric,automatic,suv,0,3,10102.78
+BMW,3 Series,2016,160203,good,gasoline,manual,sedan,0,1,8224.52
+Toyota,Prius,2014,55451,good,hybrid,automatic,hatchback,0,2,8989.44
+Ford,F-150,2005,194359,good,gasoline,automatic,truck,0,2,3248.08
+Tesla,Model 3,2011,173129,fair,electric,automatic,sedan,0,1,4862.47
+Tesla,Model 3,2016,26788,good,electric,automatic,sedan,0,1,19516.42
+Ford,Escape,2005,329094,good,gasoline,manual,suv,1,1,1444.93
+Ford,Mustang,2023,30113,fair,gasoline,automatic,coupe,0,2,21147.01
+Honda,Accord,2012,227745,fair,gasoline,automatic,sedan,0,1,2787.28
+Chevrolet,Traverse,2008,248219,fair,gasoline,automatic,suv,0,1,2642.54
+Honda,Civic,2009,242978,fair,gasoline,manual,sedan,0,2,1577.83
+Chevrolet,Silverado,2016,71020,fair,gasoline,automatic,truck,0,1,15053.49
+Tesla,Model S,2025,13387,fair,electric,automatic,sedan,0,4,60795.75
+Ford,F-150,2013,172836,good,gasoline,automatic,truck,0,3,6888.27
+Tesla,Model S,2006,190858,excellent,electric,automatic,sedan,0,1,7850.06
+Ford,Focus,2019,109536,good,gasoline,automatic,hatchback,0,3,7121.94
+Tesla,Model X,2017,143771,excellent,electric,automatic,suv,0,2,29824.25
+Nissan,Altima,2022,51161,excellent,hybrid,automatic,sedan,0,1,20590.69
+Hyundai,Elantra,2021,20829,poor,diesel,automatic,sedan,1,1,7096.48
+Ford,Escape,2010,216537,good,gasoline,automatic,suv,0,2,3307.78
+Hyundai,Elantra,2006,292867,good,gasoline,automatic,sedan,0,1,1687.18
+Nissan,Leaf,2005,214296,poor,electric,automatic,hatchback,0,3,1200.0
+Ford,Mustang,2025,20595,excellent,gasoline,automatic,coupe,0,3,34419.51
+Toyota,Prius,2006,104281,good,hybrid,manual,hatchback,0,1,3561.11
+Honda,Pilot,2006,295925,good,gasoline,automatic,suv,0,2,2808.76
+Hyundai,Sonata,2006,261799,good,gasoline,automatic,sedan,0,2,1550.23
+Tesla,Model Y,2023,8103,fair,electric,automatic,suv,0,1,40924.52
+Ford,Explorer,2019,32180,fair,gasoline,automatic,suv,0,3,20335.25
+Ford,Escape,2005,176371,excellent,diesel,automatic,suv,0,3,2842.68
+BMW,i4,2013,123837,fair,electric,automatic,sedan,0,1,11378.36
+BMW,X5,2024,36403,fair,gasoline,manual,suv,0,1,44570.25
+Ford,F-150,2015,107920,poor,gasoline,automatic,truck,1,3,5739.42
+Honda,CR-V,2016,61452,fair,gasoline,automatic,suv,0,1,10538.45
+Tesla,Model 3,2015,157867,good,electric,automatic,sedan,0,4,7736.24
+Hyundai,Tucson,2010,236936,good,gasoline,automatic,suv,0,1,3291.14
+Chevrolet,Equinox,2014,29834,good,gasoline,automatic,suv,1,1,7969.57
+Chevrolet,Bolt,2014,112557,good,electric,automatic,hatchback,0,2,7209.82
+Nissan,Sentra,2013,189891,fair,gasoline,automatic,sedan,0,3,1996.92
+Nissan,Altima,2009,88706,fair,gasoline,automatic,sedan,1,5,2404.73
+Honda,CR-V,2025,8595,poor,diesel,automatic,suv,0,5,17508.53
+BMW,X5,2017,63354,good,gasoline,automatic,suv,1,2,19411.44
+Honda,Accord,2020,19087,poor,hybrid,automatic,wagon,0,2,10857.57
+Ford,Mustang,2009,235323,fair,gasoline,manual,coupe,0,3,2240.85
+Ford,Mustang,2016,72551,poor,gasoline,automatic,coupe,0,1,8154.63
+Ford,Escape,2020,50614,good,gasoline,automatic,suv,0,1,16308.26
+Honda,Pilot,2025,16466,fair,gasoline,automatic,suv,0,2,32608.02
+Hyundai,Tucson,2021,37782,good,gasoline,automatic,suv,0,2,19234.02
+Nissan,Sentra,2007,296366,good,gasoline,automatic,sedan,0,3,1383.23
+Toyota,Highlander,2010,101910,good,gasoline,automatic,suv,0,2,7319.85
+Tesla,Model X,2023,16994,poor,electric,automatic,suv,0,2,48622.0
+BMW,i4,2023,43899,good,electric,automatic,sedan,0,3,40548.16
+Honda,Civic,2016,84759,good,gasoline,automatic,sedan,0,1,8156.69
+Nissan,Leaf,2023,17338,good,electric,automatic,hatchback,0,1,24715.79
+Honda,Fit,2022,30200,good,gasoline,automatic,hatchback,0,4,10197.96
+Tesla,Model 3,2025,19421,good,electric,automatic,wagon,0,2,41755.74
+Chevrolet,Bolt,2024,21527,good,electric,automatic,hatchback,0,1,28778.17
+Chevrolet,Malibu,2008,49912,fair,gasoline,automatic,sedan,0,1,3947.03
+Ford,Focus,2017,120249,excellent,gasoline,automatic,hatchback,0,1,6651.18
+Ford,Mustang,2006,202870,excellent,gasoline,automatic,coupe,0,2,3143.42
+Tesla,Model X,2017,59246,good,electric,automatic,suv,1,3,30170.34
+Chevrolet,Bolt,2018,98068,poor,electric,automatic,hatchback,0,1,6773.88
+BMW,3 Series,2011,269669,good,gasoline,automatic,sedan,0,2,4117.2
+Hyundai,Tucson,2013,52822,excellent,gasoline,automatic,suv,0,1,11586.56
+Nissan,Leaf,2007,183511,fair,electric,automatic,hatchback,0,1,2056.54
+Toyota,Camry,2012,256238,good,gasoline,automatic,sedan,0,2,2563.19
+Toyota,Prius,2022,67658,excellent,hybrid,automatic,hatchback,0,2,19061.87
+Ford,F-150,2023,44143,good,hybrid,automatic,truck,1,4,29085.98
+Chevrolet,Equinox,2022,52856,fair,gasoline,automatic,suv,1,2,12918.46
+Tesla,Model Y,2019,54070,excellent,electric,automatic,suv,0,1,33896.91
+Ford,Mustang,2024,19767,good,gasoline,manual,coupe,1,4,20372.71
+Chevrolet,Traverse,2021,70786,good,gasoline,manual,suv,0,1,19620.03
+Hyundai,Ioniq 5,2015,110712,good,electric,automatic,sedan,0,1,11907.41
+Ford,Escape,2013,116892,good,gasoline,automatic,suv,0,3,6232.93
+BMW,X3,2018,80590,excellent,gasoline,automatic,suv,0,2,21105.94
+Tesla,Model S,2016,38162,good,electric,automatic,sedan,1,2,27266.93
+Hyundai,Santa Fe,2023,60244,good,gasoline,automatic,suv,0,3,22931.31
+Chevrolet,Equinox,2019,117837,fair,gasoline,automatic,suv,0,1,8582.7
+Hyundai,Ioniq 5,2024,32855,excellent,electric,automatic,sedan,0,4,42834.17
+Ford,Escape,2016,110510,good,gasoline,manual,suv,1,3,6114.16
+Chevrolet,Traverse,2018,118596,fair,gasoline,automatic,suv,0,1,11051.62
+BMW,i4,2023,43376,good,electric,automatic,sedan,0,4,41883.43
+Nissan,Altima,2010,285391,excellent,gasoline,automatic,sedan,0,2,2787.33
+Honda,Accord,2022,27581,good,gasoline,automatic,sedan,0,3,18714.4
+Chevrolet,Malibu,2008,120607,fair,gasoline,automatic,wagon,1,3,2011.84
+Honda,Accord,2021,72280,poor,hybrid,automatic,sedan,0,4,8834.7
+Toyota,Prius,2023,40071,excellent,hybrid,automatic,hatchback,0,1,23203.75
+Tesla,Model X,2021,74785,good,electric,automatic,suv,0,2,50382.56
+Honda,Fit,2015,176023,good,gasoline,automatic,hatchback,0,4,2524.62
+Ford,Explorer,2016,25135,good,gasoline,automatic,suv,1,3,13958.0
+Honda,Pilot,2024,33796,fair,hybrid,automatic,suv,0,2,34053.61
+Ford,Explorer,2007,121192,excellent,gasoline,manual,suv,0,5,5180.26
+Tesla,Model S,2023,49054,fair,electric,automatic,sedan,0,3,45439.48
+Tesla,Model 3,2021,75369,fair,electric,automatic,sedan,0,1,17360.04
+Nissan,Leaf,2008,111552,good,electric,automatic,hatchback,0,2,4374.87
+BMW,5 Series,2018,115789,fair,gasoline,automatic,wagon,0,2,13810.1
+BMW,X3,2007,150375,excellent,gasoline,automatic,suv,0,2,5979.38
+Tesla,Model 3,2016,113588,fair,electric,automatic,wagon,0,2,9820.31
+Hyundai,Tucson,2006,178258,excellent,gasoline,automatic,suv,0,1,2843.35
+Tesla,Model X,2008,109506,fair,electric,automatic,suv,1,1,10423.59
+Chevrolet,Silverado,2013,175361,fair,gasoline,automatic,truck,0,1,6395.05
+Honda,Fit,2011,186194,good,gasoline,automatic,hatchback,1,2,1628.89
+Toyota,RAV4,2018,55275,good,hybrid,automatic,suv,0,1,15223.58
+BMW,5 Series,2011,265595,fair,gasoline,automatic,sedan,0,5,4200.95
+Honda,Accord,2011,81112,good,gasoline,automatic,sedan,0,4,4993.37
+Honda,CR-V,2018,73687,fair,gasoline,manual,suv,0,5,8286.31
+Ford,F-150,2014,164240,fair,gasoline,automatic,truck,0,3,7413.49
+Chevrolet,Silverado,2010,221275,fair,diesel,automatic,truck,0,1,4406.33
+Hyundai,Elantra,2007,283601,excellent,gasoline,manual,sedan,0,1,1968.46
+BMW,5 Series,2015,49824,excellent,hybrid,manual,sedan,0,1,21723.89
+Toyota,Highlander,2013,32375,good,hybrid,automatic,suv,1,3,9260.82
+Toyota,Prius,2020,46151,good,hybrid,automatic,hatchback,0,1,15680.59
+Nissan,Sentra,2007,106054,good,gasoline,automatic,sedan,0,3,2731.62
+Tesla,Model Y,2005,291825,excellent,electric,automatic,suv,0,1,4474.52
+Chevrolet,Bolt,2005,309978,fair,electric,automatic,hatchback,0,3,1590.16
+Tesla,Model X,2009,91358,excellent,electric,automatic,suv,0,2,19628.09
+Chevrolet,Equinox,2008,234368,good,gasoline,automatic,suv,1,1,1957.54
+BMW,X3,2019,75312,fair,gasoline,automatic,suv,0,1,17107.57
+BMW,3 Series,2016,174389,fair,gasoline,automatic,sedan,0,3,6541.05
+Ford,F-150,2011,169274,good,gasoline,automatic,truck,1,1,5121.65
+Nissan,Sentra,2020,32048,fair,diesel,automatic,sedan,0,3,8954.78
+Honda,Accord,2017,26519,poor,gasoline,automatic,sedan,0,1,7796.89
+Chevrolet,Traverse,2020,90761,fair,gasoline,automatic,suv,0,1,15463.99
+Nissan,Rogue,2006,227604,good,hybrid,automatic,suv,0,1,2662.69
+Toyota,Camry,2013,57418,good,gasoline,automatic,sedan,0,5,6626.22
+Honda,Civic,2008,110649,good,gasoline,automatic,sedan,0,1,3318.65
+Chevrolet,Equinox,2025,18861,excellent,gasoline,automatic,suv,0,2,33080.87
+Tesla,Model 3,2023,19792,fair,electric,automatic,sedan,0,2,28995.49
+Honda,Pilot,2010,278365,excellent,gasoline,manual,suv,0,3,4062.54
+Hyundai,Sonata,2021,22146,fair,gasoline,manual,sedan,0,1,12087.49
+Toyota,Camry,2013,214908,good,gasoline,automatic,sedan,0,1,3165.67
+Chevrolet,Equinox,2015,73990,good,gasoline,automatic,suv,0,3,8497.04
+BMW,X3,2018,113847,good,gasoline,automatic,suv,0,1,16190.32
+Toyota,Prius,2017,140436,excellent,hybrid,automatic,hatchback,0,4,7029.45
+Chevrolet,Malibu,2017,83374,excellent,hybrid,manual,sedan,0,2,10100.19
+Nissan,Leaf,2020,52681,excellent,electric,automatic,hatchback,0,1,16792.04
+Hyundai,Tucson,2020,49448,fair,hybrid,automatic,suv,0,1,17535.23
+Hyundai,Tucson,2016,126669,excellent,gasoline,automatic,suv,0,3,8859.23
+Nissan,Leaf,2022,12656,excellent,electric,automatic,hatchback,0,2,24446.64
+Ford,Mustang,2016,161536,fair,gasoline,automatic,coupe,0,5,5490.49
+Toyota,Corolla,2008,297329,excellent,gasoline,automatic,sedan,0,5,1734.28
+Honda,Pilot,2023,14850,good,hybrid,manual,suv,0,1,37316.35
+Chevrolet,Traverse,2018,25655,fair,gasoline,automatic,suv,0,2,15540.59
+BMW,X5,2019,118242,good,gasoline,automatic,suv,0,2,23294.54
+Toyota,Prius,2024,9785,good,hybrid,automatic,hatchback,0,3,24381.2
+Toyota,Camry,2011,170000,good,diesel,manual,sedan,0,2,2987.87
+Toyota,Camry,2014,75544,poor,gasoline,automatic,sedan,0,3,4735.68
+BMW,X3,2018,50039,excellent,gasoline,automatic,suv,0,3,27428.87
+Ford,Mustang,2010,126448,fair,gasoline,automatic,coupe,0,2,5415.13
+Tesla,Model S,2007,150986,fair,electric,automatic,sedan,0,1,7291.83
+Nissan,Sentra,2023,7286,good,gasoline,automatic,sedan,0,1,16481.48
+Toyota,Camry,2009,262655,good,gasoline,automatic,sedan,0,2,2162.46
+Tesla,Model S,2024,30054,good,electric,automatic,sedan,0,1,70869.84
+Honda,Pilot,2014,39829,fair,gasoline,automatic,suv,0,2,12099.93
+Chevrolet,Bolt,2025,8728,poor,electric,automatic,hatchback,0,1,19430.5
+Chevrolet,Malibu,2006,59473,good,diesel,automatic,sedan,0,1,4155.33
+Tesla,Model Y,2005,350000,fair,electric,automatic,suv,0,1,2809.21
+Honda,Civic,2012,77608,good,gasoline,automatic,sedan,0,2,4875.62
+Ford,Escape,2009,145212,fair,gasoline,automatic,suv,0,2,2853.06
+Ford,Mustang,2011,98224,fair,hybrid,automatic,coupe,0,5,6326.2
+Toyota,RAV4,2017,132057,good,hybrid,automatic,suv,0,3,8601.5
+Toyota,RAV4,2020,91504,fair,gasoline,automatic,suv,0,1,10800.43
+Honda,Civic,2013,145839,good,gasoline,automatic,sedan,0,1,4754.25
+Honda,Fit,2018,138267,good,gasoline,automatic,hatchback,1,1,4034.84
+Chevrolet,Traverse,2023,60824,fair,gasoline,automatic,suv,0,2,20753.97
+Nissan,Leaf,2022,73878,fair,electric,automatic,hatchback,0,1,14150.71
+Chevrolet,Silverado,2021,88871,good,gasoline,automatic,truck,0,1,26745.36
+Toyota,RAV4,2005,300076,good,gasoline,automatic,suv,0,3,2169.44
+Toyota,Corolla,2017,126690,fair,gasoline,automatic,sedan,0,5,4570.72
+Chevrolet,Traverse,2019,45322,excellent,gasoline,automatic,suv,0,3,19783.27
+Hyundai,Santa Fe,2024,34305,good,hybrid,automatic,suv,1,1,27616.58
+Tesla,Model S,2024,19255,good,electric,automatic,sedan,1,3,55653.73
+Nissan,Rogue,2008,66386,fair,gasoline,automatic,suv,0,1,4850.15
+BMW,3 Series,2018,81910,fair,gasoline,automatic,wagon,0,3,11877.41
+Tesla,Model Y,2024,30639,good,electric,automatic,suv,0,1,46148.97
+Honda,CR-V,2023,47494,fair,hybrid,automatic,suv,0,1,22761.51
+Nissan,Rogue,2020,66622,excellent,hybrid,automatic,suv,0,1,19826.25
+Tesla,Model 3,2017,77289,fair,electric,automatic,sedan,0,1,13712.21
+Chevrolet,Malibu,2017,141219,fair,gasoline,automatic,sedan,1,3,3792.78
+Honda,Pilot,2012,186541,fair,gasoline,automatic,suv,0,1,4207.66
+Honda,CR-V,2005,258411,fair,gasoline,automatic,suv,0,3,1706.45
+Tesla,Model X,2006,77117,poor,electric,automatic,suv,0,5,8146.2
+Honda,Accord,2007,97109,good,gasoline,automatic,sedan,0,3,4256.97
+BMW,i4,2005,165685,fair,electric,automatic,sedan,0,2,4171.08
+Chevrolet,Bolt,2005,313132,fair,electric,automatic,hatchback,0,2,1605.05
+Hyundai,Sonata,2017,130855,excellent,gasoline,automatic,sedan,0,4,6589.66
+Chevrolet,Silverado,2021,45671,good,diesel,manual,truck,0,1,24230.18
+Hyundai,Ioniq 5,2021,54894,good,electric,automatic,sedan,0,1,25537.4
+Hyundai,Tucson,2024,30236,good,gasoline,automatic,suv,0,4,21810.41
+Tesla,Model Y,2011,152446,good,electric,automatic,suv,0,1,7459.38
+Honda,Fit,2011,94988,fair,gasoline,automatic,hatchback,1,2,2345.47
+Chevrolet,Equinox,2023,22759,good,gasoline,automatic,suv,0,2,24680.36
+Tesla,Model 3,2017,122419,excellent,electric,automatic,sedan,0,2,14675.71
+Toyota,Highlander,2011,272409,poor,gasoline,automatic,suv,0,1,2803.12
+Toyota,RAV4,2007,334843,good,gasoline,automatic,suv,1,1,1875.48
+Nissan,Pathfinder,2007,279230,good,gasoline,automatic,suv,0,2,3028.72
+BMW,X3,2019,38542,excellent,gasoline,automatic,suv,0,1,31803.73
+Hyundai,Ioniq 5,2023,28372,good,electric,automatic,sedan,0,1,37046.67
+Nissan,Altima,2024,23190,excellent,gasoline,automatic,sedan,0,2,24552.21
+Tesla,Model X,2012,137997,good,electric,automatic,suv,1,5,13604.02
+Ford,Focus,2015,114416,good,gasoline,automatic,hatchback,1,4,3030.33
+Tesla,Model 3,2018,20584,excellent,electric,automatic,sedan,0,2,24386.35
+Tesla,Model S,2009,76384,good,electric,automatic,sedan,0,3,16043.4
+Toyota,Camry,2018,101827,fair,gasoline,manual,sedan,1,2,6410.55
+Tesla,Model 3,2009,229732,good,electric,automatic,sedan,0,1,4171.38
+Toyota,Prius,2021,90955,fair,hybrid,manual,hatchback,0,2,11282.29
+Honda,CR-V,2009,89804,fair,gasoline,automatic,suv,0,1,4940.28
+Ford,Focus,2024,22182,good,gasoline,automatic,hatchback,0,2,18336.92
+Ford,F-150,2008,163195,excellent,gasoline,automatic,truck,0,4,4672.57
+Toyota,Highlander,2021,27475,good,gasoline,automatic,suv,0,4,26283.36
+Hyundai,Sonata,2011,187263,good,gasoline,automatic,sedan,1,3,2135.39
+Toyota,Prius,2023,46825,good,hybrid,automatic,hatchback,0,2,18543.95
+Nissan,Leaf,2011,73157,fair,electric,automatic,hatchback,0,1,5451.88
+Hyundai,Tucson,2013,161175,fair,gasoline,manual,suv,0,4,3613.2
+Chevrolet,Bolt,2016,66434,poor,electric,automatic,hatchback,0,1,7809.65
+Nissan,Sentra,2019,68793,good,diesel,automatic,sedan,1,1,8752.34
+Hyundai,Ioniq 5,2015,38826,good,electric,automatic,sedan,1,2,13597.64
+Honda,Fit,2014,74594,excellent,diesel,manual,hatchback,0,1,5429.12
+Ford,F-150,2013,187769,fair,gasoline,automatic,truck,0,3,4963.78
+Nissan,Pathfinder,2015,66312,excellent,diesel,automatic,suv,0,2,13487.91
+Ford,Mustang,2024,30258,good,gasoline,automatic,coupe,0,5,26580.54
+Honda,Civic,2006,248498,excellent,gasoline,automatic,sedan,0,2,1756.18
+Hyundai,Ioniq 5,2005,310303,fair,electric,automatic,sedan,0,3,2170.22
+Hyundai,Ioniq 5,2005,348370,good,electric,automatic,sedan,1,1,2452.64
+BMW,3 Series,2005,296953,good,gasoline,automatic,sedan,1,1,1979.57
+Ford,F-150,2020,51414,fair,hybrid,manual,truck,0,2,22088.56
+BMW,3 Series,2020,64572,good,gasoline,automatic,sedan,0,4,16580.26
+Hyundai,Ioniq 5,2007,126365,excellent,electric,automatic,sedan,1,1,5620.32
+Honda,CR-V,2011,45976,fair,gasoline,automatic,suv,0,1,7656.19
+Tesla,Model Y,2021,75557,good,electric,automatic,suv,1,4,19772.64
+Honda,Civic,2021,15193,fair,gasoline,automatic,sedan,0,1,13857.76
+BMW,X3,2015,173645,good,gasoline,automatic,suv,0,3,8320.57
+Tesla,Model 3,2013,124561,poor,electric,automatic,sedan,0,2,5256.34
+Chevrolet,Silverado,2016,184068,good,diesel,automatic,truck,0,1,9607.01
+BMW,3 Series,2016,42732,good,gasoline,automatic,sedan,1,4,10831.0
+Hyundai,Ioniq 5,2013,145760,fair,electric,automatic,sedan,1,3,5403.82
+Ford,Escape,2020,34269,fair,gasoline,automatic,suv,0,1,15147.29
+Ford,Focus,2012,109211,fair,gasoline,manual,hatchback,0,2,2934.26
+Toyota,Camry,2019,117281,fair,gasoline,automatic,sedan,0,1,7110.43
+Tesla,Model X,2015,136144,fair,electric,automatic,suv,0,1,18901.91
+Ford,F-150,2017,116768,good,gasoline,automatic,truck,0,1,15263.3
+Nissan,Rogue,2009,213168,good,hybrid,manual,suv,0,2,2759.29
+Honda,Pilot,2014,127633,fair,gasoline,automatic,suv,0,1,8080.18
+Toyota,Highlander,2021,45998,fair,gasoline,automatic,suv,0,1,21692.39
+Hyundai,Sonata,2005,255846,excellent,gasoline,automatic,sedan,0,2,1790.13
+Tesla,Model 3,2014,49736,good,electric,automatic,sedan,0,1,15067.81
+Toyota,Corolla,2018,101735,good,gasoline,automatic,sedan,0,1,8735.03
+Honda,Accord,2022,12982,excellent,diesel,automatic,sedan,0,4,23383.96
+Tesla,Model X,2018,63921,good,electric,automatic,suv,0,1,50180.89
+Ford,Explorer,2014,30602,excellent,gasoline,automatic,suv,0,1,17051.45
+Hyundai,Sonata,2013,61601,poor,gasoline,automatic,sedan,1,1,3453.75
+BMW,i4,2007,344382,fair,electric,automatic,sedan,1,1,3180.06
+Toyota,Prius,2017,48899,poor,hybrid,automatic,hatchback,0,2,6617.93
+Honda,Accord,2020,102377,excellent,gasoline,automatic,sedan,0,2,12783.25
+Honda,CR-V,2012,170604,good,gasoline,automatic,suv,0,2,4645.72
+Hyundai,Santa Fe,2005,154643,good,gasoline,manual,suv,0,2,2710.73
+Chevrolet,Bolt,2006,202515,excellent,electric,automatic,hatchback,0,1,2512.78
+Chevrolet,Malibu,2009,115850,good,gasoline,automatic,sedan,0,2,3593.19
+Toyota,Highlander,2017,123798,good,gasoline,automatic,suv,0,2,12163.5
+Tesla,Model S,2008,88755,fair,electric,automatic,sedan,0,3,11738.05
+Chevrolet,Malibu,2023,60247,good,gasoline,automatic,sedan,0,1,16406.83
+Honda,Civic,2024,26511,good,gasoline,automatic,sedan,1,1,15563.03
+Honda,CR-V,2011,141646,excellent,gasoline,automatic,suv,1,1,4858.06
+Ford,F-150,2024,26364,good,gasoline,automatic,truck,0,2,43690.33
+Ford,Mustang,2014,160341,excellent,hybrid,automatic,coupe,0,1,8093.84
+Ford,Escape,2024,28563,excellent,gasoline,automatic,suv,0,1,32937.66
+BMW,5 Series,2006,151159,fair,gasoline,automatic,sedan,0,2,3883.79
+BMW,X5,2025,22643,fair,gasoline,automatic,suv,0,3,43433.04
+Honda,Accord,2020,81178,fair,gasoline,automatic,sedan,0,1,10634.94
+Toyota,Highlander,2006,266198,good,gasoline,automatic,suv,1,1,2087.57
+Chevrolet,Malibu,2012,237444,fair,gasoline,automatic,sedan,0,2,2456.81
+Toyota,Camry,2016,30302,good,gasoline,manual,sedan,1,2,7124.91
+Ford,Focus,2005,279161,excellent,gasoline,automatic,hatchback,0,2,1389.37
+Toyota,RAV4,2020,98748,excellent,hybrid,automatic,suv,0,3,17135.64
+Hyundai,Sonata,2023,48969,fair,gasoline,automatic,sedan,1,1,10656.42
+Honda,Accord,2011,171314,excellent,diesel,automatic,sedan,0,4,3814.92
+BMW,X5,2008,125064,good,gasoline,automatic,suv,0,1,8518.85
+Nissan,Leaf,2011,223204,good,electric,automatic,hatchback,0,1,3128.9
+Honda,Fit,2022,49005,good,gasoline,automatic,hatchback,1,5,7220.05
+Ford,Escape,2022,61697,poor,gasoline,automatic,suv,0,2,11605.43
+Honda,Accord,2006,285689,good,hybrid,automatic,sedan,0,2,1764.75
+Chevrolet,Bolt,2010,89127,good,electric,automatic,hatchback,0,2,6162.58
+BMW,3 Series,2009,226711,excellent,gasoline,automatic,sedan,0,1,4438.49
+Honda,Accord,2025,8187,fair,gasoline,automatic,sedan,1,1,16461.15
+BMW,5 Series,2008,297981,fair,diesel,automatic,sedan,0,4,3283.47
+BMW,5 Series,2020,61172,poor,hybrid,automatic,sedan,0,2,18998.24
+Hyundai,Sonata,2011,232414,good,gasoline,automatic,sedan,0,2,2500.0
+Ford,Explorer,2019,69152,good,gasoline,manual,suv,0,3,17725.6
+Toyota,RAV4,2006,350000,excellent,hybrid,automatic,suv,0,3,2476.61
+Honda,Accord,2010,278285,excellent,gasoline,manual,sedan,0,1,2811.02
+Chevrolet,Traverse,2019,37502,fair,gasoline,automatic,suv,0,1,18487.08
+Honda,CR-V,2013,159666,fair,gasoline,automatic,suv,0,1,4452.64
+Nissan,Pathfinder,2015,75017,excellent,gasoline,automatic,suv,0,2,12282.5
+Tesla,Model X,2005,162777,excellent,electric,automatic,suv,0,1,10799.27
+BMW,X3,2014,50247,good,diesel,automatic,suv,0,2,16879.34
+Chevrolet,Silverado,2025,7355,poor,gasoline,automatic,truck,0,5,24218.58
+Nissan,Rogue,2019,23592,excellent,hybrid,automatic,suv,0,3,19638.06
+Chevrolet,Equinox,2009,65876,fair,gasoline,automatic,suv,0,5,4413.05
+Honda,Civic,2016,138769,fair,gasoline,automatic,sedan,0,2,4688.33
+Ford,Mustang,2022,28773,excellent,gasoline,automatic,coupe,0,5,25665.49
+BMW,X5,2022,55813,fair,diesel,automatic,suv,0,1,34430.45
+Ford,Escape,2024,28523,fair,gasoline,automatic,suv,0,3,22139.07
+Hyundai,Elantra,2024,15767,fair,gasoline,manual,wagon,0,2,12929.29
+Tesla,Model 3,2008,66511,poor,electric,automatic,wagon,0,2,5396.44
+Ford,Explorer,2018,113270,good,gasoline,automatic,suv,0,1,15135.36
+Toyota,Camry,2019,120054,good,gasoline,automatic,sedan,0,2,9394.14
+Tesla,Model X,2010,159694,fair,electric,automatic,suv,0,2,10624.64
+Honda,Civic,2016,112072,poor,gasoline,manual,sedan,0,1,4219.82
+Nissan,Leaf,2008,282320,good,electric,automatic,hatchback,0,2,2385.2
+Ford,Explorer,2008,250677,good,gasoline,automatic,suv,0,1,3898.19
+Tesla,Model S,2013,190077,good,electric,automatic,sedan,0,2,10503.79
+BMW,3 Series,2014,78359,good,gasoline,automatic,wagon,0,2,11548.44
+BMW,i4,2006,192438,good,electric,automatic,sedan,0,3,4232.3
+Honda,Pilot,2007,191884,poor,gasoline,automatic,suv,0,3,1867.51
+Tesla,Model S,2005,170893,fair,electric,automatic,sedan,0,1,6080.94
+Ford,Focus,2017,164056,fair,diesel,automatic,hatchback,0,1,3584.01
+Chevrolet,Bolt,2010,194738,excellent,electric,automatic,hatchback,0,2,3293.94
+Hyundai,Santa Fe,2019,85675,fair,gasoline,automatic,suv,0,3,11824.85
+Toyota,Corolla,2015,152200,fair,gasoline,automatic,sedan,0,2,3988.73
+BMW,X5,2007,147297,poor,gasoline,automatic,suv,0,1,4351.92
+Hyundai,Elantra,2021,31081,good,gasoline,automatic,sedan,0,1,13397.25
+Chevrolet,Traverse,2015,109421,fair,gasoline,automatic,suv,0,3,7216.47
+Ford,Explorer,2020,100662,excellent,gasoline,manual,suv,0,2,18675.86
+Tesla,Model 3,2022,14522,good,electric,automatic,sedan,0,2,35048.61
+Chevrolet,Silverado,2017,114565,fair,gasoline,automatic,truck,0,1,13113.56
+Hyundai,Santa Fe,2021,10375,good,gasoline,manual,suv,1,5,16822.52
+Toyota,Highlander,2006,238387,fair,diesel,automatic,suv,0,1,2751.01
+Chevrolet,Equinox,2012,225625,fair,gasoline,automatic,suv,1,3,2112.76
+Nissan,Rogue,2007,191580,good,gasoline,automatic,suv,0,1,2549.46
+Chevrolet,Silverado,2014,136809,good,gasoline,automatic,truck,0,1,9637.38
+Toyota,Highlander,2007,131939,good,gasoline,manual,suv,0,1,4906.72
+Honda,Pilot,2008,60516,fair,gasoline,automatic,suv,0,2,6488.8
+Nissan,Sentra,2024,39749,fair,diesel,automatic,sedan,0,2,14336.56
+Chevrolet,Malibu,2008,147015,good,gasoline,automatic,sedan,0,2,2937.06
+BMW,X3,2016,113699,good,gasoline,automatic,suv,0,1,15982.43
+Ford,Mustang,2007,229029,fair,gasoline,automatic,coupe,0,1,2572.55
+Tesla,Model Y,2020,40676,fair,electric,automatic,suv,0,1,26532.39
+Hyundai,Tucson,2005,91102,fair,diesel,automatic,suv,0,1,3397.76
+Ford,Mustang,2013,159147,fair,gasoline,automatic,coupe,1,3,3667.21
+Honda,Accord,2014,73816,good,gasoline,automatic,sedan,0,2,8507.3
+Tesla,Model Y,2014,177052,good,electric,automatic,suv,0,1,9486.67
+Ford,Escape,2019,108494,good,gasoline,automatic,suv,0,2,10406.72
+Chevrolet,Silverado,2009,126189,excellent,gasoline,automatic,truck,0,1,8525.67
+Chevrolet,Traverse,2022,20135,excellent,gasoline,automatic,suv,0,2,33698.37
+Ford,Escape,2011,216245,excellent,gasoline,automatic,suv,0,1,4004.93
+Toyota,Highlander,2019,82369,fair,gasoline,automatic,suv,0,2,14444.04
+Toyota,Prius,2022,40108,fair,hybrid,manual,hatchback,0,2,15532.3
+Tesla,Model Y,2012,203209,good,electric,automatic,suv,0,3,5467.42
+Honda,Accord,2018,121858,good,gasoline,automatic,sedan,0,4,7500.71
+Hyundai,Sonata,2024,38951,good,gasoline,automatic,sedan,0,1,20786.59
+Nissan,Leaf,2019,58874,poor,electric,automatic,hatchback,0,2,8103.84
+Chevrolet,Equinox,2025,9180,good,gasoline,automatic,suv,1,2,22293.21
+Chevrolet,Traverse,2013,110323,fair,gasoline,automatic,suv,0,2,7608.34
+Tesla,Model Y,2016,169875,good,electric,automatic,suv,1,1,8317.35
+Nissan,Sentra,2011,61808,good,gasoline,automatic,sedan,0,3,4292.84
+Nissan,Rogue,2012,59646,good,gasoline,manual,suv,0,4,6386.59
+Ford,F-150,2014,183709,good,gasoline,automatic,truck,0,1,8006.05
+Hyundai,Sonata,2016,133124,good,gasoline,automatic,sedan,0,3,6335.51
+Hyundai,Santa Fe,2015,33266,good,gasoline,automatic,suv,0,2,12695.78
+Chevrolet,Equinox,2024,20799,good,gasoline,automatic,suv,0,2,25411.62
+Nissan,Pathfinder,2016,154931,good,gasoline,automatic,suv,0,3,8052.65
+Nissan,Rogue,2011,256158,good,gasoline,manual,suv,0,2,2864.85
+Tesla,Model Y,2012,78098,fair,electric,automatic,suv,0,1,13226.88
+Ford,Focus,2007,81702,good,gasoline,manual,hatchback,0,1,2843.47
+Honda,Pilot,2025,18602,fair,gasoline,automatic,suv,0,3,28775.72
+Honda,Pilot,2016,162638,fair,diesel,automatic,suv,1,2,5607.58
+Nissan,Rogue,2020,98856,fair,gasoline,automatic,suv,0,2,11748.06
+Toyota,Camry,2012,52266,good,hybrid,automatic,sedan,0,1,7421.29
+Toyota,RAV4,2025,17794,good,diesel,automatic,suv,0,1,34902.89
+Nissan,Altima,2006,350000,good,gasoline,automatic,sedan,0,3,1714.65
+Ford,Focus,2006,100729,good,diesel,automatic,hatchback,0,1,2601.79
+Ford,Escape,2007,199344,excellent,gasoline,automatic,suv,0,1,2690.26
+Honda,Fit,2016,52073,good,gasoline,automatic,hatchback,0,2,6494.66
+Ford,F-150,2023,18560,fair,hybrid,automatic,truck,0,4,28910.43
+Ford,Focus,2021,50676,poor,gasoline,manual,hatchback,0,3,6139.02
+Hyundai,Sonata,2013,79852,good,gasoline,automatic,sedan,0,2,6571.06
+Honda,Pilot,2006,47354,excellent,hybrid,automatic,suv,1,2,6761.1
+Honda,Accord,2007,167987,good,gasoline,automatic,sedan,0,1,2795.86
+Ford,F-150,2024,9835,good,gasoline,automatic,truck,0,1,50087.91
+Nissan,Altima,2007,142434,good,gasoline,automatic,wagon,0,1,3070.47
+Tesla,Model S,2008,213727,fair,electric,automatic,sedan,0,1,6436.83
+BMW,5 Series,2018,139589,good,gasoline,automatic,sedan,0,3,16167.27
+Chevrolet,Malibu,2019,73501,good,gasoline,automatic,sedan,0,2,10865.73
+Toyota,Highlander,2006,156033,good,diesel,automatic,suv,0,1,4449.88
+Toyota,Corolla,2012,49195,excellent,gasoline,automatic,sedan,0,2,6489.69
+Ford,Mustang,2023,45048,poor,gasoline,automatic,coupe,0,1,17727.84
+Hyundai,Tucson,2025,13999,fair,gasoline,automatic,suv,0,5,21499.56
+Chevrolet,Bolt,2022,25034,good,electric,automatic,hatchback,0,1,24858.79
+Nissan,Rogue,2005,246541,excellent,hybrid,automatic,suv,0,1,2699.57
+Tesla,Model X,2010,199803,good,electric,automatic,suv,0,1,10250.15
+Toyota,Highlander,2015,32980,poor,gasoline,automatic,suv,0,1,10149.99
+Chevrolet,Malibu,2010,171457,good,gasoline,automatic,sedan,0,2,2845.89
+Toyota,Highlander,2008,57017,poor,hybrid,automatic,suv,1,1,3849.82
+BMW,X5,2008,282718,poor,gasoline,automatic,suv,0,3,3120.89
+BMW,X5,2019,121325,fair,gasoline,automatic,suv,0,1,18765.9
+Honda,Fit,2006,301903,fair,gasoline,automatic,hatchback,0,1,1200.0
+Ford,Focus,2011,116336,excellent,gasoline,automatic,hatchback,0,2,3496.91
+Ford,Explorer,2013,203437,fair,gasoline,automatic,suv,0,3,4111.07
+Chevrolet,Malibu,2011,78930,good,gasoline,automatic,sedan,1,1,4652.83
+Tesla,Model 3,2016,43337,fair,electric,automatic,sedan,0,4,14796.84
+Nissan,Altima,2016,131581,excellent,gasoline,automatic,wagon,0,1,7030.17
+Toyota,RAV4,2020,33181,good,gasoline,automatic,suv,0,3,19255.47
+Toyota,Corolla,2017,62423,good,hybrid,automatic,sedan,0,2,9037.46
+Toyota,Highlander,2025,17415,excellent,diesel,automatic,suv,1,3,33294.42
+Toyota,RAV4,2019,68463,good,gasoline,automatic,suv,0,3,14160.68
+Hyundai,Sonata,2013,171223,excellent,hybrid,manual,wagon,1,3,2923.08
+Chevrolet,Bolt,2016,123552,excellent,electric,automatic,hatchback,0,2,10066.65
+Tesla,Model X,2023,30662,fair,electric,automatic,suv,1,1,54835.83
+BMW,X5,2022,39091,poor,gasoline,automatic,suv,0,2,24597.84
+Toyota,Prius,2023,19285,good,hybrid,manual,hatchback,0,1,20431.65
+Ford,Explorer,2024,24053,good,gasoline,automatic,suv,0,2,36730.47
+Toyota,Highlander,2006,350000,excellent,gasoline,manual,suv,0,3,3009.02
+Tesla,Model S,2021,15646,fair,electric,automatic,sedan,0,1,53593.28
+Toyota,Highlander,2021,89852,excellent,gasoline,automatic,suv,0,2,23937.94
+BMW,5 Series,2010,202157,fair,gasoline,automatic,sedan,0,4,4352.04
+Honda,Fit,2017,67648,good,gasoline,automatic,hatchback,0,2,7021.74
+Honda,CR-V,2020,70713,poor,gasoline,automatic,suv,1,1,8793.79
+Chevrolet,Malibu,2018,91098,good,gasoline,automatic,sedan,0,3,9851.65
+Nissan,Altima,2021,33020,good,gasoline,automatic,sedan,0,2,16208.87
+BMW,X5,2006,98310,excellent,gasoline,automatic,suv,1,2,7836.74
+Chevrolet,Malibu,2012,34092,good,gasoline,automatic,sedan,0,1,7238.21
+Toyota,RAV4,2010,267526,good,gasoline,automatic,suv,0,1,2947.21
+Honda,Accord,2012,183100,good,gasoline,automatic,sedan,0,2,3204.07
+Hyundai,Sonata,2025,13858,excellent,gasoline,automatic,sedan,0,1,26416.32
+BMW,i4,2017,84746,good,electric,automatic,sedan,0,1,21696.04
+Tesla,Model S,2008,157766,fair,electric,automatic,sedan,0,2,7884.46
+Chevrolet,Traverse,2018,132377,fair,gasoline,automatic,suv,0,1,8953.0
+BMW,5 Series,2011,77538,good,gasoline,automatic,sedan,0,3,10099.68
+Nissan,Altima,2012,90609,fair,gasoline,automatic,sedan,0,3,4649.84
+Tesla,Model X,2016,91887,fair,electric,automatic,suv,0,1,28609.67
+Toyota,Camry,2020,53831,excellent,gasoline,automatic,wagon,1,1,12608.44
+Tesla,Model X,2023,47656,fair,electric,automatic,suv,0,1,60917.99
+Tesla,Model S,2010,114086,excellent,electric,automatic,sedan,0,1,19410.89
+Toyota,Prius,2012,99246,excellent,hybrid,automatic,hatchback,0,3,5963.93
+Nissan,Sentra,2009,228568,good,gasoline,automatic,sedan,0,1,1954.21
+Tesla,Model S,2020,19424,excellent,electric,automatic,sedan,0,2,55943.36
+Ford,Escape,2010,110439,good,diesel,automatic,suv,0,1,6221.59
+Tesla,Model 3,2020,76270,good,electric,automatic,sedan,0,2,20268.41
+Tesla,Model 3,2023,11665,good,electric,automatic,wagon,0,2,33690.97
+Ford,Focus,2018,60905,fair,gasoline,automatic,hatchback,0,2,6474.84
+Chevrolet,Malibu,2006,261921,good,gasoline,automatic,sedan,0,2,1824.14
+Hyundai,Tucson,2019,54962,good,gasoline,automatic,suv,0,2,16126.55
+Toyota,Prius,2005,212862,fair,hybrid,automatic,hatchback,1,2,1200.0
+Hyundai,Elantra,2011,94055,fair,gasoline,automatic,sedan,0,1,3782.47
+Nissan,Sentra,2023,34558,good,gasoline,automatic,sedan,1,4,11200.34
+BMW,i4,2018,100846,good,electric,automatic,sedan,0,1,21788.54
+Chevrolet,Malibu,2011,91999,fair,gasoline,automatic,sedan,0,2,4464.52
+Ford,Explorer,2025,8962,fair,gasoline,automatic,suv,0,1,33152.68
+Nissan,Altima,2009,203977,excellent,gasoline,automatic,wagon,1,2,1831.93
+Hyundai,Ioniq 5,2022,40546,poor,electric,automatic,sedan,0,1,20869.02
+Toyota,Camry,2010,157571,good,diesel,automatic,sedan,0,1,3399.37
+Honda,CR-V,2007,254604,good,gasoline,automatic,suv,0,3,2390.2
+Toyota,Highlander,2011,245859,poor,gasoline,automatic,suv,0,2,3001.23
+Chevrolet,Silverado,2014,155332,fair,gasoline,automatic,truck,0,1,7337.0
+Tesla,Model S,2006,309927,good,electric,automatic,sedan,0,2,6322.61
+Chevrolet,Bolt,2025,12652,fair,electric,automatic,hatchback,0,1,23598.01
+Ford,F-150,2012,172463,good,gasoline,automatic,truck,0,1,6955.75
+Honda,CR-V,2020,22469,fair,gasoline,automatic,suv,0,1,17230.39
+BMW,3 Series,2024,34266,good,gasoline,automatic,sedan,0,1,33789.01
+Ford,F-150,2006,350000,good,gasoline,automatic,truck,0,1,3760.83
+Tesla,Model Y,2011,60005,poor,electric,automatic,suv,0,1,8058.17
+Honda,Pilot,2012,66869,fair,hybrid,automatic,suv,0,2,9596.74
+Tesla,Model Y,2023,11810,excellent,electric,automatic,suv,0,4,45936.79
+Nissan,Altima,2014,159959,excellent,diesel,automatic,wagon,0,4,4836.42
+Nissan,Sentra,2025,9220,good,hybrid,automatic,sedan,0,2,19171.0
+BMW,i4,2015,127859,good,electric,automatic,sedan,0,3,13535.31
+Ford,Focus,2019,102657,excellent,gasoline,manual,hatchback,1,2,5328.71
+Tesla,Model S,2013,157414,fair,electric,automatic,sedan,1,1,9744.74
+Chevrolet,Silverado,2009,137557,good,gasoline,automatic,truck,0,3,6635.78
+Nissan,Sentra,2014,133238,poor,hybrid,automatic,sedan,1,1,2330.14
+Toyota,RAV4,2025,22667,poor,gasoline,automatic,suv,0,1,18701.79
+BMW,i4,2023,20172,good,electric,automatic,wagon,0,2,51869.22
+Tesla,Model Y,2010,135185,good,electric,automatic,suv,1,3,5865.54
+BMW,X5,2008,319398,good,gasoline,automatic,suv,0,1,5572.53
+Toyota,Camry,2021,47968,fair,gasoline,automatic,sedan,0,1,11970.36
+BMW,X5,2013,143499,good,gasoline,automatic,suv,0,2,11343.34
+Hyundai,Ioniq 5,2005,215970,good,electric,automatic,sedan,0,2,3025.7
+Honda,Civic,2022,58270,good,gasoline,automatic,sedan,1,1,11618.56
+Nissan,Altima,2009,185765,fair,gasoline,automatic,sedan,0,2,1756.51
+Toyota,Camry,2025,2676,good,gasoline,manual,sedan,0,5,20556.82
+Ford,Mustang,2008,191497,good,gasoline,automatic,coupe,0,3,2830.23
+Chevrolet,Silverado,2012,81546,fair,gasoline,automatic,truck,0,1,10655.71
+Honda,Civic,2010,65551,excellent,hybrid,automatic,sedan,1,1,4998.02
+Hyundai,Tucson,2016,127404,fair,gasoline,automatic,suv,0,2,6691.08
+Toyota,Corolla,2015,83464,fair,hybrid,automatic,sedan,0,1,6057.35
+Honda,CR-V,2012,106024,fair,gasoline,automatic,suv,0,1,6780.54
+BMW,3 Series,2020,63834,good,gasoline,automatic,wagon,0,4,18051.8
+Nissan,Pathfinder,2010,281054,fair,gasoline,automatic,suv,0,3,3277.72
+Ford,Focus,2016,135394,good,hybrid,automatic,hatchback,0,1,5372.26
+Tesla,Model Y,2023,48411,excellent,electric,automatic,suv,0,1,41473.99
+Hyundai,Tucson,2013,71141,excellent,gasoline,manual,suv,1,3,6160.09
+Hyundai,Ioniq 5,2010,72704,fair,electric,automatic,sedan,0,2,8023.06
+Chevrolet,Malibu,2023,56974,good,gasoline,automatic,sedan,0,1,18131.7
+Nissan,Altima,2020,66773,good,gasoline,automatic,wagon,0,1,12776.83
+Tesla,Model Y,2025,20857,fair,electric,automatic,suv,0,3,41800.17
+BMW,X5,2012,115813,good,gasoline,automatic,suv,0,3,12990.29
+Toyota,RAV4,2018,129977,good,hybrid,automatic,suv,0,1,11575.47
+BMW,i4,2008,182599,good,electric,automatic,sedan,0,1,5632.85
+Honda,Civic,2023,36453,good,gasoline,manual,sedan,0,1,16063.46
+Hyundai,Tucson,2008,231924,good,gasoline,automatic,suv,0,1,2649.27
+BMW,i4,2005,129410,poor,electric,automatic,sedan,1,2,3222.79
+Nissan,Sentra,2023,30447,good,gasoline,automatic,sedan,1,1,13132.83
+Honda,Civic,2008,62737,fair,gasoline,automatic,sedan,0,2,3552.85
+Chevrolet,Equinox,2008,112901,fair,gasoline,automatic,suv,0,1,3549.89
+Honda,Accord,2005,121433,excellent,gasoline,automatic,sedan,0,4,2641.28
+Ford,Focus,2016,176144,fair,gasoline,automatic,hatchback,0,4,2578.92
+Nissan,Leaf,2016,172863,fair,electric,automatic,hatchback,0,1,4637.38
+Toyota,Camry,2005,350000,excellent,gasoline,automatic,sedan,0,3,1868.8
+Toyota,Prius,2025,14026,excellent,hybrid,manual,hatchback,0,1,27084.54
+Tesla,Model Y,2018,78447,good,electric,automatic,suv,1,2,16329.4
+Tesla,Model X,2023,31028,fair,electric,automatic,suv,0,2,65256.9
+Ford,F-150,2009,296905,fair,gasoline,automatic,truck,1,1,2779.5
+Tesla,Model X,2012,94639,good,electric,automatic,suv,0,1,25598.77
+Toyota,Highlander,2005,245056,fair,gasoline,automatic,suv,0,3,2106.79
+Chevrolet,Malibu,2020,95485,fair,gasoline,automatic,sedan,1,1,7761.28
+Tesla,Model X,2022,62866,poor,electric,automatic,suv,0,1,39405.19
+Nissan,Pathfinder,2013,43926,fair,diesel,automatic,suv,0,3,9322.67
+Honda,Fit,2005,350000,good,gasoline,automatic,hatchback,0,1,1200.0
+Honda,Accord,2025,15444,poor,gasoline,automatic,sedan,1,2,12658.35
+Tesla,Model X,2008,204865,good,electric,automatic,suv,0,4,7712.82
+Toyota,RAV4,2009,268700,good,gasoline,automatic,suv,0,3,2706.09
+Hyundai,Sonata,2009,144455,good,gasoline,automatic,sedan,0,1,3361.04
+Ford,Escape,2019,85638,good,gasoline,automatic,suv,0,1,12951.82
+Ford,Mustang,2012,121978,good,gasoline,automatic,coupe,0,2,7296.2
+Hyundai,Tucson,2008,320837,good,gasoline,automatic,suv,0,2,2347.72
+Ford,Focus,2006,177922,good,gasoline,automatic,hatchback,0,1,1560.11
+Chevrolet,Traverse,2021,93409,fair,gasoline,automatic,suv,0,1,15075.86
+BMW,i4,2020,72272,fair,electric,automatic,sedan,0,1,24874.09
+Chevrolet,Traverse,2022,25819,good,gasoline,automatic,suv,0,3,26401.23
+Chevrolet,Equinox,2017,69068,good,gasoline,automatic,suv,0,1,11243.11
+Chevrolet,Bolt,2022,37953,fair,electric,automatic,hatchback,0,2,15929.66
+Toyota,Highlander,2016,116061,good,gasoline,automatic,suv,1,1,9557.99
+Nissan,Rogue,2009,75497,excellent,gasoline,automatic,suv,0,2,6317.69
+Chevrolet,Equinox,2009,97130,good,gasoline,automatic,suv,0,1,5747.89
+Honda,CR-V,2012,234051,poor,gasoline,automatic,suv,0,1,2585.17
+Ford,Explorer,2009,180719,poor,diesel,automatic,suv,1,2,1953.26
+Toyota,Corolla,2007,88298,good,gasoline,automatic,sedan,0,2,3379.84
+Hyundai,Ioniq 5,2021,88009,good,electric,automatic,sedan,0,1,22412.96
+Toyota,Corolla,2013,65716,good,gasoline,automatic,sedan,1,1,5112.57
+Ford,Explorer,2020,44796,good,gasoline,manual,suv,0,1,23331.51
+BMW,X3,2024,27323,excellent,gasoline,automatic,suv,0,1,45706.93
+Nissan,Rogue,2012,198122,fair,gasoline,automatic,suv,0,1,3510.47
+Nissan,Sentra,2021,43781,poor,gasoline,automatic,sedan,0,1,8137.91
+Ford,Focus,2013,156994,fair,gasoline,automatic,hatchback,0,1,2812.52
+Hyundai,Sonata,2011,177862,good,gasoline,manual,sedan,1,1,2297.16
+Honda,Accord,2014,150340,excellent,gasoline,automatic,sedan,0,2,5815.55
+Hyundai,Santa Fe,2005,134475,excellent,diesel,automatic,suv,0,3,4326.86
+Hyundai,Tucson,2016,66824,poor,gasoline,automatic,suv,0,1,7535.97
+Honda,Fit,2016,178430,fair,diesel,automatic,hatchback,0,1,3043.81
+Ford,Mustang,2022,59555,good,gasoline,manual,coupe,0,2,22419.83
+BMW,i4,2025,7431,excellent,electric,automatic,sedan,1,1,54600.61
+Hyundai,Santa Fe,2007,179745,good,gasoline,automatic,suv,0,4,2613.14
+Tesla,Model 3,2014,130858,fair,electric,automatic,sedan,0,5,6658.01
+BMW,5 Series,2010,286867,fair,hybrid,manual,sedan,0,2,4313.39
+Chevrolet,Equinox,2009,78639,fair,gasoline,automatic,suv,1,4,3094.8
+Tesla,Model S,2005,350000,good,electric,automatic,sedan,1,2,4870.83
+BMW,3 Series,2014,158423,fair,gasoline,automatic,sedan,0,2,6663.19
+Ford,Focus,2022,22565,excellent,gasoline,automatic,hatchback,0,3,16845.64
+Toyota,Corolla,2005,289519,poor,gasoline,automatic,sedan,0,1,1200.0
+Chevrolet,Equinox,2011,268358,poor,gasoline,automatic,suv,0,1,2136.15
+Nissan,Rogue,2007,323033,good,gasoline,automatic,suv,1,1,2067.83
+Honda,CR-V,2016,88244,good,gasoline,automatic,suv,0,1,11203.3
+Chevrolet,Equinox,2010,205708,good,gasoline,automatic,suv,0,2,3005.6
+BMW,X3,2022,72634,excellent,gasoline,automatic,suv,0,1,36299.07
+Chevrolet,Bolt,2020,94139,good,electric,automatic,hatchback,0,2,13476.49
+Honda,Accord,2009,131144,good,hybrid,automatic,sedan,0,1,4442.68
+Chevrolet,Traverse,2022,41277,fair,diesel,automatic,suv,0,1,25162.59
+Honda,Civic,2024,29237,good,gasoline,automatic,sedan,0,3,18240.24
+Chevrolet,Bolt,2009,133751,good,electric,automatic,hatchback,0,3,3710.07
+Chevrolet,Bolt,2013,205144,good,electric,automatic,hatchback,0,1,3923.24
+Nissan,Pathfinder,2023,55982,good,gasoline,automatic,suv,0,1,27918.98
+Ford,Mustang,2014,188545,excellent,hybrid,manual,coupe,0,2,6344.99
+Nissan,Sentra,2013,29704,excellent,diesel,automatic,sedan,0,1,7263.73
+Ford,Escape,2025,13851,excellent,gasoline,automatic,suv,0,2,35239.33
+Ford,F-150,2006,90235,excellent,gasoline,automatic,truck,1,2,5886.69
+Chevrolet,Malibu,2016,65696,poor,gasoline,automatic,wagon,0,3,4786.42
+Honda,Pilot,2005,271207,good,diesel,automatic,suv,0,3,3022.4
+Honda,Fit,2025,20343,good,gasoline,automatic,hatchback,0,1,16625.65
+Chevrolet,Bolt,2011,233136,fair,electric,automatic,hatchback,0,1,2772.04
+Ford,F-150,2006,254119,fair,diesel,automatic,truck,0,2,2694.58
+Tesla,Model S,2013,208317,fair,electric,automatic,sedan,1,1,8230.45
+Ford,Focus,2007,194500,good,gasoline,automatic,hatchback,0,2,1450.98
+Chevrolet,Bolt,2022,75756,good,electric,automatic,hatchback,0,1,19210.21
+Honda,CR-V,2021,22916,good,hybrid,automatic,suv,1,1,18278.46
+Hyundai,Ioniq 5,2011,204735,good,electric,automatic,sedan,1,4,3627.31
+Toyota,Highlander,2015,104055,fair,gasoline,automatic,suv,0,3,8567.22
+BMW,X3,2015,183714,excellent,gasoline,automatic,suv,0,2,8636.56
+Toyota,RAV4,2011,52995,good,gasoline,automatic,suv,0,1,7738.97
+Toyota,RAV4,2024,17365,poor,gasoline,automatic,suv,0,2,17641.01
+Honda,Pilot,2008,255439,excellent,gasoline,automatic,suv,0,1,4404.66
+BMW,i4,2014,28372,fair,electric,automatic,sedan,0,1,17624.63
+BMW,i4,2013,149732,good,electric,automatic,sedan,0,2,10575.05
+Honda,Fit,2009,92105,good,gasoline,automatic,hatchback,0,2,2581.24
+Nissan,Leaf,2017,28568,fair,electric,automatic,hatchback,1,2,7993.68
+Hyundai,Tucson,2020,80216,fair,gasoline,automatic,suv,0,1,12665.69
+Hyundai,Sonata,2011,270224,excellent,gasoline,automatic,sedan,0,1,3104.74
+Tesla,Model 3,2015,93559,fair,electric,automatic,sedan,0,1,10823.94
+Honda,Civic,2012,169686,good,gasoline,automatic,sedan,0,1,3282.89
+Hyundai,Sonata,2017,112909,good,gasoline,automatic,sedan,0,2,7168.27
+Nissan,Altima,2005,201157,good,gasoline,automatic,sedan,0,5,1372.18
+Tesla,Model S,2012,176844,excellent,electric,automatic,sedan,0,2,13010.84
+Honda,Fit,2018,83030,poor,gasoline,automatic,hatchback,0,1,4269.81
+Tesla,Model Y,2020,71046,excellent,electric,automatic,suv,1,1,26635.21
+Hyundai,Ioniq 5,2011,138697,excellent,electric,automatic,wagon,0,5,7132.67
+Honda,CR-V,2007,317378,excellent,gasoline,automatic,suv,0,1,3418.74
+Ford,Focus,2012,249670,fair,diesel,manual,hatchback,1,1,1478.51
+Chevrolet,Malibu,2024,36165,fair,gasoline,automatic,sedan,0,2,17100.35
+Chevrolet,Malibu,2016,76014,excellent,gasoline,automatic,wagon,0,4,8040.83
+Chevrolet,Equinox,2023,27866,fair,diesel,automatic,suv,1,2,16310.7
+Ford,Mustang,2024,31935,fair,gasoline,automatic,coupe,0,1,25192.22
+Ford,Mustang,2010,147296,fair,gasoline,automatic,coupe,0,3,4569.42
+Honda,Civic,2006,253060,excellent,gasoline,automatic,sedan,0,1,1813.76
+BMW,3 Series,2005,210954,good,hybrid,automatic,sedan,0,2,2824.44
+Honda,Pilot,2009,285817,fair,gasoline,automatic,suv,0,3,3226.84
+Honda,CR-V,2013,120978,poor,gasoline,automatic,suv,0,1,4964.56
+Ford,Focus,2019,86641,good,gasoline,automatic,hatchback,1,3,6095.94
+Ford,Escape,2005,323478,good,gasoline,automatic,suv,1,1,1619.16
+BMW,3 Series,2012,90754,good,gasoline,automatic,sedan,0,1,9789.1
+Ford,Mustang,2009,61704,fair,gasoline,automatic,coupe,0,1,6455.65
+Honda,Accord,2014,84110,good,gasoline,automatic,sedan,1,1,6185.35
+Chevrolet,Equinox,2017,144682,excellent,gasoline,automatic,suv,0,3,7879.29
+Ford,Escape,2018,100738,good,gasoline,automatic,suv,0,1,10965.93
+Nissan,Sentra,2005,86220,excellent,gasoline,automatic,sedan,0,3,2822.65
+Hyundai,Santa Fe,2009,75704,good,hybrid,automatic,suv,0,2,7150.72
+Toyota,RAV4,2016,63590,excellent,gasoline,automatic,suv,0,3,12229.37
+Ford,Escape,2009,309570,good,gasoline,automatic,suv,0,4,2268.3
+Chevrolet,Bolt,2015,52228,excellent,electric,automatic,hatchback,0,1,11845.1
+Ford,Escape,2010,270006,fair,hybrid,automatic,suv,0,1,2823.99
+Honda,Fit,2017,142838,excellent,hybrid,automatic,hatchback,0,2,5667.48
+Hyundai,Sonata,2013,48584,good,gasoline,manual,sedan,0,2,6477.71
+Chevrolet,Silverado,2006,350000,good,gasoline,automatic,truck,0,2,3283.83
+Chevrolet,Silverado,2014,71945,fair,diesel,automatic,truck,0,1,13147.61
+Chevrolet,Silverado,2025,10711,good,gasoline,manual,truck,0,1,43390.91
+Chevrolet,Traverse,2018,92867,poor,gasoline,automatic,suv,0,2,8278.92
+Nissan,Leaf,2008,79867,poor,electric,automatic,hatchback,0,2,3303.14
+Toyota,Prius,2021,38659,excellent,hybrid,automatic,hatchback,0,1,19950.71
+Tesla,Model Y,2025,6662,poor,electric,automatic,suv,0,1,35396.97
+Chevrolet,Malibu,2010,116103,excellent,gasoline,automatic,sedan,0,3,4613.63
+Chevrolet,Traverse,2023,18668,fair,gasoline,automatic,suv,0,1,28755.14
+BMW,5 Series,2015,196341,excellent,gasoline,automatic,sedan,0,1,8524.7
+Tesla,Model X,2012,168362,fair,electric,automatic,suv,0,1,12185.68
+Hyundai,Ioniq 5,2025,16772,good,electric,automatic,wagon,1,1,34017.45
+Ford,Mustang,2008,137512,good,gasoline,automatic,coupe,1,2,3151.69
+Honda,CR-V,2009,301555,good,gasoline,automatic,suv,1,3,2161.86
+Tesla,Model 3,2017,99427,fair,electric,automatic,sedan,0,1,13880.48
+Toyota,Prius,2017,76868,good,hybrid,automatic,hatchback,1,2,7986.22
+Honda,Pilot,2008,66624,good,gasoline,automatic,suv,0,2,7839.28
+Tesla,Model X,2005,77401,good,electric,automatic,suv,0,3,14309.91
+Toyota,Prius,2019,74183,poor,hybrid,automatic,hatchback,0,2,7608.07
+Ford,Explorer,2019,113569,fair,gasoline,automatic,suv,0,2,12412.88
+Tesla,Model X,2021,21699,fair,electric,automatic,suv,0,1,60124.96
+Ford,Mustang,2014,68704,good,gasoline,automatic,coupe,0,1,12367.94
+Hyundai,Sonata,2023,58926,good,gasoline,automatic,sedan,0,1,16083.34
+BMW,5 Series,2013,87277,fair,hybrid,automatic,sedan,0,1,12749.71
+Ford,Mustang,2024,22894,good,gasoline,automatic,coupe,1,1,26071.52
+Chevrolet,Equinox,2017,38398,fair,hybrid,automatic,suv,0,1,12786.51
+BMW,5 Series,2006,237862,excellent,gasoline,automatic,sedan,0,2,4358.0
+Nissan,Leaf,2010,40946,poor,electric,automatic,hatchback,0,3,4300.93
+Chevrolet,Traverse,2007,147337,good,hybrid,automatic,suv,1,1,3427.52
+Hyundai,Sonata,2020,50381,fair,gasoline,automatic,sedan,0,2,9550.19
+Tesla,Model S,2012,57724,good,electric,automatic,sedan,0,2,23918.32
+Chevrolet,Traverse,2012,146762,good,gasoline,automatic,suv,0,2,6778.0
+Honda,CR-V,2022,37648,excellent,gasoline,automatic,suv,0,1,27721.95
+Honda,CR-V,2023,44433,good,gasoline,automatic,suv,0,1,26576.98
+Chevrolet,Malibu,2013,131055,good,gasoline,automatic,sedan,1,4,3365.46
+Ford,Focus,2023,40015,excellent,gasoline,automatic,hatchback,0,2,13542.75
+Toyota,Highlander,2016,127978,excellent,gasoline,automatic,suv,0,1,11603.52
+Tesla,Model Y,2005,107095,excellent,electric,automatic,suv,0,1,8246.1
+Tesla,Model Y,2005,350000,good,electric,automatic,suv,0,2,3653.71
+Chevrolet,Bolt,2013,142879,fair,electric,automatic,hatchback,0,2,4894.04
+Nissan,Rogue,2016,145522,fair,gasoline,automatic,suv,0,1,5694.74
+BMW,X3,2009,38477,fair,diesel,automatic,suv,0,4,9123.84
+Nissan,Leaf,2015,175320,good,electric,automatic,hatchback,0,3,4865.31
+Nissan,Sentra,2024,24670,fair,gasoline,automatic,sedan,0,1,14085.29
+Chevrolet,Bolt,2007,130233,good,electric,automatic,hatchback,0,1,4242.43
+Toyota,Highlander,2025,14271,good,gasoline,automatic,suv,0,1,37934.96
+Honda,Fit,2022,66796,fair,hybrid,automatic,hatchback,0,1,10050.8
+Honda,Pilot,2010,234837,good,gasoline,automatic,suv,0,1,4362.56
+Chevrolet,Bolt,2013,212653,poor,electric,automatic,hatchback,0,1,2673.2
+Nissan,Pathfinder,2025,19777,good,gasoline,automatic,suv,0,2,36799.44
+Ford,Focus,2025,10151,fair,gasoline,automatic,hatchback,0,1,14162.34
+Tesla,Model S,2017,112753,poor,electric,automatic,sedan,0,2,18434.03
+Hyundai,Santa Fe,2016,165916,good,gasoline,automatic,suv,1,1,6248.07
+Chevrolet,Silverado,2024,28143,good,hybrid,automatic,truck,0,1,52395.87
+BMW,3 Series,2024,13737,good,gasoline,automatic,sedan,0,2,34451.31
+Chevrolet,Malibu,2019,102356,good,gasoline,automatic,sedan,0,2,9501.15
+Tesla,Model Y,2022,56471,excellent,electric,automatic,suv,0,1,31689.58
+Ford,Explorer,2018,87256,good,gasoline,automatic,suv,0,1,17959.24
+BMW,i4,2017,164807,good,electric,automatic,sedan,0,2,13968.48
+Chevrolet,Equinox,2014,124698,good,diesel,automatic,suv,1,2,5529.41
+Nissan,Rogue,2007,125691,good,gasoline,automatic,suv,0,4,3674.88
+BMW,5 Series,2023,19060,fair,gasoline,automatic,sedan,0,1,37480.83
+Ford,Focus,2005,108964,fair,gasoline,automatic,hatchback,0,2,1842.24
+Hyundai,Tucson,2010,148897,fair,hybrid,automatic,suv,0,2,4163.17
+BMW,X5,2025,18336,good,gasoline,manual,suv,0,2,56832.9
+BMW,5 Series,2016,149890,fair,gasoline,automatic,sedan,0,2,9617.9
+Nissan,Rogue,2014,40170,fair,gasoline,automatic,suv,1,1,7434.82
+BMW,i4,2020,106717,excellent,electric,automatic,sedan,0,4,24941.62
+Tesla,Model 3,2009,120595,good,electric,automatic,sedan,0,2,6734.95
+Nissan,Altima,2007,295981,poor,hybrid,automatic,sedan,0,1,1350.55
+Tesla,Model Y,2011,111527,fair,electric,automatic,suv,1,1,7701.41
+Nissan,Sentra,2022,30514,good,diesel,automatic,sedan,0,4,14227.59
+BMW,X5,2017,49327,good,gasoline,automatic,suv,1,1,22972.74
+Honda,CR-V,2022,70070,good,gasoline,automatic,suv,1,1,18074.06
+Tesla,Model 3,2005,350000,excellent,electric,automatic,sedan,0,2,3536.23
+Nissan,Rogue,2009,231680,fair,gasoline,automatic,suv,0,2,2374.78
+Nissan,Leaf,2016,162028,good,electric,automatic,hatchback,0,1,6307.97
+Nissan,Pathfinder,2013,227621,good,gasoline,automatic,suv,1,2,3628.07
+BMW,5 Series,2009,138613,good,gasoline,automatic,sedan,1,1,6675.11
+Nissan,Altima,2016,107498,fair,gasoline,automatic,sedan,0,5,5303.83
+Nissan,Sentra,2019,23493,fair,gasoline,manual,sedan,0,2,8584.68
+Honda,Civic,2017,157706,fair,gasoline,automatic,sedan,1,4,3158.39
+BMW,5 Series,2006,244837,excellent,hybrid,automatic,sedan,0,1,4661.77
+Toyota,Camry,2017,124493,good,gasoline,automatic,wagon,0,5,6994.98
+Ford,F-150,2006,285015,excellent,gasoline,automatic,truck,0,1,3810.06
+Tesla,Model S,2008,306175,poor,electric,automatic,sedan,0,3,4528.99
+Nissan,Leaf,2018,138788,good,electric,automatic,hatchback,1,1,6428.58
+Hyundai,Ioniq 5,2010,79309,fair,electric,automatic,sedan,0,2,7161.46
+Nissan,Altima,2012,177807,good,diesel,automatic,sedan,0,3,3119.03
+Tesla,Model X,2009,199176,excellent,electric,automatic,suv,0,1,11460.2
+Chevrolet,Bolt,2012,195174,fair,electric,automatic,hatchback,0,1,3356.72
+Nissan,Altima,2012,59706,excellent,gasoline,automatic,sedan,0,1,7449.35
+Honda,Fit,2020,71927,poor,gasoline,manual,hatchback,1,1,4105.94
+BMW,i4,2012,194292,fair,electric,automatic,wagon,0,1,6098.11
+Nissan,Sentra,2024,28678,fair,gasoline,automatic,sedan,0,2,12588.5
+Honda,Civic,2020,94413,poor,hybrid,automatic,sedan,0,1,6947.88
+Nissan,Rogue,2011,124749,good,gasoline,automatic,suv,0,1,5576.79
+Hyundai,Santa Fe,2011,245298,good,hybrid,automatic,suv,1,1,3304.56
+Tesla,Model Y,2014,191839,good,electric,automatic,suv,0,3,7462.8
+Toyota,Corolla,2015,87750,excellent,gasoline,manual,sedan,0,3,6557.61
+Chevrolet,Equinox,2014,149053,good,gasoline,manual,suv,0,2,5335.46
+Nissan,Altima,2018,128371,fair,hybrid,automatic,sedan,0,4,6255.14
+Hyundai,Santa Fe,2025,11890,good,hybrid,manual,suv,0,1,37617.45
+Tesla,Model S,2009,183786,poor,electric,automatic,sedan,0,1,5824.85
+Toyota,Corolla,2010,62453,good,gasoline,automatic,sedan,0,3,4570.73
+Tesla,Model Y,2025,21496,fair,electric,automatic,suv,0,2,43620.28
+Ford,F-150,2014,34608,excellent,gasoline,automatic,truck,0,1,18268.3
+Ford,Focus,2008,230013,good,gasoline,automatic,hatchback,0,2,1523.07
+Honda,Civic,2006,133818,poor,gasoline,automatic,sedan,0,2,1685.61
+Nissan,Pathfinder,2007,341384,fair,gasoline,automatic,suv,0,1,2461.01
+Honda,Accord,2011,185697,poor,gasoline,automatic,sedan,0,1,1995.42
+BMW,X5,2015,132182,fair,gasoline,automatic,suv,0,3,13052.9
+Ford,Focus,2013,185015,excellent,gasoline,automatic,hatchback,0,1,2695.62
+Nissan,Pathfinder,2019,78706,excellent,gasoline,automatic,suv,0,5,17087.66
+Hyundai,Santa Fe,2022,44572,good,diesel,automatic,suv,0,1,26037.33
+Hyundai,Ioniq 5,2020,73514,good,electric,automatic,sedan,0,2,24256.83
+Honda,Civic,2009,285540,fair,gasoline,automatic,sedan,0,2,1528.38
+Ford,F-150,2007,311776,good,gasoline,automatic,truck,0,3,3530.76
+Honda,Civic,2018,79851,fair,hybrid,automatic,sedan,0,2,7891.58
+Toyota,RAV4,2025,7669,good,gasoline,automatic,suv,0,3,32671.42
+BMW,X5,2015,94336,good,gasoline,automatic,suv,0,1,21005.96
+Nissan,Sentra,2009,275172,fair,gasoline,automatic,sedan,0,2,1456.35
+Toyota,Camry,2017,51594,good,gasoline,automatic,sedan,0,4,9285.34
+Toyota,Camry,2018,109756,good,diesel,automatic,sedan,0,2,10465.52
+Toyota,Camry,2020,90373,excellent,gasoline,automatic,sedan,1,2,9646.37
+Tesla,Model Y,2010,60114,good,electric,automatic,suv,0,2,12403.25
+Chevrolet,Traverse,2011,165712,fair,gasoline,automatic,suv,0,1,4444.65
+Nissan,Pathfinder,2012,181800,poor,gasoline,automatic,suv,1,1,2533.83
+Nissan,Rogue,2007,211344,good,diesel,automatic,suv,0,1,2670.31
+Honda,Fit,2019,68300,good,gasoline,automatic,hatchback,0,4,6997.7
+Chevrolet,Silverado,2022,53330,fair,hybrid,automatic,truck,0,3,29215.07
+Tesla,Model Y,2016,32901,fair,electric,automatic,suv,0,1,19937.06
+Chevrolet,Silverado,2014,47995,good,hybrid,automatic,truck,0,1,20679.94
+Chevrolet,Equinox,2020,97276,excellent,diesel,automatic,suv,0,3,14657.16
+Honda,Civic,2013,124169,poor,gasoline,manual,sedan,0,4,2740.8
+Chevrolet,Equinox,2021,81250,excellent,gasoline,automatic,suv,0,3,17033.95
+BMW,i4,2017,75397,good,electric,automatic,wagon,1,1,16452.28
+Tesla,Model Y,2017,110319,excellent,electric,automatic,suv,0,1,21029.65
+Chevrolet,Silverado,2006,285117,good,gasoline,automatic,truck,0,1,3751.69
+Hyundai,Santa Fe,2009,123926,good,gasoline,automatic,suv,0,1,5447.25
+Honda,Accord,2019,80504,fair,gasoline,automatic,sedan,0,1,9817.76
+Nissan,Sentra,2005,155574,excellent,hybrid,automatic,sedan,0,3,2226.83
+Tesla,Model Y,2024,39524,excellent,electric,automatic,suv,0,3,46259.05
+Ford,F-150,2007,305766,good,gasoline,manual,truck,0,1,3665.99
+Hyundai,Santa Fe,2011,54806,fair,gasoline,automatic,suv,0,1,8660.53
+BMW,X5,2021,24303,fair,gasoline,automatic,suv,0,1,37882.16
+Toyota,Highlander,2013,129862,good,gasoline,automatic,suv,0,1,8708.57
+Chevrolet,Silverado,2005,73709,excellent,gasoline,automatic,truck,0,2,7369.55
+Ford,Mustang,2006,183260,good,gasoline,automatic,coupe,0,2,2647.29
+Toyota,Prius,2020,22469,excellent,hybrid,automatic,hatchback,0,1,20433.89
+BMW,3 Series,2023,12971,good,gasoline,automatic,sedan,0,2,31698.87
+Nissan,Rogue,2014,187282,excellent,gasoline,automatic,suv,0,2,4904.5
+BMW,X5,2011,258961,fair,gasoline,automatic,suv,0,3,5663.23
+Hyundai,Elantra,2008,184458,good,gasoline,automatic,sedan,0,3,1936.72
+Chevrolet,Malibu,2007,134652,good,gasoline,automatic,sedan,0,1,3062.78
+Chevrolet,Silverado,2022,27777,good,gasoline,automatic,truck,1,1,31262.93
+Toyota,Prius,2024,30406,fair,hybrid,automatic,hatchback,0,2,18971.2
+Hyundai,Sonata,2017,77118,good,gasoline,automatic,wagon,0,1,9370.17
+Nissan,Leaf,2021,45181,excellent,electric,automatic,hatchback,0,3,18943.3
+Chevrolet,Traverse,2012,91920,poor,gasoline,automatic,suv,0,3,5745.37
+Toyota,Prius,2012,219309,excellent,hybrid,automatic,hatchback,0,2,3792.58
+Nissan,Pathfinder,2015,62938,fair,diesel,automatic,suv,1,3,8192.3
+Chevrolet,Traverse,2008,204133,good,gasoline,manual,suv,0,2,3058.13
+Hyundai,Sonata,2020,75437,fair,gasoline,automatic,sedan,0,2,10678.19
+Hyundai,Santa Fe,2016,113104,fair,gasoline,automatic,suv,0,1,7770.16
+Nissan,Rogue,2005,276148,fair,gasoline,automatic,suv,0,1,1912.57
+Nissan,Leaf,2017,153711,good,electric,automatic,hatchback,0,1,7152.27
+Toyota,Corolla,2010,69398,excellent,gasoline,automatic,sedan,0,1,5879.16
+BMW,X5,2019,24542,good,gasoline,manual,suv,0,3,30846.29
+Chevrolet,Traverse,2016,126848,excellent,gasoline,manual,suv,0,4,9058.76
+BMW,i4,2016,27792,fair,electric,automatic,sedan,0,1,22981.04
+Nissan,Sentra,2018,42168,excellent,gasoline,automatic,sedan,0,1,11435.18
+BMW,3 Series,2011,192556,fair,gasoline,manual,sedan,0,1,3377.26
+BMW,5 Series,2009,118406,fair,gasoline,automatic,sedan,1,3,4627.52
+Nissan,Altima,2010,52225,good,gasoline,automatic,sedan,1,1,5394.81
+Ford,Escape,2007,334193,good,gasoline,automatic,suv,0,3,2099.18
+Hyundai,Santa Fe,2012,198307,good,gasoline,automatic,suv,0,3,4041.99
+Honda,Pilot,2015,124597,fair,gasoline,automatic,suv,0,1,8926.22
+Ford,Mustang,2014,155642,good,diesel,automatic,coupe,0,2,6854.58
+Nissan,Altima,2010,201838,fair,hybrid,automatic,sedan,0,3,2006.01
+Ford,Focus,2020,25427,excellent,gasoline,automatic,hatchback,1,2,10235.89
+Chevrolet,Equinox,2009,261899,good,gasoline,automatic,suv,1,1,2050.38
+Ford,F-150,2025,3600,good,diesel,automatic,truck,0,3,45734.59
+Toyota,Camry,2021,70468,poor,gasoline,automatic,sedan,0,1,9131.83
+Honda,Civic,2024,32558,fair,hybrid,automatic,sedan,0,1,19555.94
+BMW,i4,2009,199800,poor,electric,automatic,sedan,0,1,3828.99
+Hyundai,Santa Fe,2015,92676,fair,gasoline,automatic,suv,0,2,8193.17
+Chevrolet,Traverse,2016,100699,excellent,gasoline,automatic,suv,0,1,13262.71
+Nissan,Leaf,2023,29094,excellent,electric,automatic,hatchback,0,3,22191.5
+Ford,Focus,2005,141634,good,hybrid,automatic,hatchback,0,3,1694.59
+Toyota,Corolla,2006,350000,excellent,gasoline,automatic,sedan,0,1,1860.61
+Tesla,Model S,2017,166075,fair,electric,automatic,sedan,1,1,12930.33
+Chevrolet,Equinox,2023,52616,fair,gasoline,automatic,suv,0,2,16763.81
+BMW,X3,2011,64272,excellent,gasoline,automatic,suv,0,4,12593.93
+Honda,Accord,2016,165575,good,gasoline,manual,sedan,0,1,5729.58
+Ford,F-150,2007,240973,good,gasoline,automatic,truck,0,3,3550.16
+Chevrolet,Bolt,2025,11011,good,electric,automatic,hatchback,0,2,30447.12
+Ford,Focus,2010,215793,good,gasoline,automatic,hatchback,0,2,1995.44
+Ford,F-150,2022,41720,good,hybrid,automatic,truck,0,2,35767.86
+Chevrolet,Silverado,2015,165629,fair,diesel,automatic,truck,0,2,8491.48
+Hyundai,Ioniq 5,2017,50340,good,electric,automatic,sedan,0,1,21795.24
+BMW,3 Series,2019,67396,fair,gasoline,automatic,sedan,0,1,16568.78
+Honda,Fit,2010,66754,poor,gasoline,automatic,hatchback,0,2,2407.06
+Honda,Pilot,2021,28428,fair,hybrid,automatic,suv,1,1,18294.78
+Hyundai,Sonata,2016,89514,fair,gasoline,automatic,sedan,1,1,5882.09
+Hyundai,Sonata,2009,47923,excellent,hybrid,automatic,sedan,0,1,6957.0
+Ford,Mustang,2020,19687,good,gasoline,automatic,coupe,0,1,24152.23
+Nissan,Leaf,2017,69665,good,electric,automatic,hatchback,1,3,8132.28
+Tesla,Model S,2008,71703,excellent,electric,automatic,sedan,0,1,18814.33
+Ford,Escape,2016,44851,good,gasoline,automatic,suv,0,1,12429.11
+Hyundai,Santa Fe,2011,135974,good,gasoline,automatic,suv,1,4,4291.36
+Chevrolet,Silverado,2007,221989,excellent,gasoline,automatic,truck,0,1,4350.26
+Chevrolet,Bolt,2020,35916,good,electric,automatic,hatchback,0,2,17672.12
+Tesla,Model Y,2017,144672,fair,electric,automatic,suv,0,1,12970.07
+Hyundai,Ioniq 5,2017,29656,good,electric,automatic,sedan,0,2,20825.37
+Nissan,Pathfinder,2012,107542,good,gasoline,automatic,suv,0,1,9036.75
+Honda,Civic,2006,228419,excellent,gasoline,manual,sedan,0,1,1801.68
+BMW,X3,2007,247395,good,hybrid,automatic,suv,0,2,4100.28
+Chevrolet,Malibu,2018,61221,fair,gasoline,automatic,wagon,0,1,9449.43
+Hyundai,Ioniq 5,2015,189859,good,electric,automatic,sedan,0,1,8110.13
+Ford,Mustang,2022,75511,good,gasoline,automatic,coupe,0,2,22016.39
+Honda,Pilot,2016,129051,good,gasoline,automatic,suv,0,1,11379.0
+Hyundai,Santa Fe,2020,102284,good,gasoline,manual,suv,0,1,14878.55
+Hyundai,Tucson,2022,18078,good,gasoline,automatic,suv,0,3,24392.67
+Chevrolet,Equinox,2024,7757,good,gasoline,automatic,suv,0,2,26745.08
+Tesla,Model 3,2018,37453,fair,electric,automatic,sedan,0,1,18052.77
+Chevrolet,Malibu,2022,50754,excellent,gasoline,manual,sedan,0,2,16606.64
+Tesla,Model S,2005,53223,excellent,electric,automatic,sedan,0,1,15370.25
+Hyundai,Elantra,2023,19163,fair,gasoline,automatic,wagon,0,1,13534.02
+BMW,5 Series,2024,32118,fair,gasoline,automatic,sedan,0,1,40424.08
+Toyota,RAV4,2018,76359,good,gasoline,automatic,suv,0,2,15161.93
+Hyundai,Tucson,2005,93479,fair,gasoline,automatic,suv,0,4,3406.07
+Ford,Focus,2010,170038,fair,gasoline,automatic,hatchback,0,1,1760.17
+Honda,Pilot,2016,167692,fair,diesel,automatic,suv,0,2,6939.95
+Ford,Escape,2013,38196,good,gasoline,automatic,suv,0,1,10353.73
+Chevrolet,Traverse,2010,100484,poor,gasoline,automatic,suv,0,1,4956.23
+Nissan,Rogue,2007,261966,excellent,gasoline,automatic,suv,0,1,3155.48
+Nissan,Altima,2017,47520,excellent,gasoline,automatic,sedan,1,5,8387.21
+Hyundai,Tucson,2013,189474,fair,gasoline,automatic,suv,0,1,3244.17
+Hyundai,Elantra,2005,123064,fair,gasoline,automatic,sedan,0,3,1822.04
+BMW,3 Series,2012,80083,good,gasoline,manual,sedan,0,1,9498.87
+Hyundai,Santa Fe,2020,31480,good,gasoline,automatic,suv,0,1,22003.06
+BMW,X5,2022,19802,good,gasoline,manual,suv,0,1,46176.04
+Chevrolet,Traverse,2024,13196,good,gasoline,manual,suv,0,1,35298.17
+Toyota,Camry,2005,350000,good,gasoline,automatic,sedan,0,3,1497.24
+Nissan,Altima,2019,66691,good,gasoline,automatic,sedan,1,2,9341.54
+Hyundai,Sonata,2007,319129,poor,hybrid,automatic,sedan,0,3,1200.0
+Honda,Fit,2018,144658,excellent,gasoline,automatic,hatchback,0,2,5408.27
+BMW,3 Series,2020,110628,good,gasoline,automatic,sedan,0,1,18757.33
+Toyota,Camry,2006,135526,excellent,gasoline,automatic,sedan,1,2,2363.48
+Honda,Accord,2014,113097,fair,gasoline,automatic,wagon,0,1,5237.23
+Nissan,Altima,2023,21437,fair,hybrid,automatic,sedan,0,3,16954.46
+BMW,5 Series,2014,57720,good,hybrid,automatic,sedan,1,4,13351.42
+Hyundai,Ioniq 5,2020,39327,good,electric,automatic,sedan,0,1,25147.06
+Hyundai,Elantra,2022,29944,fair,gasoline,automatic,sedan,0,3,12166.0
+Honda,Civic,2018,44339,excellent,gasoline,automatic,sedan,0,3,11206.49
+Chevrolet,Equinox,2009,48960,good,gasoline,automatic,suv,0,2,5985.34
+Tesla,Model 3,2023,22609,poor,electric,automatic,sedan,0,1,22434.01
+Chevrolet,Malibu,2024,29069,excellent,gasoline,automatic,sedan,0,2,24018.1
+Tesla,Model S,2025,19758,fair,electric,automatic,sedan,0,1,71631.37
+Nissan,Leaf,2022,62285,good,electric,automatic,hatchback,0,1,17719.68
+Honda,Civic,2009,51368,good,hybrid,automatic,sedan,0,1,6059.83
+Ford,Explorer,2010,202369,poor,gasoline,automatic,suv,0,4,2255.91
+Nissan,Leaf,2007,271233,good,electric,automatic,hatchback,0,1,2312.74
+Toyota,Camry,2006,350000,good,gasoline,automatic,sedan,0,4,1625.93
+BMW,5 Series,2020,47296,poor,gasoline,automatic,sedan,0,3,17862.06
+Hyundai,Tucson,2021,31152,good,gasoline,automatic,suv,0,1,19708.87
+Tesla,Model S,2005,326182,good,electric,automatic,sedan,0,1,6577.25
+Ford,F-150,2018,31281,fair,gasoline,automatic,truck,0,1,20673.04
+Honda,Civic,2018,21597,good,gasoline,manual,sedan,0,1,11587.4
+Tesla,Model Y,2011,270474,good,electric,automatic,suv,0,2,6003.0
+Hyundai,Santa Fe,2008,77677,fair,gasoline,automatic,suv,0,4,4648.14
+Chevrolet,Silverado,2005,111161,poor,gasoline,automatic,truck,1,1,2754.88
+Nissan,Pathfinder,2021,86504,good,gasoline,manual,suv,0,1,19684.78
+Hyundai,Tucson,2024,27324,good,gasoline,automatic,suv,0,1,25072.03
+Chevrolet,Bolt,2020,100119,excellent,electric,automatic,hatchback,0,1,16094.24
+Tesla,Model 3,2025,12880,good,electric,automatic,sedan,0,4,34770.1
+BMW,X5,2008,48154,good,gasoline,manual,suv,0,3,11397.93
+Nissan,Leaf,2025,20893,good,electric,automatic,hatchback,0,2,27927.99
+Toyota,Camry,2019,20047,poor,gasoline,automatic,wagon,1,1,7389.67
+Hyundai,Santa Fe,2020,106646,good,hybrid,automatic,suv,0,2,15231.94
+Honda,Accord,2016,43754,good,gasoline,automatic,sedan,0,2,10236.34
+Tesla,Model X,2012,106211,excellent,electric,automatic,suv,0,1,26090.97
+Hyundai,Tucson,2019,107319,fair,gasoline,automatic,suv,0,2,9856.81
+Honda,Fit,2016,96374,poor,gasoline,automatic,hatchback,1,3,2642.62
+BMW,X3,2013,59754,excellent,gasoline,manual,suv,0,2,15141.29
+Tesla,Model X,2007,46165,good,electric,automatic,suv,1,1,16928.15
+Ford,Explorer,2008,260400,good,hybrid,automatic,suv,1,2,2694.37
+Tesla,Model X,2013,196067,fair,electric,automatic,suv,1,4,7583.89
+Toyota,Corolla,2018,134334,fair,gasoline,automatic,wagon,0,1,5412.26
+Honda,Civic,2025,22010,excellent,gasoline,automatic,sedan,0,2,22285.31
+Hyundai,Sonata,2015,79468,good,gasoline,automatic,sedan,0,1,8048.7
+Chevrolet,Bolt,2010,96951,good,electric,automatic,hatchback,0,1,6148.97
+BMW,i4,2020,32023,good,electric,automatic,sedan,0,3,33905.79
+Hyundai,Ioniq 5,2013,47043,fair,electric,automatic,sedan,0,3,10763.14
+Nissan,Sentra,2009,299982,excellent,gasoline,automatic,sedan,1,1,1865.82
+Ford,Explorer,2020,93978,good,hybrid,automatic,suv,0,1,20929.48
+Hyundai,Santa Fe,2019,31280,excellent,diesel,automatic,suv,0,5,20333.84
+Toyota,Camry,2024,25050,fair,gasoline,automatic,sedan,0,4,17862.12
+Ford,Explorer,2011,122599,good,diesel,automatic,suv,0,1,8079.54
+BMW,5 Series,2010,203097,fair,gasoline,automatic,sedan,1,1,3220.74
+Nissan,Sentra,2011,256523,excellent,gasoline,automatic,sedan,0,2,2532.59
+Toyota,Prius,2006,201413,excellent,hybrid,automatic,hatchback,0,2,2205.68
+Nissan,Sentra,2016,126440,good,gasoline,automatic,sedan,0,1,5610.75
+Honda,CR-V,2009,76812,fair,gasoline,automatic,suv,0,2,5003.32
+Chevrolet,Traverse,2007,172414,fair,gasoline,automatic,suv,1,1,2610.52
+Toyota,Camry,2011,218321,fair,gasoline,automatic,sedan,0,2,2261.23
+Honda,Pilot,2011,215863,good,gasoline,automatic,suv,0,1,4652.18
+BMW,5 Series,2011,217807,good,gasoline,automatic,sedan,0,3,5220.61
+Hyundai,Sonata,2010,161204,excellent,hybrid,automatic,sedan,0,5,3533.34
+Nissan,Sentra,2021,47735,good,gasoline,automatic,sedan,0,2,12528.04
+Chevrolet,Traverse,2022,20211,good,gasoline,automatic,suv,0,5,23984.04
+BMW,5 Series,2014,118525,good,gasoline,automatic,sedan,0,5,10769.67
+Toyota,Corolla,2022,54812,excellent,gasoline,automatic,sedan,0,2,13652.82
+Nissan,Sentra,2017,49338,fair,gasoline,automatic,sedan,0,2,7337.48
+Ford,Focus,2008,110247,excellent,gasoline,automatic,hatchback,1,1,2411.61
+Chevrolet,Silverado,2019,38780,fair,gasoline,automatic,truck,0,1,24719.54
+Chevrolet,Bolt,2025,13999,good,electric,automatic,hatchback,0,2,27876.52
+Nissan,Rogue,2023,19315,good,gasoline,automatic,suv,0,1,28075.2
+BMW,3 Series,2016,147800,excellent,gasoline,manual,sedan,0,2,9602.79
+Toyota,RAV4,2022,70302,fair,gasoline,automatic,suv,0,1,15907.23
+Toyota,Prius,2006,113740,excellent,hybrid,automatic,hatchback,0,1,4117.5
+BMW,i4,2021,14924,poor,electric,automatic,sedan,0,2,23793.12
+Hyundai,Ioniq 5,2009,150844,good,electric,automatic,sedan,0,2,5512.27
+Hyundai,Sonata,2020,29852,good,hybrid,automatic,sedan,1,3,12741.31
+Toyota,Camry,2012,114712,fair,gasoline,automatic,sedan,0,3,4182.94
+Honda,CR-V,2006,264217,excellent,gasoline,automatic,suv,1,1,2132.48
+Hyundai,Elantra,2008,130065,excellent,gasoline,automatic,sedan,1,1,2738.86
+Nissan,Sentra,2009,169682,fair,gasoline,automatic,sedan,0,1,1923.11
+Hyundai,Sonata,2022,56846,excellent,gasoline,automatic,sedan,0,1,19613.25
+Ford,Escape,2019,72340,excellent,gasoline,automatic,suv,0,4,13936.81
+Hyundai,Santa Fe,2007,118527,good,gasoline,automatic,suv,0,1,4881.19
+Honda,Pilot,2015,89839,good,gasoline,automatic,suv,0,2,12023.19
+Tesla,Model S,2021,74828,excellent,electric,automatic,sedan,1,1,42111.85
+Toyota,Prius,2021,43864,excellent,hybrid,automatic,hatchback,0,1,18065.22
+Toyota,Prius,2014,121032,good,hybrid,automatic,hatchback,0,2,6433.05
+Nissan,Altima,2015,55960,good,gasoline,automatic,sedan,0,1,9260.41
+Tesla,Model S,2014,155796,good,electric,automatic,sedan,1,2,13207.14
+Toyota,RAV4,2013,112085,fair,gasoline,automatic,suv,0,2,5894.8
+Nissan,Pathfinder,2017,125423,good,hybrid,automatic,suv,0,2,11461.24
+Tesla,Model S,2011,118342,good,electric,automatic,sedan,0,2,18506.28
+Hyundai,Santa Fe,2023,31813,good,hybrid,automatic,suv,0,1,31635.88
+Nissan,Rogue,2017,44918,poor,gasoline,automatic,suv,0,2,8680.87
+Nissan,Pathfinder,2015,156794,good,diesel,automatic,suv,0,2,7453.99
+Toyota,Camry,2019,99197,fair,gasoline,automatic,sedan,0,2,8884.64
+Honda,Civic,2014,56679,good,gasoline,automatic,sedan,0,2,7556.08
+Tesla,Model S,2009,137011,poor,electric,automatic,sedan,0,2,7697.66
+Nissan,Rogue,2008,294945,fair,gasoline,automatic,suv,0,1,2136.47
+Tesla,Model S,2015,25734,fair,electric,automatic,sedan,1,3,19758.43
+Chevrolet,Silverado,2015,193149,good,gasoline,automatic,truck,0,1,7694.1
+Nissan,Leaf,2011,74801,excellent,electric,automatic,hatchback,0,3,7389.21
+Ford,F-150,2006,62800,fair,gasoline,automatic,truck,1,3,4560.03
+Hyundai,Ioniq 5,2018,32623,fair,electric,automatic,sedan,0,1,19262.72
+Toyota,Highlander,2024,31935,good,gasoline,manual,suv,0,1,33839.29
+Toyota,Highlander,2005,121576,good,gasoline,automatic,suv,0,3,3757.73
+Toyota,Corolla,2021,75983,good,gasoline,manual,sedan,0,5,8790.66
+Nissan,Rogue,2007,82632,good,gasoline,automatic,suv,0,3,5150.55
+Toyota,Highlander,2020,39040,good,gasoline,automatic,suv,0,1,24104.81
+Tesla,Model 3,2011,58087,fair,electric,automatic,sedan,0,5,7980.12
+Honda,Pilot,2010,272584,excellent,gasoline,automatic,suv,0,2,4348.18
+Nissan,Pathfinder,2010,184771,excellent,gasoline,automatic,suv,0,4,4481.88
+Chevrolet,Traverse,2024,17511,good,gasoline,automatic,suv,0,3,31837.43
+Chevrolet,Malibu,2006,98508,fair,gasoline,automatic,sedan,0,2,2233.36
+BMW,5 Series,2013,169314,excellent,gasoline,automatic,sedan,1,5,6027.6
+Nissan,Altima,2012,196173,poor,gasoline,automatic,wagon,0,2,1642.86
+Nissan,Leaf,2014,142754,fair,electric,automatic,hatchback,0,2,4671.36
+Chevrolet,Equinox,2024,6071,fair,gasoline,automatic,suv,1,1,20312.58
+Nissan,Leaf,2015,88409,fair,electric,automatic,hatchback,0,1,7169.23
+Chevrolet,Malibu,2022,70639,fair,hybrid,automatic,sedan,0,1,11638.4
+Tesla,Model S,2005,180754,fair,electric,automatic,wagon,0,1,5719.8
+Tesla,Model X,2025,17667,good,electric,automatic,suv,0,3,88178.03
+Toyota,Camry,2008,231903,fair,gasoline,automatic,wagon,0,5,1326.27
+Nissan,Leaf,2007,162704,good,electric,automatic,hatchback,0,1,2703.69
+Toyota,Corolla,2009,192179,poor,gasoline,automatic,sedan,0,2,1238.71
+BMW,5 Series,2012,96591,excellent,gasoline,automatic,wagon,0,1,13622.12
+Ford,Explorer,2006,348583,fair,gasoline,automatic,suv,0,4,2200.98
+Tesla,Model Y,2024,20639,good,electric,automatic,suv,1,4,34438.93
+Ford,Explorer,2007,85421,fair,gasoline,automatic,suv,0,1,5854.28
+Toyota,Prius,2021,96717,good,hybrid,automatic,hatchback,1,1,11301.27
+Toyota,Prius,2016,59082,excellent,hybrid,automatic,hatchback,0,3,11094.89
+Honda,Civic,2019,126760,good,gasoline,automatic,sedan,0,1,8512.45
+Chevrolet,Silverado,2013,145071,poor,gasoline,manual,truck,0,4,4805.03
+Toyota,Camry,2023,42408,fair,hybrid,automatic,wagon,0,4,15372.95
+Honda,Civic,2012,96535,excellent,gasoline,automatic,sedan,0,2,6174.19
+Toyota,Prius,2014,211401,fair,hybrid,automatic,hatchback,0,1,3027.03
+Tesla,Model X,2019,81664,good,electric,automatic,suv,1,2,39021.64
+Tesla,Model Y,2009,110682,good,electric,automatic,suv,0,3,8769.77
+Ford,Mustang,2020,54101,fair,hybrid,automatic,coupe,0,1,18380.11
+BMW,3 Series,2011,65551,good,gasoline,automatic,sedan,0,1,10432.74
+Hyundai,Elantra,2024,12582,excellent,gasoline,automatic,sedan,0,1,22472.06
+Hyundai,Santa Fe,2016,108884,good,gasoline,automatic,suv,1,1,8574.17
+Nissan,Sentra,2011,129153,good,gasoline,automatic,sedan,0,3,3497.97
+Ford,Explorer,2010,253579,good,hybrid,automatic,suv,0,1,4713.02
+Hyundai,Sonata,2009,96475,excellent,gasoline,automatic,sedan,1,1,4290.52
+Hyundai,Santa Fe,2008,285999,good,gasoline,automatic,suv,0,1,3351.48
+Nissan,Pathfinder,2018,83060,excellent,gasoline,automatic,suv,1,1,14597.91
+Ford,Mustang,2009,37917,good,gasoline,automatic,coupe,0,1,7619.12
+BMW,X3,2005,98088,poor,diesel,automatic,suv,1,2,3339.8
+Honda,Accord,2007,206695,good,gasoline,manual,sedan,0,1,2012.32
+Hyundai,Santa Fe,2005,87628,good,gasoline,automatic,suv,0,1,5246.49
+BMW,i4,2018,134819,good,electric,automatic,sedan,0,3,17523.3
+Hyundai,Elantra,2009,305049,poor,hybrid,automatic,sedan,1,1,1200.0
+Honda,Fit,2025,16604,excellent,gasoline,automatic,hatchback,0,1,18586.41
+Toyota,Camry,2024,18506,good,gasoline,automatic,sedan,0,1,23124.17
+Toyota,Highlander,2015,105586,excellent,gasoline,automatic,suv,1,2,10924.1
+Honda,Fit,2017,136314,good,gasoline,manual,hatchback,0,1,4538.82
+Toyota,Camry,2016,164550,good,gasoline,automatic,sedan,0,1,5745.43
+Toyota,Prius,2024,13725,fair,hybrid,automatic,hatchback,0,2,19021.98
+Ford,Explorer,2022,17871,fair,gasoline,automatic,suv,0,1,27850.42
+Toyota,Prius,2005,121184,fair,hybrid,manual,hatchback,0,3,2413.82
+Honda,Fit,2012,199313,good,gasoline,automatic,hatchback,0,4,1717.54
+BMW,i4,2020,26157,excellent,electric,automatic,sedan,0,1,40423.16
+BMW,3 Series,2020,65338,fair,diesel,automatic,sedan,0,1,20628.63
+Tesla,Model S,2011,149629,excellent,electric,automatic,sedan,0,3,12240.18
+Ford,Focus,2014,54579,excellent,gasoline,automatic,hatchback,0,1,5986.83
+Nissan,Sentra,2011,109109,good,diesel,automatic,wagon,0,4,3926.83
+Tesla,Model S,2024,29777,fair,electric,automatic,sedan,0,2,59160.9
+Toyota,RAV4,2008,212585,fair,gasoline,automatic,suv,0,2,2177.16
+Hyundai,Santa Fe,2021,69772,good,gasoline,manual,suv,1,2,13139.99
+Tesla,Model Y,2005,132032,good,electric,automatic,suv,0,2,6023.02
+Ford,Mustang,2009,57289,good,gasoline,manual,coupe,0,2,6725.62
+Tesla,Model 3,2007,322242,good,electric,automatic,sedan,0,3,3481.13
+Nissan,Leaf,2014,68054,good,electric,automatic,hatchback,0,2,8839.65
+Tesla,Model Y,2012,221385,good,electric,automatic,suv,0,1,7256.6
+Hyundai,Tucson,2022,74692,good,gasoline,automatic,suv,0,1,19286.84
+Nissan,Altima,2020,45225,good,gasoline,automatic,sedan,0,1,13660.06
+Honda,Pilot,2016,107867,good,gasoline,automatic,suv,1,1,9914.01
+Honda,Accord,2023,39560,fair,hybrid,automatic,sedan,0,2,19609.61
+Chevrolet,Equinox,2006,205709,fair,gasoline,automatic,suv,0,2,1738.04
+Honda,Fit,2022,61490,good,gasoline,automatic,hatchback,0,1,10507.55
+Hyundai,Ioniq 5,2022,69431,good,electric,automatic,sedan,0,1,30141.9
+Toyota,Highlander,2024,12807,excellent,gasoline,automatic,suv,0,1,40423.5
+Honda,Civic,2023,13488,fair,gasoline,automatic,wagon,0,1,13957.48
+Tesla,Model Y,2012,96667,poor,electric,automatic,suv,0,1,7087.02
+Hyundai,Elantra,2013,200388,poor,gasoline,automatic,sedan,0,2,1601.51
+Hyundai,Tucson,2008,168356,poor,gasoline,automatic,suv,0,3,2123.13
+Ford,Explorer,2010,161158,excellent,gasoline,automatic,suv,0,3,5904.2
+Nissan,Pathfinder,2020,66195,fair,gasoline,automatic,suv,0,1,18174.18
+Hyundai,Sonata,2015,62017,fair,gasoline,automatic,sedan,0,2,6622.79
+Honda,CR-V,2015,103845,good,gasoline,automatic,suv,0,2,9300.16
+Honda,Fit,2012,129289,fair,gasoline,automatic,hatchback,0,3,2525.42
+BMW,5 Series,2005,158243,poor,gasoline,automatic,sedan,0,2,2757.32
+Toyota,Highlander,2023,55090,excellent,gasoline,automatic,suv,0,3,28427.65
+Honda,Civic,2025,19936,poor,gasoline,automatic,sedan,0,1,15377.82
+Hyundai,Santa Fe,2008,54804,good,gasoline,automatic,suv,0,5,6738.27
+Hyundai,Tucson,2013,108077,fair,gasoline,automatic,suv,1,2,4894.49
+Honda,CR-V,2011,73802,excellent,gasoline,automatic,suv,0,2,8745.26
+Hyundai,Sonata,2013,91239,good,gasoline,automatic,sedan,0,3,5250.34
+Toyota,Camry,2014,145130,poor,gasoline,automatic,sedan,0,1,3459.27
+Tesla,Model X,2024,30029,fair,electric,automatic,suv,0,1,77214.78
+Honda,Accord,2008,59078,good,gasoline,automatic,sedan,0,1,5180.89
+Ford,Focus,2022,21523,fair,hybrid,automatic,hatchback,1,2,9147.88
+Honda,Fit,2010,133138,fair,gasoline,automatic,hatchback,0,1,2311.8
+Toyota,Camry,2009,228161,fair,gasoline,automatic,sedan,0,2,2236.92
+Nissan,Rogue,2021,44409,good,gasoline,automatic,suv,0,1,18524.18
+Hyundai,Elantra,2015,64551,fair,gasoline,automatic,sedan,0,1,6548.67
+BMW,X3,2016,136776,good,gasoline,automatic,suv,0,4,12106.82
+Toyota,RAV4,2006,350000,good,gasoline,automatic,suv,0,1,2593.77
+Honda,Pilot,2013,50390,fair,diesel,automatic,suv,0,2,11079.64
+Hyundai,Elantra,2009,54575,fair,gasoline,automatic,sedan,1,1,3027.03
+Tesla,Model X,2015,52919,good,electric,automatic,suv,0,1,38175.74
+BMW,5 Series,2015,113797,fair,gasoline,automatic,sedan,0,1,10863.06
+BMW,i4,2025,18273,fair,electric,automatic,sedan,0,4,39094.55
+Honda,Pilot,2021,77120,good,gasoline,automatic,suv,0,2,21609.01
+Toyota,Prius,2006,189888,good,hybrid,automatic,hatchback,0,1,2244.99
+BMW,3 Series,2024,36126,good,gasoline,automatic,sedan,0,3,31531.41
+Ford,Focus,2006,66833,good,gasoline,automatic,hatchback,0,3,2846.94
+Nissan,Sentra,2007,86022,good,gasoline,automatic,sedan,0,3,2896.73
+Chevrolet,Traverse,2025,5279,poor,gasoline,automatic,suv,0,2,23589.24
+BMW,5 Series,2024,18917,fair,gasoline,automatic,sedan,0,1,37539.38
+Honda,Pilot,2021,34706,poor,gasoline,automatic,suv,0,1,15415.94
+Nissan,Rogue,2016,175720,fair,gasoline,manual,suv,0,2,5039.68
+Chevrolet,Malibu,2022,26471,good,gasoline,automatic,sedan,0,1,17929.6
+Hyundai,Sonata,2021,66565,good,gasoline,automatic,sedan,1,1,11228.23
+Honda,Fit,2006,186777,excellent,gasoline,automatic,hatchback,0,2,1373.35
+Toyota,RAV4,2022,37258,fair,gasoline,automatic,suv,1,2,14610.42
+Hyundai,Sonata,2019,126835,poor,diesel,automatic,sedan,0,2,5802.88
+Honda,Pilot,2024,29700,good,gasoline,manual,suv,0,2,31137.86
+Tesla,Model X,2022,26738,excellent,electric,automatic,suv,0,1,92151.26
+Nissan,Rogue,2023,52748,fair,hybrid,automatic,suv,0,2,20620.34
+Ford,F-150,2023,37548,good,gasoline,automatic,truck,0,2,37920.87
+Nissan,Rogue,2014,193753,good,gasoline,automatic,suv,0,2,4450.82
+Chevrolet,Malibu,2011,86661,good,gasoline,automatic,sedan,0,1,5400.52
+Nissan,Pathfinder,2009,63426,fair,gasoline,automatic,suv,1,1,5677.83
+Nissan,Pathfinder,2011,61715,good,gasoline,automatic,suv,0,1,10827.53
+BMW,5 Series,2006,216260,excellent,gasoline,automatic,sedan,0,1,4407.08
+Hyundai,Tucson,2016,69948,poor,gasoline,manual,suv,0,1,7161.83
+Ford,Mustang,2008,142718,poor,gasoline,automatic,coupe,0,4,2681.74
+Tesla,Model X,2010,105753,fair,electric,automatic,suv,0,2,15666.71
+Chevrolet,Traverse,2006,251446,good,gasoline,automatic,suv,0,1,2742.77
+Honda,Pilot,2015,201057,good,hybrid,automatic,suv,0,3,6145.23
+Chevrolet,Malibu,2020,51419,poor,gasoline,manual,wagon,0,3,6358.31
+Honda,CR-V,2025,14343,fair,gasoline,automatic,suv,0,2,27218.08
+Tesla,Model X,2024,34809,good,electric,automatic,suv,0,1,86793.04
+BMW,3 Series,2025,22820,fair,gasoline,manual,wagon,0,3,27544.18
+Toyota,RAV4,2006,113127,excellent,gasoline,automatic,suv,0,3,4519.16
+Ford,F-150,2014,101235,fair,gasoline,automatic,truck,0,3,9973.0
+Honda,Fit,2012,244026,fair,hybrid,automatic,hatchback,0,2,1773.56
+Tesla,Model S,2014,154190,good,electric,automatic,sedan,1,2,11501.22
+Hyundai,Santa Fe,2008,313930,fair,gasoline,automatic,suv,0,1,2506.96
+Hyundai,Sonata,2023,48355,good,gasoline,automatic,sedan,0,2,16496.47
+Ford,Escape,2014,145892,good,gasoline,automatic,suv,1,5,4095.16
+BMW,5 Series,2024,14945,good,gasoline,automatic,sedan,0,4,42432.2
+Ford,Explorer,2021,25278,good,diesel,automatic,suv,0,1,29617.4
+Toyota,Corolla,2015,200611,good,gasoline,automatic,sedan,1,1,2698.3
+Nissan,Sentra,2020,92597,good,gasoline,automatic,sedan,0,2,8261.71
+Hyundai,Elantra,2014,160511,poor,diesel,automatic,sedan,0,1,2275.77
+Toyota,RAV4,2018,122256,good,gasoline,manual,suv,0,1,8827.72
+BMW,5 Series,2018,78298,fair,gasoline,automatic,sedan,0,2,17080.19
+Ford,Mustang,2010,241645,fair,hybrid,automatic,coupe,0,3,3177.18
+Hyundai,Tucson,2024,17463,excellent,gasoline,manual,suv,0,2,29369.31
+Toyota,RAV4,2017,94541,good,gasoline,manual,suv,0,2,10873.79
+BMW,i4,2018,76997,good,electric,automatic,sedan,0,4,21419.97
+Toyota,Camry,2006,110258,good,gasoline,automatic,sedan,0,3,3465.9
+BMW,5 Series,2005,116471,good,gasoline,automatic,sedan,0,2,5734.63
+Nissan,Altima,2007,328554,good,gasoline,automatic,sedan,0,3,1841.57
+Tesla,Model 3,2009,172142,fair,electric,automatic,sedan,0,1,3939.75
+Ford,Escape,2013,49305,excellent,gasoline,automatic,suv,0,2,9437.58
+BMW,X3,2016,121199,good,gasoline,automatic,suv,1,5,8431.01
+Chevrolet,Bolt,2007,285639,fair,electric,automatic,hatchback,0,1,2132.84
+Honda,Accord,2009,75467,fair,gasoline,automatic,sedan,0,3,3961.28
+Nissan,Altima,2010,182846,good,gasoline,automatic,sedan,1,3,1925.53
+Hyundai,Tucson,2013,187119,good,gasoline,automatic,suv,0,2,3399.28
+Chevrolet,Silverado,2018,55999,good,gasoline,automatic,truck,0,1,24277.45
+Toyota,Camry,2021,37331,excellent,gasoline,automatic,sedan,0,4,15567.5
+Nissan,Sentra,2012,68088,fair,hybrid,automatic,sedan,0,1,4744.88
+Hyundai,Ioniq 5,2013,149193,poor,electric,automatic,sedan,0,2,4601.34
+Tesla,Model S,2018,101072,good,electric,automatic,sedan,1,2,24923.33
+Ford,F-150,2011,100841,excellent,gasoline,manual,truck,0,1,10320.86
+Hyundai,Elantra,2011,230061,fair,gasoline,automatic,sedan,0,3,1745.67
+Chevrolet,Malibu,2021,80051,fair,gasoline,automatic,sedan,0,3,9561.02
+Ford,Escape,2009,100551,fair,gasoline,automatic,suv,1,2,3633.91
+Nissan,Pathfinder,2023,21461,good,gasoline,automatic,suv,0,2,30759.32
+Chevrolet,Equinox,2018,137983,poor,gasoline,automatic,suv,0,5,4735.36
+BMW,5 Series,2008,58784,excellent,hybrid,automatic,sedan,0,1,11984.86
+Toyota,Corolla,2006,48077,good,gasoline,automatic,sedan,1,2,3351.25
+Tesla,Model 3,2024,33491,poor,electric,automatic,sedan,0,1,23261.42
+Hyundai,Elantra,2016,147154,excellent,gasoline,automatic,sedan,0,1,5303.04
+Hyundai,Sonata,2007,142534,good,gasoline,automatic,sedan,0,1,2936.82
+BMW,X5,2021,71573,fair,gasoline,automatic,suv,1,2,23146.05
+Toyota,Highlander,2012,117239,fair,gasoline,automatic,suv,0,3,6010.73
+Ford,Explorer,2023,39616,fair,hybrid,automatic,suv,0,2,30975.13
+Ford,Focus,2006,258968,good,gasoline,automatic,hatchback,0,4,1200.0
+Ford,F-150,2010,250942,poor,hybrid,automatic,truck,1,3,2430.56
+Nissan,Leaf,2022,58735,good,electric,automatic,hatchback,0,1,17539.82
+Toyota,Prius,2015,46107,good,hybrid,automatic,hatchback,0,2,10324.91
+Tesla,Model X,2019,47154,good,electric,automatic,suv,0,2,54379.32
+Hyundai,Tucson,2010,155453,good,gasoline,automatic,suv,0,2,4296.75
+Honda,Civic,2022,46620,fair,gasoline,automatic,sedan,0,3,12202.22
+Tesla,Model X,2022,27221,fair,electric,automatic,suv,0,2,59036.84
+Toyota,Prius,2006,76708,poor,hybrid,automatic,hatchback,1,1,1906.1
+Nissan,Altima,2011,124718,fair,hybrid,automatic,sedan,0,4,3432.72
+Tesla,Model Y,2011,57903,good,electric,automatic,suv,0,1,12978.78
+Ford,F-150,2018,60485,good,gasoline,automatic,truck,1,2,17249.73
+Nissan,Rogue,2005,222358,fair,gasoline,automatic,suv,0,1,1648.0
+Honda,CR-V,2017,53120,excellent,diesel,automatic,suv,0,4,15297.08
+Hyundai,Elantra,2022,32737,fair,hybrid,automatic,sedan,0,4,11808.61
+Honda,Accord,2025,9468,poor,gasoline,automatic,sedan,0,1,17154.03
+Nissan,Sentra,2012,122450,fair,hybrid,automatic,sedan,0,3,3395.88
+Tesla,Model 3,2006,254092,fair,electric,automatic,sedan,0,3,2487.32
+Ford,Mustang,2005,325010,good,gasoline,automatic,coupe,0,1,2495.24
+Tesla,Model S,2021,61473,good,electric,automatic,sedan,1,2,36748.16
+Chevrolet,Silverado,2005,279745,good,gasoline,automatic,truck,0,3,3314.06
+BMW,3 Series,2007,77305,good,gasoline,automatic,sedan,0,4,5408.45
+Tesla,Model X,2010,216217,poor,electric,automatic,suv,0,1,6603.67
+Honda,Pilot,2019,18848,excellent,diesel,automatic,suv,0,1,29576.08
+Toyota,Camry,2009,53340,good,gasoline,automatic,sedan,0,2,4831.25
+BMW,X5,2008,113958,fair,hybrid,automatic,suv,0,1,9095.05
+BMW,X3,2011,211919,poor,gasoline,automatic,suv,0,3,3173.25
+Nissan,Sentra,2022,54764,good,gasoline,manual,sedan,0,3,11467.14
+Ford,F-150,2009,138981,excellent,gasoline,manual,truck,0,1,7697.02
+Hyundai,Sonata,2009,230048,good,gasoline,automatic,sedan,0,3,2178.37
+Ford,Mustang,2025,6803,good,gasoline,manual,coupe,0,2,33502.48
+Chevrolet,Bolt,2022,74657,good,electric,automatic,hatchback,0,3,17141.95
+Ford,Explorer,2020,22274,fair,diesel,automatic,suv,0,1,21902.97
+Hyundai,Elantra,2021,60194,good,gasoline,automatic,sedan,1,1,9460.73
+BMW,3 Series,2009,65346,good,gasoline,automatic,sedan,0,2,8042.52
+Tesla,Model 3,2005,137535,good,electric,automatic,sedan,0,1,4444.07
+BMW,X3,2011,180835,good,gasoline,automatic,suv,0,2,6000.97
+Chevrolet,Traverse,2025,19772,good,gasoline,automatic,suv,0,1,36328.43
+Nissan,Altima,2008,233198,fair,gasoline,automatic,sedan,0,1,1924.15
+Tesla,Model 3,2014,100436,good,electric,automatic,sedan,1,1,9546.99
+Tesla,Model X,2013,167100,fair,electric,automatic,suv,0,2,13387.71
+Chevrolet,Silverado,2007,145697,fair,gasoline,automatic,truck,0,1,4487.72
+BMW,X3,2005,139023,good,gasoline,automatic,suv,0,1,5221.94
+Ford,Mustang,2017,33697,good,gasoline,automatic,coupe,0,5,14094.78
+Tesla,Model S,2010,179202,fair,electric,automatic,sedan,0,4,6616.42
+Chevrolet,Traverse,2008,122986,good,diesel,automatic,suv,0,1,6179.56
+Ford,Escape,2005,327614,good,gasoline,automatic,suv,0,2,1902.78
+Ford,Focus,2019,27569,good,gasoline,manual,hatchback,0,1,9178.74
+BMW,X5,2006,255218,excellent,gasoline,automatic,suv,0,1,6132.19
+Toyota,Camry,2018,90103,excellent,hybrid,automatic,sedan,0,1,11541.79
+Hyundai,Sonata,2010,286936,excellent,gasoline,automatic,sedan,0,1,2689.78
+Toyota,Prius,2020,54612,good,hybrid,automatic,hatchback,0,3,13974.89
+Chevrolet,Traverse,2009,229563,good,gasoline,automatic,suv,0,3,3522.16
+Nissan,Altima,2008,251810,fair,gasoline,automatic,sedan,0,3,1438.33
+Honda,CR-V,2011,160139,good,hybrid,automatic,suv,0,3,4554.76
+Chevrolet,Malibu,2022,48810,fair,gasoline,automatic,sedan,0,2,12918.54
+Chevrolet,Traverse,2014,72087,good,gasoline,automatic,suv,0,5,9525.36
+Tesla,Model X,2018,95665,poor,electric,automatic,suv,0,3,23991.28
+Honda,CR-V,2019,37337,fair,gasoline,automatic,suv,0,2,14075.14
+Tesla,Model 3,2021,23914,fair,electric,automatic,sedan,0,1,27131.1
+Ford,Focus,2016,104076,poor,gasoline,automatic,hatchback,0,1,3879.71
+Nissan,Altima,2017,60106,good,hybrid,automatic,sedan,1,2,8339.45
+Nissan,Rogue,2022,72420,excellent,gasoline,automatic,suv,0,2,19384.13
+Nissan,Altima,2019,85872,good,hybrid,manual,sedan,0,1,10557.2
+Toyota,Corolla,2007,215653,good,hybrid,automatic,sedan,0,1,1899.5
+BMW,i4,2016,164073,good,electric,automatic,sedan,0,1,12386.73
+Chevrolet,Malibu,2014,38212,fair,gasoline,manual,wagon,0,2,5814.05
+Toyota,Highlander,2014,97108,fair,gasoline,automatic,suv,0,2,8937.69
+Ford,F-150,2009,50691,good,hybrid,automatic,truck,0,1,11650.91
+Chevrolet,Malibu,2013,94066,fair,gasoline,automatic,sedan,0,1,5297.76
+Honda,Pilot,2011,201403,fair,gasoline,automatic,suv,1,2,2746.53
+Toyota,Highlander,2017,114223,good,gasoline,automatic,suv,0,1,13455.0
+Honda,Civic,2009,93578,fair,gasoline,automatic,sedan,1,3,2422.57
+Nissan,Altima,2023,39097,fair,gasoline,automatic,sedan,0,3,15062.15
+Tesla,Model X,2020,92973,excellent,electric,automatic,suv,0,5,44191.04
+Honda,Accord,2009,218395,fair,gasoline,automatic,sedan,0,1,2442.28
+Toyota,Corolla,2014,202157,good,gasoline,automatic,sedan,0,2,2992.03
+Nissan,Leaf,2024,28762,fair,electric,automatic,hatchback,0,1,19262.33
+Honda,Civic,2025,22208,good,gasoline,automatic,sedan,0,2,21954.31
+Hyundai,Elantra,2019,82150,excellent,gasoline,automatic,sedan,0,2,9797.28
+Honda,Fit,2020,97694,good,gasoline,automatic,hatchback,0,2,7346.11
+Honda,CR-V,2019,22254,good,gasoline,automatic,suv,0,4,17129.05
+Toyota,RAV4,2013,53097,fair,gasoline,automatic,suv,0,2,8015.91
+Chevrolet,Bolt,2023,28468,fair,electric,automatic,hatchback,0,1,20210.34
+Nissan,Altima,2023,29518,excellent,gasoline,automatic,sedan,0,3,21128.2
+Tesla,Model S,2020,93935,good,electric,automatic,sedan,0,2,41470.36
+Toyota,Camry,2022,61000,excellent,hybrid,automatic,sedan,0,2,21109.06
+BMW,X3,2013,69357,good,hybrid,automatic,suv,0,2,15082.42
+Toyota,Corolla,2021,53043,excellent,gasoline,automatic,sedan,0,2,14158.88
+Chevrolet,Silverado,2024,33174,fair,gasoline,automatic,truck,0,1,33012.13
+Hyundai,Sonata,2016,165782,excellent,gasoline,automatic,sedan,0,2,6036.45
+Nissan,Leaf,2018,29761,good,electric,automatic,hatchback,0,1,15083.96
+Nissan,Altima,2018,41254,good,gasoline,manual,sedan,0,3,9886.22
+Nissan,Pathfinder,2019,109390,fair,gasoline,automatic,suv,0,4,10133.9
+Ford,Mustang,2007,127105,good,hybrid,automatic,coupe,0,2,5062.76
+Toyota,Prius,2023,32487,good,hybrid,automatic,hatchback,1,2,15755.15
+Honda,CR-V,2017,43781,good,hybrid,automatic,suv,0,1,15539.08
+Honda,Pilot,2021,59424,good,hybrid,automatic,suv,0,1,25195.91
+Tesla,Model X,2021,95982,fair,electric,automatic,suv,0,1,44399.01
+Chevrolet,Equinox,2018,34366,good,gasoline,automatic,suv,0,1,13996.62
+Tesla,Model 3,2008,112620,good,electric,automatic,sedan,0,1,7072.81
+Ford,Explorer,2022,32614,good,gasoline,automatic,suv,0,5,26943.4
+Chevrolet,Malibu,2019,82732,poor,gasoline,automatic,sedan,0,1,7225.63
+Nissan,Sentra,2010,198868,good,gasoline,automatic,sedan,0,1,2093.36
+Toyota,Camry,2006,270941,good,gasoline,automatic,sedan,1,3,1390.93
+Nissan,Pathfinder,2019,48142,good,gasoline,automatic,suv,0,1,20018.92
+Hyundai,Santa Fe,2009,276817,good,hybrid,automatic,suv,0,2,3580.32
+Ford,Mustang,2019,115326,excellent,gasoline,automatic,coupe,0,2,15229.11
+BMW,5 Series,2018,59584,good,diesel,automatic,sedan,0,1,23320.64
+Nissan,Pathfinder,2008,239946,good,gasoline,automatic,suv,0,2,3113.77
+Nissan,Rogue,2025,3926,good,gasoline,automatic,suv,0,2,31019.74
+BMW,X3,2021,44114,fair,hybrid,manual,suv,0,1,23550.05
+Hyundai,Santa Fe,2016,36684,good,gasoline,automatic,suv,0,1,15369.53
+BMW,3 Series,2017,57877,excellent,gasoline,automatic,sedan,0,2,18242.34
+BMW,5 Series,2015,93113,good,gasoline,manual,sedan,0,1,15344.78
+Honda,CR-V,2025,17251,good,gasoline,automatic,suv,0,1,31896.33
+Hyundai,Elantra,2019,41583,fair,gasoline,automatic,sedan,1,2,7802.27
+Honda,Civic,2023,55116,fair,gasoline,automatic,sedan,0,2,13867.78
+Toyota,Prius,2021,47066,good,hybrid,automatic,hatchback,0,1,16287.15
+Nissan,Sentra,2006,232676,good,hybrid,automatic,sedan,0,1,1549.74
+BMW,i4,2013,172264,good,electric,automatic,sedan,0,4,8494.49
+Ford,Focus,2015,37378,fair,diesel,automatic,hatchback,0,2,6186.76
+BMW,X5,2025,7840,good,gasoline,manual,suv,0,1,63747.05
+Tesla,Model S,2007,54318,good,electric,automatic,sedan,1,2,11274.42
+Tesla,Model Y,2007,156627,poor,electric,automatic,suv,1,1,3053.19
+Chevrolet,Bolt,2011,76542,poor,electric,automatic,hatchback,0,3,4200.94
+Ford,Explorer,2025,18371,fair,gasoline,automatic,suv,0,1,33882.33
+Ford,Mustang,2025,11467,good,gasoline,automatic,coupe,0,2,32624.97
+Hyundai,Santa Fe,2006,314112,fair,gasoline,automatic,suv,0,4,1897.44
+BMW,5 Series,2006,129579,fair,gasoline,automatic,sedan,0,4,4863.29
+Ford,Escape,2013,148378,good,hybrid,automatic,suv,0,2,5827.25
+Chevrolet,Silverado,2018,114317,good,hybrid,automatic,truck,0,1,20033.58
+Chevrolet,Traverse,2020,41126,good,gasoline,automatic,suv,0,3,21133.94
+Honda,Fit,2016,118569,good,gasoline,automatic,hatchback,0,2,4235.42
+BMW,X5,2025,12563,good,hybrid,automatic,suv,0,3,71898.11
+Nissan,Altima,2022,13413,poor,hybrid,automatic,wagon,0,3,11842.61
+Honda,Civic,2009,206162,good,gasoline,automatic,sedan,1,1,1831.77
+Tesla,Model X,2025,8346,excellent,electric,automatic,suv,0,5,93266.23
+Nissan,Altima,2015,82273,fair,diesel,automatic,sedan,0,2,6414.94
+Toyota,Camry,2025,14994,poor,hybrid,automatic,wagon,0,2,16627.98
+Toyota,Prius,2020,110992,fair,hybrid,automatic,hatchback,1,2,6535.26
+Honda,Civic,2023,51387,fair,gasoline,automatic,sedan,0,2,13946.59
+Nissan,Altima,2025,15691,good,gasoline,automatic,sedan,0,1,25517.64
+Hyundai,Tucson,2006,350000,good,gasoline,automatic,suv,0,2,2244.67
+Nissan,Pathfinder,2009,312785,good,gasoline,automatic,suv,0,3,3610.48
+Toyota,RAV4,2014,130432,good,diesel,automatic,suv,0,1,8332.9
+Toyota,Highlander,2024,35122,good,hybrid,automatic,suv,0,1,36256.79
+Chevrolet,Bolt,2019,92120,excellent,electric,automatic,hatchback,0,1,12871.69
+Tesla,Model Y,2011,133895,excellent,electric,automatic,suv,0,1,10381.53
+Ford,Explorer,2007,281930,good,gasoline,automatic,suv,0,1,3341.66
+Honda,Fit,2020,21640,excellent,gasoline,automatic,hatchback,0,3,11391.58
+Chevrolet,Traverse,2005,336103,good,gasoline,automatic,suv,0,1,2286.98
+BMW,i4,2021,41464,excellent,electric,automatic,sedan,0,1,43399.65
+Ford,Escape,2020,102239,fair,gasoline,automatic,suv,0,1,11371.19
+Chevrolet,Equinox,2009,243337,good,hybrid,automatic,suv,1,3,2167.23
+Hyundai,Ioniq 5,2007,50371,excellent,electric,automatic,sedan,0,2,9819.22
+Nissan,Rogue,2018,109042,excellent,gasoline,automatic,suv,0,2,12120.0
+Hyundai,Sonata,2012,129013,good,gasoline,automatic,sedan,0,3,4851.82
+Toyota,Corolla,2008,202627,excellent,gasoline,automatic,sedan,0,1,2177.3
+Toyota,Highlander,2006,313904,good,diesel,automatic,suv,0,1,3478.71
+Ford,Mustang,2021,53676,poor,gasoline,automatic,coupe,0,2,14138.05
+Toyota,Highlander,2007,70763,good,gasoline,manual,suv,0,3,5924.8
+Ford,Mustang,2013,37238,good,gasoline,automatic,coupe,0,1,12825.24
+Honda,Fit,2024,40547,fair,gasoline,automatic,hatchback,0,3,10393.67
+Ford,F-150,2012,221289,good,gasoline,automatic,truck,0,2,5014.74
+Toyota,RAV4,2016,59685,good,hybrid,automatic,suv,0,1,13345.42
+Toyota,Prius,2005,336867,fair,hybrid,automatic,hatchback,0,1,1509.76
+Tesla,Model X,2024,22311,excellent,electric,automatic,suv,0,1,98562.52
+Hyundai,Santa Fe,2010,248583,excellent,gasoline,automatic,suv,0,3,3770.33
+Nissan,Rogue,2021,24077,good,hybrid,automatic,suv,0,2,19828.95
+Chevrolet,Traverse,2025,12134,fair,gasoline,automatic,suv,1,2,25600.4
+Nissan,Pathfinder,2006,70147,good,hybrid,automatic,suv,0,4,6353.35
+Ford,F-150,2018,20047,fair,gasoline,automatic,truck,0,1,21061.01
+Toyota,Corolla,2022,71435,poor,hybrid,automatic,wagon,0,3,7270.87
+Honda,Civic,2010,86288,excellent,gasoline,manual,sedan,1,2,3485.99
+Chevrolet,Traverse,2006,155307,good,gasoline,automatic,suv,0,3,3489.14
+Tesla,Model Y,2014,45155,good,electric,automatic,suv,0,5,16204.76
+Toyota,Corolla,2024,25766,good,gasoline,automatic,sedan,0,4,14671.15
+Chevrolet,Malibu,2020,42676,good,gasoline,automatic,sedan,0,1,13698.36
+BMW,X5,2023,40934,good,gasoline,manual,suv,0,3,44381.38
+Nissan,Altima,2014,72367,good,hybrid,automatic,sedan,1,2,5956.57
+BMW,X5,2013,219215,fair,gasoline,automatic,suv,0,5,6738.48
+Honda,Civic,2012,223856,good,hybrid,manual,sedan,0,5,2359.86
+BMW,X5,2022,66223,good,gasoline,automatic,suv,0,1,40589.26
+Ford,Explorer,2010,141015,excellent,gasoline,automatic,suv,0,3,6857.45
+Hyundai,Elantra,2016,156583,good,gasoline,automatic,sedan,0,4,4232.65
+Chevrolet,Equinox,2010,171313,fair,gasoline,automatic,suv,0,1,3159.26
+Tesla,Model S,2007,64867,good,electric,automatic,wagon,0,1,16226.03
+Hyundai,Tucson,2010,220866,good,hybrid,manual,suv,0,4,2919.62
+Hyundai,Elantra,2022,19030,good,gasoline,automatic,sedan,0,3,15013.92
+Nissan,Pathfinder,2009,267197,excellent,gasoline,automatic,suv,0,1,4187.11
+Tesla,Model X,2023,16830,good,electric,automatic,suv,0,3,84088.02
+Toyota,RAV4,2021,30268,excellent,gasoline,automatic,suv,0,2,21725.88
+BMW,X5,2012,114204,fair,gasoline,automatic,suv,0,3,9639.53
+Tesla,Model S,2017,81377,fair,electric,automatic,sedan,0,1,32402.04
+Toyota,Camry,2025,17066,poor,gasoline,automatic,sedan,0,2,15828.49
+Hyundai,Sonata,2020,26930,fair,gasoline,automatic,sedan,0,1,13443.31
+BMW,5 Series,2012,38787,good,gasoline,automatic,sedan,0,5,12380.48
+Ford,F-150,2005,350000,fair,gasoline,automatic,truck,0,1,2678.78
+Chevrolet,Bolt,2018,131998,fair,electric,automatic,hatchback,1,4,5815.79
+Chevrolet,Traverse,2020,107988,good,gasoline,automatic,suv,0,1,16775.83
+Honda,Civic,2025,7339,good,gasoline,automatic,sedan,0,2,22428.0
+Ford,F-150,2013,37596,fair,gasoline,automatic,truck,0,2,13630.19
+Ford,Focus,2025,18614,good,gasoline,automatic,hatchback,0,1,20556.99
+Hyundai,Santa Fe,2018,58421,fair,gasoline,automatic,suv,1,2,9798.28
+Nissan,Pathfinder,2018,64670,good,hybrid,automatic,suv,0,1,19770.99
+Chevrolet,Equinox,2014,161180,good,gasoline,automatic,suv,1,2,4129.44
+Toyota,Corolla,2008,294126,excellent,hybrid,automatic,sedan,0,5,1969.49
+Chevrolet,Silverado,2015,188476,fair,gasoline,automatic,truck,1,4,4889.04
+BMW,5 Series,2017,148761,good,hybrid,automatic,sedan,0,1,14889.75
+Tesla,Model Y,2013,76870,poor,electric,automatic,suv,0,1,10706.36
+BMW,3 Series,2017,88477,good,hybrid,manual,sedan,0,4,13908.76
+Hyundai,Tucson,2012,101059,good,gasoline,manual,suv,1,2,4698.17
+Nissan,Altima,2025,7205,good,diesel,automatic,sedan,0,1,28122.99
+Ford,Escape,2018,142533,good,gasoline,automatic,suv,1,2,6410.17
+Hyundai,Santa Fe,2011,37762,good,gasoline,automatic,suv,0,1,10205.38
+Tesla,Model S,2010,40869,excellent,electric,automatic,sedan,0,2,22056.74
+Nissan,Leaf,2011,243197,fair,electric,automatic,hatchback,0,1,2849.31
+Toyota,Prius,2009,123112,good,hybrid,automatic,hatchback,1,1,3567.98
+Tesla,Model Y,2018,44312,good,electric,automatic,suv,0,2,25204.15
+Chevrolet,Bolt,2023,39939,fair,electric,automatic,hatchback,0,1,18772.24
+Tesla,Model Y,2018,94847,good,electric,automatic,suv,0,3,20701.83
+Ford,Focus,2025,21473,excellent,gasoline,automatic,hatchback,1,2,15684.07
+Nissan,Altima,2013,188846,poor,gasoline,automatic,sedan,0,1,2096.93
+Ford,Mustang,2015,102734,good,gasoline,automatic,coupe,1,1,7595.3
+Chevrolet,Malibu,2008,212949,fair,gasoline,automatic,wagon,0,2,1628.98
+Hyundai,Ioniq 5,2010,176955,excellent,electric,automatic,sedan,0,4,5963.83
+Honda,Accord,2025,16755,excellent,hybrid,automatic,wagon,0,3,26924.13
+Nissan,Pathfinder,2006,332026,fair,gasoline,automatic,suv,0,5,1828.77
+Tesla,Model S,2018,36031,good,electric,automatic,sedan,0,2,44672.82
+Honda,Fit,2021,71781,good,gasoline,automatic,hatchback,0,1,8408.77
+Toyota,Prius,2024,31064,good,hybrid,automatic,hatchback,0,4,21407.51
+Chevrolet,Malibu,2011,200248,excellent,gasoline,automatic,sedan,0,2,2864.46
+Nissan,Rogue,2015,127306,fair,gasoline,automatic,suv,0,3,6701.9
+Chevrolet,Bolt,2010,130616,excellent,electric,automatic,hatchback,1,2,4090.06
+Toyota,Camry,2016,104296,poor,gasoline,automatic,sedan,0,2,4862.1
+Chevrolet,Traverse,2006,98432,good,gasoline,automatic,suv,0,2,5297.62
+Ford,Escape,2009,231234,excellent,gasoline,manual,suv,1,1,2285.96
+Nissan,Sentra,2019,16466,poor,gasoline,automatic,sedan,0,1,7590.74
+Ford,Focus,2024,18314,good,gasoline,automatic,hatchback,1,2,13551.99
+Chevrolet,Silverado,2014,93856,fair,gasoline,manual,truck,0,2,10983.74
+Ford,Escape,2015,195372,good,hybrid,automatic,suv,0,1,4901.47
+Hyundai,Sonata,2013,38753,fair,gasoline,manual,sedan,0,3,5560.29
+Chevrolet,Malibu,2012,188586,excellent,gasoline,automatic,wagon,0,1,3212.85
+Ford,Explorer,2018,72677,good,hybrid,automatic,suv,0,3,18423.0
+Tesla,Model S,2014,97102,excellent,electric,automatic,sedan,0,3,27116.44
+BMW,i4,2019,105219,good,electric,automatic,sedan,1,1,16906.5
+Nissan,Sentra,2024,34411,excellent,gasoline,manual,sedan,0,3,16476.57
+Honda,Accord,2010,171516,fair,gasoline,automatic,sedan,1,4,1768.66
+Toyota,Prius,2015,158832,poor,hybrid,automatic,hatchback,1,2,2769.59
+BMW,X5,2025,18594,fair,gasoline,automatic,suv,0,1,53142.41
+Hyundai,Ioniq 5,2007,171020,fair,electric,automatic,sedan,0,2,3641.37
+BMW,X5,2025,19012,good,gasoline,automatic,suv,0,1,65688.18
+Ford,Explorer,2024,13110,fair,gasoline,automatic,suv,0,3,30423.4
+Toyota,RAV4,2010,256793,good,gasoline,automatic,suv,0,2,3251.36
+Ford,Mustang,2020,59344,fair,gasoline,automatic,coupe,1,3,11740.59
+Hyundai,Elantra,2016,118123,good,gasoline,automatic,sedan,1,3,4281.29
+Chevrolet,Traverse,2014,52591,excellent,gasoline,automatic,suv,0,2,13258.58
+Tesla,Model Y,2010,257938,fair,electric,automatic,suv,0,1,5135.7
+Ford,Explorer,2016,165507,fair,hybrid,automatic,suv,0,2,7596.89
+BMW,3 Series,2006,315855,excellent,gasoline,manual,sedan,0,1,3100.17
+Chevrolet,Silverado,2011,121947,fair,gasoline,automatic,truck,0,1,7775.11
+Chevrolet,Bolt,2005,228344,good,electric,automatic,hatchback,0,2,2049.87
+Hyundai,Ioniq 5,2018,122905,good,electric,automatic,sedan,0,1,15055.82
+BMW,X3,2007,192271,excellent,gasoline,automatic,suv,0,1,4142.09
+Ford,Focus,2011,255117,fair,hybrid,automatic,hatchback,0,2,1706.17
+Toyota,Prius,2012,204229,good,hybrid,manual,hatchback,0,1,2944.82
+Tesla,Model Y,2017,146595,good,electric,automatic,suv,0,1,16169.14
+Toyota,RAV4,2022,71529,good,gasoline,manual,suv,0,2,17811.39
+Nissan,Pathfinder,2015,37483,fair,gasoline,automatic,suv,0,4,9751.46
+Ford,Escape,2007,104960,good,hybrid,automatic,suv,0,1,4992.2
+BMW,i4,2020,37470,good,electric,automatic,sedan,0,1,36482.41
+Ford,F-150,2010,244345,fair,diesel,automatic,truck,1,2,2928.8
+Toyota,RAV4,2020,74097,good,gasoline,automatic,suv,0,2,13969.18
+Chevrolet,Silverado,2024,19610,good,gasoline,manual,truck,0,2,37385.37
+Chevrolet,Silverado,2016,35297,fair,diesel,automatic,truck,0,1,18529.27
+Honda,Pilot,2014,166340,fair,gasoline,manual,suv,0,1,5853.64
+Honda,Civic,2022,43367,good,diesel,automatic,sedan,0,1,16191.82
+Tesla,Model Y,2025,16555,good,electric,automatic,suv,0,1,51403.4
+Ford,F-150,2009,148251,good,gasoline,automatic,truck,0,3,6412.42
+Chevrolet,Silverado,2016,156750,good,hybrid,manual,truck,0,1,10869.13
+BMW,3 Series,2015,110949,excellent,gasoline,automatic,sedan,0,4,11592.85
+Ford,Escape,2021,93045,good,gasoline,manual,suv,0,2,12761.76
+Chevrolet,Traverse,2016,55928,poor,hybrid,automatic,suv,1,2,7796.98
+Ford,Escape,2013,142758,good,hybrid,manual,suv,0,2,5487.24
+Nissan,Leaf,2010,165951,good,electric,automatic,hatchback,0,2,3355.51
+Tesla,Model S,2020,35761,good,electric,automatic,sedan,0,3,46946.28
+Chevrolet,Malibu,2005,161610,fair,gasoline,automatic,sedan,0,1,1745.4
+Ford,F-150,2006,182182,good,gasoline,automatic,truck,0,1,4078.57
+Chevrolet,Traverse,2024,13166,fair,gasoline,automatic,suv,0,3,27784.86
+Nissan,Leaf,2011,163210,good,electric,automatic,hatchback,0,1,3765.52
+Chevrolet,Equinox,2006,277719,good,diesel,manual,suv,0,2,1954.9
+Honda,Civic,2008,89668,fair,gasoline,automatic,sedan,0,1,3363.68
+Chevrolet,Malibu,2016,51835,fair,gasoline,automatic,sedan,1,2,5686.56
+Nissan,Pathfinder,2019,88206,good,gasoline,automatic,suv,0,3,16237.69
+Ford,Explorer,2011,220753,excellent,gasoline,automatic,suv,1,1,4165.15
+Hyundai,Elantra,2017,106974,good,diesel,manual,sedan,0,1,6508.59
+Tesla,Model X,2025,11778,fair,electric,automatic,suv,0,2,80525.1
+BMW,X5,2007,164487,poor,gasoline,automatic,suv,0,2,3663.94
+Nissan,Altima,2021,47242,excellent,gasoline,manual,sedan,0,3,12989.1
+Honda,Civic,2009,107013,excellent,diesel,automatic,sedan,0,1,4291.3
+BMW,X5,2021,61125,excellent,hybrid,automatic,suv,0,4,43920.33
+Hyundai,Santa Fe,2010,284962,excellent,hybrid,automatic,suv,0,4,4450.3
+Hyundai,Elantra,2009,275907,fair,gasoline,automatic,sedan,0,1,1716.1
+Ford,F-150,2016,146247,poor,hybrid,automatic,truck,0,1,7995.19
+Honda,Accord,2017,25725,fair,gasoline,automatic,sedan,0,4,8872.03
+Toyota,Camry,2023,21845,good,gasoline,automatic,sedan,0,3,17585.15
+Tesla,Model 3,2007,194992,fair,electric,automatic,sedan,0,2,2811.95
+Hyundai,Sonata,2017,102932,fair,gasoline,automatic,sedan,0,2,5924.15
+Tesla,Model X,2021,76560,good,electric,automatic,suv,0,2,60877.81
+Chevrolet,Equinox,2008,228036,good,gasoline,automatic,suv,1,1,1869.53
+Ford,F-150,2011,194359,excellent,diesel,automatic,truck,0,1,6627.11
+Tesla,Model 3,2025,15161,excellent,electric,automatic,sedan,1,1,40673.63
+Nissan,Leaf,2017,97978,fair,electric,automatic,hatchback,0,2,7725.82
+Toyota,Highlander,2024,28083,fair,gasoline,automatic,suv,0,3,26968.69
+Hyundai,Elantra,2015,74575,good,hybrid,automatic,sedan,0,2,7932.95
+BMW,5 Series,2014,123100,fair,gasoline,automatic,wagon,0,2,10091.99
+Toyota,Corolla,2018,95856,good,gasoline,automatic,sedan,0,1,8337.08
+Ford,Focus,2018,139367,good,hybrid,automatic,hatchback,0,1,5486.29
+BMW,3 Series,2010,217174,good,gasoline,automatic,sedan,1,4,2991.0
+Hyundai,Tucson,2019,68721,good,hybrid,manual,suv,1,3,9571.1
+Chevrolet,Equinox,2011,75171,excellent,gasoline,automatic,suv,0,1,7451.86
+Chevrolet,Silverado,2014,45044,fair,hybrid,automatic,truck,0,3,16054.2
+BMW,i4,2008,293708,excellent,electric,automatic,sedan,0,2,5137.37
+BMW,X3,2005,350000,good,gasoline,automatic,suv,0,1,3261.31
+Tesla,Model 3,2012,40778,good,electric,automatic,sedan,0,3,12903.34
+Tesla,Model 3,2011,153757,fair,electric,automatic,sedan,1,5,3488.17
+Ford,F-150,2020,82953,good,gasoline,automatic,truck,0,2,24648.13
+Honda,Accord,2009,100319,good,gasoline,automatic,sedan,0,1,4379.46
+Tesla,Model S,2022,10785,fair,electric,automatic,sedan,0,1,59681.64
+Tesla,Model Y,2021,29493,good,electric,automatic,suv,0,1,38411.11
+BMW,X5,2025,9941,excellent,gasoline,automatic,suv,0,2,73971.21
+Nissan,Leaf,2013,52003,good,electric,automatic,hatchback,1,1,6892.25
+Chevrolet,Malibu,2013,40226,excellent,gasoline,automatic,sedan,0,2,8482.86
+Chevrolet,Bolt,2024,27018,excellent,electric,automatic,hatchback,0,3,30384.51
+Nissan,Sentra,2014,160168,good,gasoline,manual,sedan,0,1,3381.45
+BMW,i4,2022,47719,good,electric,automatic,sedan,0,1,40567.39
+Nissan,Rogue,2014,60628,good,gasoline,automatic,suv,0,3,8527.93
+Chevrolet,Equinox,2018,82472,poor,gasoline,automatic,suv,0,1,8150.49
+Chevrolet,Silverado,2022,56911,excellent,gasoline,automatic,truck,0,1,31765.91
+Hyundai,Santa Fe,2020,25930,good,gasoline,manual,suv,0,2,19969.69
+BMW,X3,2023,11784,fair,gasoline,manual,suv,0,1,32004.83
+Nissan,Altima,2017,51298,excellent,gasoline,manual,sedan,0,1,10439.25
+Toyota,Camry,2015,118354,fair,gasoline,automatic,sedan,0,2,4792.95
+Honda,Pilot,2020,19438,good,gasoline,automatic,suv,1,1,21890.45
+Honda,Civic,2022,35906,excellent,gasoline,automatic,sedan,0,1,19035.25
+Nissan,Altima,2011,235566,good,gasoline,automatic,sedan,0,1,2750.6
+Chevrolet,Traverse,2019,72852,fair,gasoline,automatic,suv,0,3,12450.5
+Nissan,Sentra,2017,153177,good,gasoline,automatic,sedan,1,5,3346.0
+Tesla,Model 3,2009,195120,poor,electric,automatic,sedan,0,3,2363.92
+Ford,Escape,2012,134857,good,diesel,automatic,suv,0,2,5777.12
+Honda,Civic,2007,250184,good,gasoline,automatic,sedan,0,3,1602.05
+Honda,CR-V,2021,15000,good,gasoline,automatic,suv,0,3,23019.74
+Ford,F-150,2009,77828,excellent,diesel,automatic,truck,0,2,11162.8
+Hyundai,Tucson,2025,10936,poor,gasoline,automatic,suv,0,1,20810.64
+Chevrolet,Bolt,2008,88808,good,electric,automatic,hatchback,0,1,4705.78
+Nissan,Sentra,2016,176499,excellent,gasoline,automatic,sedan,0,1,4495.24
+Honda,Civic,2007,302618,good,gasoline,automatic,sedan,1,1,1530.48
+Chevrolet,Equinox,2015,196955,excellent,diesel,automatic,suv,0,1,6062.5
+Chevrolet,Silverado,2007,69366,excellent,gasoline,automatic,truck,0,2,9037.32
+Ford,Focus,2006,149311,excellent,gasoline,automatic,hatchback,0,2,2057.14
+Ford,Focus,2014,39004,fair,gasoline,automatic,hatchback,1,1,4335.76
+BMW,X3,2024,7879,poor,gasoline,automatic,suv,0,1,30352.44
+Toyota,Highlander,2016,92207,good,gasoline,automatic,suv,0,2,13006.52
+BMW,X3,2018,142028,good,diesel,automatic,suv,1,1,12276.45
+BMW,5 Series,2020,36308,fair,gasoline,automatic,sedan,1,4,16740.11
+Chevrolet,Traverse,2018,120234,good,gasoline,automatic,suv,0,3,11834.89
+Ford,Focus,2008,245470,good,hybrid,automatic,hatchback,0,2,1596.59
+BMW,i4,2018,98679,fair,electric,automatic,sedan,0,1,19113.27
+Nissan,Sentra,2014,177178,excellent,gasoline,automatic,sedan,0,1,3542.08
+Toyota,RAV4,2016,69448,poor,hybrid,automatic,suv,1,4,6068.64
+Nissan,Leaf,2008,55318,good,electric,automatic,hatchback,0,3,5874.96
+BMW,X5,2007,57888,fair,gasoline,automatic,suv,0,2,10236.77
+Ford,Mustang,2023,15124,excellent,gasoline,manual,coupe,0,2,31457.32
+BMW,i4,2016,89408,excellent,electric,automatic,sedan,0,1,22519.28
+BMW,3 Series,2011,236692,fair,gasoline,automatic,sedan,0,1,3883.74
+Honda,Pilot,2020,98826,good,gasoline,automatic,suv,1,1,16390.62
+Chevrolet,Malibu,2019,26176,good,gasoline,automatic,sedan,0,4,12944.36
+Hyundai,Sonata,2011,265086,fair,hybrid,manual,wagon,0,1,2150.16
+Tesla,Model 3,2017,65502,good,electric,automatic,sedan,0,1,18552.83
+Honda,CR-V,2023,24706,fair,diesel,manual,suv,1,4,15849.0
+Hyundai,Sonata,2007,129845,fair,gasoline,automatic,sedan,1,3,1939.55
+Honda,Pilot,2021,12856,good,gasoline,automatic,suv,1,2,22671.09
+Chevrolet,Malibu,2013,41773,good,gasoline,manual,wagon,0,1,7189.1
+Nissan,Pathfinder,2014,31424,fair,gasoline,automatic,suv,0,1,11976.27
+Nissan,Rogue,2007,56924,excellent,gasoline,automatic,suv,0,3,5947.64
+Ford,F-150,2025,13708,fair,gasoline,automatic,truck,0,2,34885.1
+Nissan,Sentra,2018,72982,excellent,hybrid,automatic,sedan,0,3,9332.7
+Toyota,Prius,2025,15164,good,hybrid,automatic,hatchback,1,1,21707.7
+Ford,Escape,2008,286444,poor,gasoline,manual,suv,0,3,1356.48
+Tesla,Model S,2020,79204,good,electric,automatic,wagon,1,3,28865.52
+Ford,Explorer,2020,65928,good,gasoline,automatic,suv,0,1,21556.03
+Hyundai,Ioniq 5,2023,14420,good,electric,automatic,sedan,1,4,28546.5
+Toyota,Corolla,2018,50767,poor,gasoline,automatic,sedan,0,2,6040.19
+Hyundai,Santa Fe,2005,322324,fair,hybrid,automatic,suv,0,3,1995.64
+Ford,F-150,2019,58044,fair,gasoline,automatic,truck,0,1,21834.5
+Honda,Accord,2019,45236,excellent,diesel,automatic,sedan,0,2,16825.8
+BMW,i4,2023,28885,excellent,electric,automatic,sedan,0,3,46586.05
+Hyundai,Santa Fe,2024,16134,good,gasoline,automatic,suv,0,2,32875.08
+Hyundai,Sonata,2013,100847,good,gasoline,automatic,sedan,0,1,6136.29
+Honda,CR-V,2006,315463,good,gasoline,automatic,suv,0,4,2232.04
+BMW,X3,2016,156477,excellent,gasoline,automatic,suv,0,1,11956.38
+Chevrolet,Malibu,2017,129437,good,gasoline,automatic,sedan,0,1,7092.95
+Chevrolet,Bolt,2021,35240,good,electric,automatic,hatchback,0,3,19702.38
+Toyota,Prius,2018,51605,fair,hybrid,automatic,hatchback,1,1,8749.94
+Hyundai,Elantra,2013,50531,good,gasoline,automatic,sedan,0,3,5804.3
+BMW,i4,2011,248965,good,electric,automatic,sedan,1,1,5383.16
+Hyundai,Elantra,2005,350000,fair,gasoline,automatic,sedan,0,1,1200.0
+Chevrolet,Equinox,2010,125350,good,gasoline,manual,suv,0,1,4127.46
+Toyota,Prius,2018,107564,good,hybrid,automatic,hatchback,1,3,7578.16
+Nissan,Altima,2021,22931,excellent,gasoline,automatic,sedan,0,2,19755.13
+Tesla,Model S,2013,163033,fair,electric,automatic,sedan,0,2,12472.32
+Chevrolet,Malibu,2021,61925,fair,diesel,automatic,sedan,0,3,11503.52
+Hyundai,Ioniq 5,2019,120245,good,electric,automatic,sedan,1,2,12703.84
+Tesla,Model X,2011,148679,fair,electric,automatic,suv,0,4,11490.6
+Chevrolet,Traverse,2021,68756,good,gasoline,automatic,suv,0,1,19727.03
+Toyota,Highlander,2017,49139,good,gasoline,manual,suv,0,3,14921.91
+Chevrolet,Equinox,2020,85717,fair,gasoline,automatic,suv,0,5,9866.04
+Honda,Pilot,2014,143109,good,gasoline,manual,suv,0,2,7682.4
+Ford,Focus,2017,25578,fair,hybrid,automatic,hatchback,0,4,6736.15
+Honda,Fit,2019,102300,good,gasoline,manual,hatchback,0,1,6006.6
+BMW,3 Series,2012,89888,good,gasoline,automatic,sedan,0,3,9119.3
+Honda,Fit,2011,47483,poor,diesel,automatic,hatchback,0,2,2617.23
+Chevrolet,Malibu,2014,69597,good,hybrid,automatic,sedan,0,1,7749.17
+BMW,X3,2013,166547,good,gasoline,automatic,suv,0,1,8042.65
+Chevrolet,Traverse,2015,135905,fair,hybrid,automatic,suv,0,3,7989.27
+Toyota,RAV4,2018,77613,good,diesel,automatic,suv,1,1,11177.85
+Toyota,RAV4,2013,63975,good,gasoline,automatic,suv,0,1,9497.64
+Nissan,Sentra,2018,62311,good,gasoline,automatic,sedan,0,2,7969.25
+BMW,i4,2021,25253,good,electric,automatic,sedan,0,2,39147.13
+Tesla,Model X,2020,86320,good,electric,automatic,suv,0,2,49242.52
+Toyota,RAV4,2021,92704,excellent,gasoline,automatic,suv,0,2,16322.72
+Tesla,Model Y,2017,43038,good,electric,automatic,suv,0,1,26996.87
+Hyundai,Santa Fe,2019,108025,good,gasoline,automatic,suv,0,2,14793.94
+Ford,F-150,2007,262095,fair,diesel,automatic,truck,0,2,3205.75
+Hyundai,Sonata,2008,162466,good,gasoline,automatic,sedan,0,2,2572.84
+Tesla,Model 3,2015,70285,poor,electric,automatic,sedan,0,2,9138.36
+Tesla,Model 3,2014,158172,good,electric,automatic,sedan,1,2,5562.99
+Tesla,Model S,2015,67072,good,electric,automatic,sedan,0,1,31277.51
+Nissan,Rogue,2025,22194,good,hybrid,manual,suv,0,2,29285.42
+Chevrolet,Bolt,2018,84582,good,electric,automatic,hatchback,0,3,11326.15
+BMW,X5,2011,248535,good,gasoline,automatic,suv,0,1,7779.29
+Toyota,RAV4,2013,104234,fair,gasoline,automatic,suv,0,1,6497.11
+Hyundai,Tucson,2005,347887,good,gasoline,automatic,suv,0,1,2141.94
+Honda,Fit,2016,31450,fair,gasoline,automatic,hatchback,0,2,5787.8
+Ford,Explorer,2007,72747,good,hybrid,automatic,suv,0,1,7792.32
+Toyota,Corolla,2021,71260,poor,gasoline,automatic,sedan,0,2,7361.85
+Ford,Mustang,2019,101054,fair,gasoline,automatic,coupe,0,2,12974.16
+Honda,Accord,2008,228954,poor,gasoline,automatic,wagon,0,1,1418.6
+BMW,i4,2020,13628,good,electric,automatic,sedan,0,1,38519.17
+Ford,Focus,2015,69509,fair,gasoline,automatic,hatchback,0,2,4814.27
+Nissan,Pathfinder,2016,115385,good,gasoline,automatic,suv,0,1,12262.84
+Honda,Pilot,2018,60613,poor,diesel,automatic,suv,0,2,11846.77
+Nissan,Pathfinder,2019,57125,poor,gasoline,automatic,suv,0,3,10120.34
+Tesla,Model 3,2014,218012,good,electric,automatic,sedan,0,1,6532.41
+BMW,X5,2009,223830,fair,gasoline,manual,suv,0,2,4810.64
+Tesla,Model Y,2010,115107,excellent,electric,automatic,suv,1,1,9109.54
+Toyota,RAV4,2021,21902,good,gasoline,automatic,suv,0,2,22087.8
+Ford,F-150,2011,251831,excellent,gasoline,manual,truck,1,4,4022.3
+Hyundai,Elantra,2021,43094,good,gasoline,automatic,sedan,0,1,13070.81
+Chevrolet,Traverse,2016,109676,good,diesel,automatic,suv,1,1,9343.11
+BMW,X5,2009,154722,fair,gasoline,automatic,suv,0,3,6615.81
+Toyota,Prius,2014,192324,good,hybrid,automatic,hatchback,0,1,3636.32
+Nissan,Sentra,2024,11046,excellent,gasoline,automatic,sedan,0,2,20333.57
+Hyundai,Tucson,2011,39383,fair,gasoline,automatic,suv,0,1,6745.71
+BMW,i4,2005,153591,fair,electric,automatic,sedan,0,3,3923.4
+Toyota,Camry,2020,50625,good,gasoline,manual,sedan,0,1,14334.02
+Ford,Focus,2014,47425,fair,hybrid,automatic,hatchback,1,1,4298.97
+Tesla,Model X,2010,130243,poor,electric,automatic,suv,1,3,6832.76
+Hyundai,Ioniq 5,2008,322373,excellent,electric,automatic,sedan,0,3,4494.67
+Ford,Mustang,2022,55303,good,gasoline,automatic,coupe,0,4,22096.54
+BMW,X5,2007,317669,good,hybrid,automatic,suv,0,1,5403.34
+Hyundai,Sonata,2014,123858,fair,gasoline,automatic,sedan,0,1,4827.51
+Honda,Fit,2025,15674,fair,gasoline,automatic,hatchback,0,1,14800.13
+Ford,Escape,2006,229600,fair,gasoline,automatic,suv,0,1,1847.34
+Chevrolet,Bolt,2021,42043,good,electric,automatic,hatchback,1,5,11467.43
+BMW,i4,2013,132181,good,electric,automatic,sedan,1,1,9579.81
+Honda,Civic,2024,33490,fair,gasoline,automatic,wagon,0,1,15878.14
+Nissan,Leaf,2018,53705,good,electric,automatic,hatchback,0,3,12669.3
+Tesla,Model Y,2008,203900,excellent,electric,automatic,suv,1,1,4154.8
+Toyota,Corolla,2005,283432,excellent,gasoline,automatic,sedan,1,4,1200.0
+Ford,Mustang,2007,95798,fair,gasoline,automatic,coupe,0,1,5026.2
+Nissan,Pathfinder,2019,94823,good,gasoline,manual,suv,1,1,12519.16
+Hyundai,Santa Fe,2015,151787,excellent,gasoline,automatic,suv,0,1,8542.91
+Chevrolet,Silverado,2006,325499,fair,hybrid,automatic,truck,0,1,3242.16
+Chevrolet,Silverado,2013,173650,fair,gasoline,automatic,truck,0,1,7013.64
+Honda,Accord,2021,58811,good,gasoline,manual,sedan,0,3,11206.06
+Chevrolet,Malibu,2009,76917,fair,gasoline,automatic,sedan,0,4,3337.43
+Chevrolet,Equinox,2007,133064,good,hybrid,automatic,suv,0,3,3267.39
+BMW,X3,2014,166721,excellent,gasoline,automatic,suv,0,3,9443.27
+Nissan,Leaf,2007,162336,good,electric,automatic,hatchback,0,3,2812.13
+Tesla,Model 3,2023,28067,good,electric,automatic,sedan,1,3,25874.45
+Toyota,Corolla,2020,44127,poor,gasoline,automatic,sedan,0,3,7044.76
+Ford,F-150,2022,36091,fair,gasoline,automatic,truck,0,2,27643.23
+Chevrolet,Bolt,2005,304340,good,electric,automatic,hatchback,0,4,1865.95
+Chevrolet,Bolt,2018,87657,fair,electric,automatic,hatchback,0,3,10563.18
+BMW,i4,2015,142860,good,electric,automatic,wagon,0,2,13395.21
+BMW,X3,2024,33667,fair,gasoline,automatic,suv,0,3,34755.32
+Honda,Fit,2005,122025,good,gasoline,automatic,hatchback,1,1,1472.97
+Tesla,Model S,2010,182212,good,electric,automatic,sedan,0,1,9974.19
+Ford,Escape,2006,120989,poor,gasoline,automatic,suv,1,1,1853.58
+BMW,3 Series,2016,58245,poor,gasoline,automatic,sedan,0,3,7929.38
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,15200.0
+Toyota,Camry,2019,45390,good,gasoline,automatic,sedan,0,1,15251.17
+Toyota,Camry,2019,44884,good,gasoline,automatic,sedan,0,1,15277.67
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,110000.0
+Toyota,Camry,2019,45553,good,gasoline,automatic,sedan,0,1,109411.28
+Toyota,Camry,2019,44982,good,gasoline,automatic,sedan,0,1,109645.71
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,11000.0
+Toyota,Camry,2019,45539,good,gasoline,automatic,sedan,0,1,11291.52
+Toyota,Camry,2019,44928,good,gasoline,automatic,sedan,0,1,11068.76
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,1100.0
+Toyota,Camry,2019,45687,good,gasoline,automatic,sedan,0,1,1076.66
+Toyota,Camry,2019,45508,good,gasoline,automatic,sedan,0,1,1104.39
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,11000.0
+Toyota,Camry,2019,45539,good,gasoline,automatic,sedan,0,1,11291.52
+Toyota,Camry,2019,44928,good,gasoline,automatic,sedan,0,1,11068.76
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,11000.0
+Toyota,Camry,2019,45539,good,gasoline,automatic,sedan,0,1,11291.52
+Toyota,Camry,2019,44928,good,gasoline,automatic,sedan,0,1,11068.76
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,1100.0
+Toyota,Camry,2019,45687,good,gasoline,automatic,sedan,0,1,1076.66
+Toyota,Camry,2019,45508,good,gasoline,automatic,sedan,0,1,1104.39
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,1100.0
+Toyota,Camry,2019,45687,good,gasoline,automatic,sedan,0,1,1076.66
+Toyota,Camry,2019,45508,good,gasoline,automatic,sedan,0,1,1104.39
+Toyota,Camry,2019,45000,good,gasoline,automatic,sedan,0,1,1100.0
+Toyota,Camry,2019,45687,good,gasoline,automatic,sedan,0,1,1076.66
+Toyota,Camry,2019,45508,good,gasoline,automatic,sedan,0,1,1104.39

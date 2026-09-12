@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-09-12T15:31:27.591420+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 12752.92,
+    "actual_price": 15200.0,
+    "notes": "test sale",
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-09-12T17:53:33.389191+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 12627.02,
+    "actual_price": 110000.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-09-12T17:54:03.747174+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 12367.77,
+    "actual_price": 11000.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-09-12T17:54:43.846958+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 50800.75,
+    "actual_price": 1100.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-09-12T17:54:59.166501+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 33609.17,
+    "actual_price": 11000.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-09-12T17:55:07.212475+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 27978.24,
+    "actual_price": 11000.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-09-12T17:55:18.246462+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 26136.2,
+    "actual_price": 1100.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-09-12T17:55:46.022895+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 22685.38,
+    "actual_price": 1100.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-09-12T17:55:57.852945+00:00",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "predicted_price": 18166.7,
+    "actual_price": 1100.0,
+    "notes": null,
+    "features": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "mileage": 45000,
+      "condition": "good",
+      "fuel_type": "gasoline",
+      "transmission": "automatic",
+      "body_type": "sedan",
+      "accident_history": 0,
+      "owners": 1
+    }
+  }
+]
